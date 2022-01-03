@@ -4,13 +4,13 @@
 - [About](#about)
 - [Dataset](#datasets)
 - [Blogs](#blogs)
-- [Libraries and Frameworks](#Libraries and Frameworks)
+- [Libraries and Frameworks](#libraries-and-frameworks)
 
-## About
+# About
 This is a current list of resources related to the research and development of encrypted traffic analysis.
 
-## Datasets
+# Datasets
 
-## Blogs
+# Blogs
 
-## Libraries and Frameworks
+# Libraries and Frameworks
