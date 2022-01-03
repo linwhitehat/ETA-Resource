@@ -1,2 +1,6 @@
-# ETA-Resource
-Materials about Encrypted Traffic Analysis
+# Encrypted Traffic Analysis Resources
+
+## Content
+- [About](#about)
+
+## About
