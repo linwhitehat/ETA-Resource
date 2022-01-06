@@ -9,6 +9,7 @@
 - [Anonymous](#anonymous)
 - [Blogs](#blogs)
 - [Libraries and Frameworks](#libraries-and-frameworks)
+- [Following](#following)
 
 # About
 This is a current list of resources related to the research and development of encrypted traffic analysis.
@@ -41,3 +42,6 @@ This is a current list of resources related to the research and development of e
 * [scapy](https://scapy.net/)
 * [wireshark](https://www.wireshark.org/)
 * [Cisco Talos](https://talosintelligence.com/software)
+
+# Following
+* [CETAnalytics: Comprehensive effective traffic information analytics for encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128619309466) (ETA-generalization)
