@@ -38,7 +38,7 @@ SOFTWARE.
 - [About](#about)
 - [Dataset](#datasets)
 - [Survey](#survey)
-- [Encrypted Traffic Classification](#encrypted-traffic-classification)
+- [Network Traffic Classification](#network-traffic-classification)
 - [IPv6](#ipv6)
 - [Anonymous](#anonymous)
 - [ETA with Pre-training](#eta-with-pre-training)
@@ -59,7 +59,7 @@ This is a current list of resources related to the research and development of e
 # Survey
 * [Deep Learning for Encrypted Traffic Classification: An Overview](https://ieeexplore.ieee.org/document/8713803/). Shahbaz Rezaei. IEEE Communications Magazine 2019.
 
-# Encrypted Traffic Classification
+# Network Traffic Classification
 * [Classifying encrypted traffic using adaptive fingerprints with multi-level attributes](https://link.springer.com/article/10.1007%2Fs11280-021-00940-0). Chang Liu. WWW Journal 2021.
 * [FlowPrint: Semi-Supervised Mobile-App Fingerprinting on Encrypted Network Traffic](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24412.pdf). van Ede, Thijs. NDSS 2020. [[code]](https://github.com/Thijsvanede/FlowPrint)
 * [FS-Net: A Flow Sequence Network For Encrypted Traffic Classification](https://ieeexplore.ieee.org/document/8737507). Chang Liu. INFOCOM 2019. [[code]](https://github.com/WSPTTH/FS-Net)
