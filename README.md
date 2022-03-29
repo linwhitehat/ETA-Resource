@@ -21,7 +21,7 @@ SOFTWARE.
 -->
 
 <h1 align="center">
-    <p>Encrypted Traffic Analysis Resources</p>
+    <p>Encrypted Network Traffic Analysis Resources</p>
 </h1>
 
 <p align="center">
