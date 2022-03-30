@@ -73,14 +73,14 @@ This is a current list of resources related to the research and development of e
 ## Vedio
 * [Walls Have Ears: Traffic-based Side-channel Attack in Video Streaming](https://ieeexplore.ieee.org/abstract/document/8486211). Jiaxi Gu. IEEE INFOCOM 2018.
 
-## ETA with Pre-training
+## ETA with Pre-training (Generalization)
 * [ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://arxiv.org/abs/2202.06335). Xinjie Lin. WWW 2022. [[code]](https://github.com/linwhitehat/et-bert)
 
-## ETA with N-shot Learning (few-shot, imbalance)
+## ETA with N-shot Learning (Few-shot, Imbalance)
 * [Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning](https://dl.acm.org/doi/abs/10.1145/3319535.3354217). Payap Sirinam. CCS 2019. [[code]](https://github.com/triplet-fingerprinting/tf)
 
 ## Following
-* [CETAnalytics: Comprehensive effective traffic information analytics for encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128619309466) (ETA-generalization)
+* [CETAnalytics: Comprehensive effective traffic information analytics for encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128619309466) (Generalization)
 
 # IPv6
 * [6GAN: IPv6 Multi-Pattern Target Generation via Generative Adversarial Nets with Reinforcement Learning](https://ieeexplore.ieee.org/document/9488912). Tianyu Cui. INFOCOM 2021. [[code]](https://github.com/CuiTianyu961030/6GAN)
