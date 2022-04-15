@@ -106,3 +106,10 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 * [pyshark](https://kiminewt.github.io/pyshark/)
 * [Cisco Talos](https://talosintelligence.com/software)
 * [Proxifier](https://www.proxifier.com/)
+
+# What's New
+**Version 1.0**
+
+> April 15, 2022 
+
+1. 欢迎来自中科院信工所的4位优秀博士加入。
