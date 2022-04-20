@@ -20,19 +20,30 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 -->
 
+<h3 align="center">
+    <img src="https://github.com/linwhitehat/ETA-Resource/blob/main/ETA.png">
+</h3>
+
 <h1 align="center">
     <p>Encrypted Network Traffic Analysis Resources</p>
 </h1>
 
 <p align="center">
     <a href="https://github.com/linwhitehat/ETA-Resource/blob/main/LICENSE">
-        <img alt="GitHub" src="https://img.shields.io/github/license/linwhitehat/ETA-Resource.svg?color=blue">
+        <img alt="GitHub" src="https://img.shields.io/github/license/linwhitehat/ETA-Resource.svg?color=green">
     </a>
+    <img src="https://img.shields.io/github/stars/linwhitehat/ETA-Resource">
+    <img src="https://img.shields.io/github/forks/linwhitehat/ETA-Resource">
+    <a href="https://github.com/linwhitehat/ETA-Resource/graphs/traffic">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=linwhitehat.ETA-Resource&left_text=Hi!%20visitors">
+    </a>
+    <a href="https://github.com/linwhitehat/ETA-Resource#contributors-"><img src="https://img.shields.io/badge/all_contributors-5-orange.svg"></a>
 </p>
 
-<h3 align="center">
-    <img src="https://github.com/linwhitehat/ETA-Resource/blob/main/ETA.png">
-</h3>
+**Note:**
+- ⭐ **Please leave a <font color='orange'>STAR</font> if you like this project!** ⭐
+- If you find any <font color='red'>incorrect</font> / <font color='red'>inappropriate</font> / <font color='red'>outdated</font> content, please kindly consider opening an issue or a PR. 
+- We would greatly appreciate your contribution to this list, and you will appear in the [contributors✨](#contributors-)!
 
 # Content
 - [About](#about)
