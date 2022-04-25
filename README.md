@@ -123,7 +123,7 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 
 > April 15, 2022 
 
-1. 欢迎来自中科院信工所的4位优秀博士加入。
+1. Welcome to the ph.Ds from IIE,CAS.
 
 # Contributors 🌟
 
