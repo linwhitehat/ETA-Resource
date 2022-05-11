@@ -62,6 +62,7 @@ This is a current list of resources related to the research and development of e
 * [Cross-Platform](https://recon.meddle.mobi/cross-market.html) (iOS and Android Apps)
 * [Malware Capture Facility Project](https://www.stratosphereips.org/datasets-overview) (Malware)
 * [CSTNET-TLS 1.3](https://drive.google.com/drive/folders/1JSsYmevkxQFanoKOi_i1ooA6pH3s9sDr?usp=sharing) (TLS 1.3 services)
+* [Network-based Intrusion Detection](https://www.sciencedirect.com/science/article/pii/S016740481930118X) (AWID, Botnet, CIC DoS, CICIDS, CIDDS, CTU, DARPA, ISCX, IRSC)
 
 # Survey
 * [Deep Learning for Encrypted Traffic Classification: An Overview](https://ieeexplore.ieee.org/document/8713803/). Shahbaz Rezaei. IEEE Communications Magazine 2019.
