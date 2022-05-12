@@ -101,6 +101,8 @@ This is a current list of resources related to the research and development of e
 
 # Teams
 * [Tao Wang](https://www.cs.sfu.ca/~taowang/) (Simon Fraser University/Canada)
+* [Haixin Duan](http://netsec.ccert.edu.cn/people/duanhx/) (Tsinghua University/China)
+* [Xiaofeng Wang](https://homes.luddy.indiana.edu/xw7/) (Indiana University Bloomington/United States)
 
 # Blogs
 ## Network Traffic Knowledge
