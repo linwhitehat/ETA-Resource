@@ -111,8 +111,10 @@ This is a current list of resources related to the research and development of e
 * [TTAGN: Temporal transaction aggregation graph network for ethereum phishing scams detection](https://dl.acm.org/doi/abs/10.1145/3485447.3512226). Sijia Li. WWW 2022.
 
 # Teams
-* [Tao Wang](https://www.cs.sfu.ca/~taowang/) (Simon Fraser University/Canada)
+* [Jiahai Yang](https://nmgroup.tsinghua.edu.cn/yjh/) (Tsinghua University/China)
+* [Ke Xu](http://www.thucsnet.org/xuke.html) (Tsinghua University/China)
 * [Haixin Duan](http://netsec.ccert.edu.cn/people/duanhx/) (Tsinghua University/China)
+* [Tao Wang](https://www.cs.sfu.ca/~taowang/) (Simon Fraser University/Canada)
 * [Xiaofeng Wang](https://homes.luddy.indiana.edu/xw7/) (Indiana University Bloomington/United States)
 
 # Blogs
