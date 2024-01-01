@@ -37,7 +37,7 @@ SOFTWARE.
     <a href="https://github.com/linwhitehat/ETA-Resource/graphs/traffic">
     <img src="https://visitor-badge.glitch.me/badge?page_id=linwhitehat.ETA-Resource&left_text=Hi!%20visitors">
     </a>
-    <a href="https://github.com/linwhitehat/ETA-Resource#contributors-"><img src="https://img.shields.io/badge/all_contributors-5-orange.svg"></a>
+    <a href="https://github.com/linwhitehat/ETA-Resource#contributors-"><img src="https://img.shields.io/badge/all_contributors-2-orange.svg"></a>
 </p>
 
 **Note:**
