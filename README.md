@@ -37,7 +37,7 @@ SOFTWARE.
     <a href="https://github.com/linwhitehat/ETA-Resource/graphs/traffic">
     <img src="https://visitor-badge.glitch.me/badge?page_id=linwhitehat.ETA-Resource&left_text=Hi!%20visitors">
     </a>
-    <a href="https://github.com/linwhitehat/ETA-Resource#contributors-"><img src="https://img.shields.io/badge/all_contributors-2-orange.svg"></a>
+    <a href="https://github.com/linwhitehat/ETA-Resource#contributors-"><img src="https://img.shields.io/badge/all_contributors-5-orange.svg"></a>
 </p>
 
 **Note:**
@@ -128,6 +128,7 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 * [wireshark](https://www.wireshark.org/)
 * [pyshark](https://kiminewt.github.io/pyshark/)
 * [Cisco Talos](https://talosintelligence.com/software)
+* [Joy](https://github.com/cisco/joy)
 * [Proxifier](https://www.proxifier.com/)
 
 # What's New
