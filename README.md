@@ -87,6 +87,7 @@ This is a current list of resources related to the research and development of e
 
 ## Vedio
 * [Walls Have Ears: Traffic-based Side-channel Attack in Video Streaming](https://ieeexplore.ieee.org/abstract/document/8486211). Jiaxi Gu. IEEE INFOCOM 2018.
+* [Traffic spills the beans: A robust video identification attack against YouTube](https://www.sciencedirect.com/science/article/abs/pii/S0167404823005333). Xiyuan Zhang. Computers & Security 2024.
 
 ## ETA with Pre-training (Generalization)
 * [ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://arxiv.org/abs/2202.06335). Xinjie Lin. WWW 2022. [[code]](https://github.com/linwhitehat/et-bert)
