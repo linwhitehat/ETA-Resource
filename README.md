@@ -114,6 +114,8 @@ This is a current list of resources related to the research and development of e
 * [Jiahai Yang](https://nmgroup.tsinghua.edu.cn/yjh/) (Tsinghua University/China)
 * [Ke Xu](http://www.thucsnet.org/xuke.html) (Tsinghua University/China)
 * [Haixin Duan](http://netsec.ccert.edu.cn/people/duanhx/) (Tsinghua University/China)
+* [Gang Xiong](https://people.ucas.ac.cn/~xionggang) (Institute of Information Engineering, Chinese Academy of Sciences/China)
+* [Zhenyu Li](http://www.ict.ac.cn/sourcedb_2018_ict_cas/cn/jssrck/201111/t20111114_3395505.html) (Institute of Computing Technology, Chinese Academy of Sciences/China)
 * [Tao Wang](https://www.cs.sfu.ca/~taowang/) (Simon Fraser University/Canada)
 * [Xiaofeng Wang](https://homes.luddy.indiana.edu/xw7/) (Indiana University Bloomington/United States)
 
