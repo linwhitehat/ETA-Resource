@@ -124,6 +124,7 @@ This is a current list of resources related to the research and development of e
 # Blogs
 ## Network Traffic Knowledge
 * [Icoding_F2014](https://blog.csdn.net/jmh1996)
+* [Malware-Traffic-Analysis](https://www.malware-traffic-analysis.net/)
 
 ## Network Traffic Analysis Tool Manual
 * [Tshark](https://www.wireshark.org/docs/man-pages/tshark.html)
