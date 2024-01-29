@@ -132,6 +132,7 @@ This is a current list of resources related to the research and development of e
 ## Network Traffic Analysis Tool Manual
 * [Tshark](https://www.wireshark.org/docs/man-pages/tshark.html)
 * [pyshark](https://github.com/KimiNewt/pyshark)
+* [traffic_classification_utils](https://github.com/jmhIcoding/traffic_classification_utils)
 <!--
 https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 -->
