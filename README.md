@@ -35,7 +35,7 @@ SOFTWARE.
     <img src="https://img.shields.io/github/stars/linwhitehat/ETA-Resource">
     <img src="https://img.shields.io/github/forks/linwhitehat/ETA-Resource">
     <a href="https://github.com/linwhitehat/ETA-Resource/graphs/traffic">
-    <img src="https://vbr.wocr.tk/badge?page_id=linwhitehat.ETA-Resource&left_text=Hi!%20visitors">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flinwhitehat%2FETA-Resource&label=visitor%20%20%20&labelColor=%23697689&countColor=%232ccce4&style=flat">
     </a>
     <a href="https://github.com/linwhitehat/ETA-Resource#contributors-"><img src="https://img.shields.io/badge/Contributors-6-orange.svg"></a>
 </p>
