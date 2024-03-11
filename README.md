@@ -26,6 +26,7 @@ SOFTWARE.
 
 <h1 align="center">
     <p>Encrypted Network Traffic Analysis Resources</p>
+    <p>加密流量分析相关研究资源汇总</p>
 </h1>
 
 <p align="center">
