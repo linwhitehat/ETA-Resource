@@ -54,7 +54,7 @@ SOFTWARE.
 - [IPv6](#ipv6)
 - [Teams](#teams)
 - [Blogs](#blogs)
-- [Libraries and Frameworks](#libraries-and-frameworks)
+- [Libraries and Frameworks](#tool-libraries-and-frameworks)
 
 # About
 This is a current list of resources related to the research and development of encrypted traffic analysis. We comb the field for relevant representative work and related resources, and pay more attention to typical studies and research teams.
@@ -65,8 +65,8 @@ This is a current list of resources related to the research and development of e
 * [Malware Capture Facility Project](https://www.stratosphereips.org/datasets-overview) (Malware)
 * [CSTNET-TLS 1.3](https://drive.google.com/drive/folders/1JSsYmevkxQFanoKOi_i1ooA6pH3s9sDr?usp=sharing) (TLS 1.3 services)
 * [Network-based Intrusion Detection](https://www.sciencedirect.com/science/article/pii/S016740481930118X) (AWID, Botnet, CIC DoS, CICIDS, CIDDS, CTU, DARPA, ISCX, IRSC)
-* [MobileTraffic](https://github.com/Abby-ZS/NUDT_MobileTraffic)(300+ Mobile Apps)
-* [Itc-Net-Blend-60](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4661706)(Android applications in Diverse Environments)
+* [MobileTraffic](https://github.com/Abby-ZS/NUDT_MobileTraffic) (300+ Mobile Apps)
+* [Itc-Net-Blend-60](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4661706) (Android applications in Diverse Environments)
 
 # Survey
 * [Deep Learning for Encrypted Traffic Classification: An Overview](https://ieeexplore.ieee.org/document/8713803/). Shahbaz Rezaei. IEEE Communications Magazine 2019.
