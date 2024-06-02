@@ -137,7 +137,6 @@ This is a current list of resources related to the research and development of e
 * [Zhenyu Li](http://www.ict.ac.cn/sourcedb_2018_ict_cas/cn/jssrck/201111/t20111114_3395505.html) (Institute of Computing Technology, Chinese Academy of Sciences/China)
 * [Liehuang Zhu](https://cs.bit.edu.cn/szdw/jsml/wlkjaqxy/zlh/index.htm) (Beijing Institute of Technology/China)
 * [Guang Cheng](https://cyber.seu.edu.cn/cg1/list.htm) (Southeast University/China)
-* [Jun Tao](https://cyber.seu.edu.cn/_s303/tj1/list.psp) (Southeast University/China)
 * [Tao Wang](https://www.cs.sfu.ca/~taowang/) (Simon Fraser University/Canada)
 * [Xiaofeng Wang](https://homes.luddy.indiana.edu/xw7/) (Indiana University Bloomington/United States)
 
