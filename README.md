@@ -51,7 +51,7 @@ SOFTWARE.
 - [Dataset](#datasets)
 - [Survey](#survey)
 - [Network Traffic Classification](#network-traffic-classification)
-- [IPv6](#ipv6)
+- [Measurement](#measurement)
 - [Ethereum](#ethereum)
 - [Teams](#teams)
 - [Blogs](#blogs)
@@ -113,7 +113,7 @@ This is a current list of resources related to the research and development of e
 ## ETA with N-shot Learning (Few-shot, Imbalance)
 * [Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning](https://dl.acm.org/doi/abs/10.1145/3319535.3354217). Payap Sirinam. CCS 2019. [[code]](https://github.com/triplet-fingerprinting/tf)
 
-# IPv6
+# Measurement
 * [6GAN: IPv6 Multi-Pattern Target Generation via Generative Adversarial Nets with Reinforcement Learning](https://ieeexplore.ieee.org/document/9488912). Tianyu Cui. INFOCOM 2021. [[code]](https://github.com/CuiTianyu961030/6GAN)
 * [SiamHAN: IPv6 Address Correlation Attacks on TLS Encrypted Traffic via Siamese Heterogeneous Graph Attention Network](https://www.usenix.org/conference/usenixsecurity21/presentation/cui). Tianyu Cui. USENIX 2021. [[code]](https://github.com/CuiTianyu961030/SiamHAN)
 * [6VecLM: Language Modeling in Vector Space for IPv6 Target Generation](https://link.springer.com/chapter/10.1007%2F978-3-030-67667-4_12). Tianyu Cui. ECML/PKDD 2020. [[code]](https://github.com/CuiTianyu961030/6VecLM)
