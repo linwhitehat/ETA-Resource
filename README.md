@@ -141,6 +141,8 @@ This is a current list of resources related to the research and development of e
 * [Guang Cheng](https://cyber.seu.edu.cn/cg1/list.htm) (Southeast University/China)
 * [Tao Wang](https://www.cs.sfu.ca/~taowang/) (Simon Fraser University/Canada)
 * [Xiaofeng Wang](https://homes.luddy.indiana.edu/xw7/) (Indiana University Bloomington/United States)
+* [Ivan Martinovic](https://www.cs.ox.ac.uk/people/ivan.martinovic/) (University of Oxford/United Kingdom)
+* [Amir Houmansadr](https://people.cs.umass.edu/~amir/) (University of Massachusetts Amherst/United States)
 
 # Blogs
 ## Network Traffic Knowledge
