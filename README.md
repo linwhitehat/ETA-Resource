@@ -138,8 +138,10 @@ This is a current list of resources related to the research and development of e
 * Chinese Academy of Sciences/China
     * [Gang Xiong](https://people.ucas.ac.cn/~xionggang) (Institute of Information Engineering)
     * [Zhenyu Li](http://www.ict.ac.cn/sourcedb_2018_ict_cas/cn/jssrck/201111/t20111114_3395505.html) (Institute of Computing Technology)
+* Beijing Institute of Technology/China
+    * [Liehuang Zhu](https://cs.bit.edu.cn/szdw/jsml/wlkjaqxy/zlh/index.htm)
+    * [Meng Shen](https://cst.bit.edu.cn/szdw/jsml/bssds/86728e84066248b0b13bdf04f685817f.htm)
 * [Xiaohong Guan](https://www.xjtu.edu.cn/jsnr.jsp?wbtreeid=1632&wbwbxjtuteacherid=502) (Xi'an Jiaotong University/China)
-* [Liehuang Zhu](https://cs.bit.edu.cn/szdw/jsml/wlkjaqxy/zlh/index.htm) (Beijing Institute of Technology/China)
 * [Guang Cheng](https://cyber.seu.edu.cn/cg1/list.htm) (Southeast University/China)
 * Overseas Teams
     * [Tao Wang](https://www.cs.sfu.ca/~taowang/) (Simon Fraser University/Canada)
