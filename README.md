@@ -50,7 +50,7 @@ SOFTWARE.
 - [About](#about)
 - [Dataset](#datasets)
 - [Survey](#survey)
-- [Network Traffic Classification](#network-traffic-classification)
+- [Network Traffic Classification](#network-traffic-analysis)
 - [Measurement](#measurement)
 - [Ethereum](#ethereum)
 - [Teams](#teams)
@@ -75,7 +75,7 @@ This is a current list of resources related to the research and development of e
 * [Towards the Deployment of Machine Learning Solutions in Network Traffic Classification: A Systematic Survey](https://ieeexplore.ieee.org/document/8543584). Fannia Pacheco. IEEE Communications Surveys & Tutorials 2019.
 * [Deep Learning in Mobile and Wireless Networking: A Survey](https://ieeexplore.ieee.org/document/8666641). Chaoyun Zhang. IEEE Communications Surveys & Tutorials 2019.
 
-# Network Traffic Classification
+# Network Traffic Analysis
 
 ## Traditional Target (Web, App, Malware, Gambling)
 * [Point Cloud Analysis for ML-Based Malicious Traffic Detection: Reducing Majorities of False Positive Alarms](https://dl.acm.org/doi/10.1145/3576915.3616631). Chuanpu Fu. CCS 2023.
