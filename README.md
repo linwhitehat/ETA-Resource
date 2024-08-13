@@ -134,6 +134,7 @@ This is a current list of resources related to the research and development of e
 * Tsinghua University/China
     * [Ke Xu](http://www.thucsnet.org/xuke.html)
     * [Jiahai Yang](https://nmgroup.tsinghua.edu.cn/yjh/)
+    * [Chao Zhang](https://netsec.ccert.edu.cn/chs/people/chaoz/)
     * [Haixin Duan](http://netsec.ccert.edu.cn/people/duanhx/)
 * Chinese Academy of Sciences/China
     * [Gang Xiong](https://people.ucas.ac.cn/~xionggang) (Institute of Information Engineering)
@@ -141,7 +142,6 @@ This is a current list of resources related to the research and development of e
 * Beijing Institute of Technology/China
     * [Liehuang Zhu](https://cs.bit.edu.cn/szdw/jsml/wlkjaqxy/zlh/index.htm)
     * [Meng Shen](https://cst.bit.edu.cn/szdw/jsml/bssds/86728e84066248b0b13bdf04f685817f.htm)
-* [Binxing Fang](https://www.gzhu.edu.cn/info/1105/3650.htm) (Guangzhou University/China)
 * [Xiaohong Guan](https://www.xjtu.edu.cn/jsnr.jsp?wbtreeid=1632&wbwbxjtuteacherid=502) (Xi'an Jiaotong University/China)
 * [Guang Cheng](https://cyber.seu.edu.cn/cg1/list.htm) (Southeast University/China)
 * Overseas Teams
