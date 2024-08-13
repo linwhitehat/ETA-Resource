@@ -50,7 +50,7 @@ SOFTWARE.
 - [About](#about)
 - [Dataset](#datasets)
 - [Survey](#survey)
-- [Network Traffic Classification](#network-traffic-analysis)
+- [Network Traffic Analysis](#network-traffic-analysis)
 - [Measurement](#measurement)
 - [Ethereum](#ethereum)
 - [Teams](#teams)
