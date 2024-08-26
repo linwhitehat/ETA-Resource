@@ -99,7 +99,7 @@ Fingerprinting (SWF))
 
 ## Traditional Target (Web, App, Malware, Gambling, User Activities, Intrusion Detection, IoT, Streaming Media)
 * General
-    * [An Input-Agnostic Hierarchical Deep Learning Framework for Traffic Fingerprinting](https://www.usenix.org/conference/usenixsecurity23/presentation/qu). Jian Qu. USENIX 2023.
+    * [An Input-Agnostic Hierarchical Deep Learning Framework for Traffic Fingerprinting](https://www.usenix.org/conference/usenixsecurity23/presentation/qu). Jian Qu. USENIX 2023. [[code]](https://github.com/shashadehuajiang/trace_classifier/tree/main)
     * [Classifying encrypted traffic using adaptive fingerprints with multi-level attributes](https://link.springer.com/article/10.1007%2Fs11280-021-00940-0). Chang Liu. WWW Journal 2021.
     * [CETAnalytics: Comprehensive effective traffic information analytics for encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128619309466) (Generalization). Cong Dong. Computer Networks 2020.
     * [FlowPrint: Semi-Supervised Mobile-App Fingerprinting on Encrypted Network Traffic](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24412.pdf). van Ede, Thijs. NDSS 2020. [[code]](https://github.com/Thijsvanede/FlowPrint)
@@ -130,6 +130,8 @@ Fingerprinting (SWF))
 * [Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning](https://dl.acm.org/doi/abs/10.1145/3243734.3243768). Payap Sirinam. CCS 2018. [[code]](https://github.com/deep-fingerprinting/df)
 
 # Measurement
+* [A Worldwide View on the Reachability of Encrypted DNS Services](https://dl.acm.org/doi/abs/10.1145/3589334.3645539). Ruixuan Li. WWW 2024.
+* [Investigating Deployment Issues of DNS Root Server Instances from a China-wide View](https://ieeexplore.ieee.org/abstract/document/10460172/keywords#keywords). Fenglu Zhang. IEEE Transactions on Dependable and Secure Computing 2024.
 * [6GAN: IPv6 Multi-Pattern Target Generation via Generative Adversarial Nets with Reinforcement Learning](https://ieeexplore.ieee.org/document/9488912). Tianyu Cui. INFOCOM 2021. [[code]](https://github.com/CuiTianyu961030/6GAN)
 * [SiamHAN: IPv6 Address Correlation Attacks on TLS Encrypted Traffic via Siamese Heterogeneous Graph Attention Network](https://www.usenix.org/conference/usenixsecurity21/presentation/cui). Tianyu Cui. USENIX 2021. [[code]](https://github.com/CuiTianyu961030/SiamHAN)
 * [6VecLM: Language Modeling in Vector Space for IPv6 Target Generation](https://link.springer.com/chapter/10.1007%2F978-3-030-67667-4_12). Tianyu Cui. ECML/PKDD 2020. [[code]](https://github.com/CuiTianyu961030/6VecLM)
