@@ -161,8 +161,9 @@ Fingerprinting (SWF))
 * [Xiaohong Guan](https://www.xjtu.edu.cn/jsnr.jsp?wbtreeid=1632&wbwbxjtuteacherid=502) (Xi'an Jiaotong University/China)
 * [Guang Cheng](https://cyber.seu.edu.cn/cg1/list.htm) (Southeast University/China)
 * Overseas Teams
-    * [Tao Wang](https://www.cs.sfu.ca/~taowang/) (Simon Fraser University/Canada)
+    * [Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) (University of Waterloo/Canada)
     * [Xiaofeng Wang](https://homes.luddy.indiana.edu/xw7/) (Indiana University Bloomington/United States)
+    * [Tao Wang](https://www.cs.sfu.ca/~taowang/) (Simon Fraser University/Canada)
     * [Ivan Martinovic](https://www.cs.ox.ac.uk/people/ivan.martinovic/) (University of Oxford/United Kingdom)
     * [Amir Houmansadr](https://people.cs.umass.edu/~amir/) (University of Massachusetts Amherst/United States)
 
