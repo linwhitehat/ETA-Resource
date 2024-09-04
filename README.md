@@ -64,6 +64,7 @@ This is a current list of resources related to the research and development of e
 
 # Datasets
 * [Canadian Institute for Cybersecurity Datasets](https://www.unb.ca/cic/datasets/) (DNS, IDS, DoS, Darknet, Tor, VPN, Botnet, Malware)
+* [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/) (IoT, Botnet, Cloud Security)
 * [Cross-Platform](https://recon.meddle.mobi/cross-market.html) (iOS and Android Apps)
 * [Malware Capture Facility Project](https://www.stratosphereips.org/datasets-overview) (Malware)
 * [CSTNET-TLS 1.3](https://drive.google.com/drive/folders/1JSsYmevkxQFanoKOi_i1ooA6pH3s9sDr?usp=sharing) (TLS 1.3 services)
@@ -73,6 +74,8 @@ This is a current list of resources related to the research and development of e
 * [Network-Flow-of-QUIC](https://drive.google.com/drive/folders/1cwHhzvaQbi-ap8yfrj2vHyPmUTQhaYOj) (QUIC services)
 * [Network Multiflow Fingerprinting Datasets](https://www.kaggle.com/datasets/fuukaa/network-multiflow-fingerprinting-datasets?datasetId=3270419&select=Keyword+Search+Dataset+Pcap) (User Activities (UAV), IoT Device Identification (IDI), Intrusion Detection (ISD), Keyword Searching (KWS), Shadowsocks Website 
 Fingerprinting (SWF))
+* [CTU-13](https://mcfp.weebly.com/the-ctu-13-dataset-a-labeled-dataset-with-botnet-normal-and-background-traffic.html) (Botnet, Malware)
+* [ANT datasets](https://ant.isi.edu/datasets/index.html) (Botnet, IoT, DNS, IP Geolocation)
 
 # Survey
 * [Deep learning and pre-training technology for encrypted traffic classification: A comprehensive review](https://www.sciencedirect.com/science/article/pii/S0925231224012153). Wenqi Dong. Neurocomputing 2024.
