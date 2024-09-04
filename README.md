@@ -75,7 +75,7 @@ This is a current list of resources related to the research and development of e
 * [Network Multiflow Fingerprinting Datasets](https://www.kaggle.com/datasets/fuukaa/network-multiflow-fingerprinting-datasets?datasetId=3270419&select=Keyword+Search+Dataset+Pcap) (User Activities (UAV), IoT Device Identification (IDI), Intrusion Detection (ISD), Keyword Searching (KWS), Shadowsocks Website 
 Fingerprinting (SWF))
 * [CTU-13](https://mcfp.weebly.com/the-ctu-13-dataset-a-labeled-dataset-with-botnet-normal-and-background-traffic.html) (Botnet, Malware)
-* [ANT datasets](https://ant.isi.edu/datasets/index.html) (Botnet, IoT, DNS, IP Geolocation)
+* [ANT Datasets](https://ant.isi.edu/datasets/index.html) (Botnet, IoT, DNS, IP Geolocation)
 
 # Survey
 * [Deep learning and pre-training technology for encrypted traffic classification: A comprehensive review](https://www.sciencedirect.com/science/article/pii/S0925231224012153). Wenqi Dong. Neurocomputing 2024.
