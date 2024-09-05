@@ -124,9 +124,10 @@ Fingerprinting (SWF))
     * [Walls Have Ears: Traffic-based Side-channel Attack in Video Streaming](https://ieeexplore.ieee.org/abstract/document/8486211). Jiaxi Gu. IEEE INFOCOM 2018.
 
 ## Anonymous and VPN
-* [Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization](). Meng Shen. Symposium on Security and Privacy(S&P) 2024.
+* [Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a263/1WPcZnZILHa). Meng Shen. Symposium on Security and Privacy(S&P) 2024.
 * [HSDirSniper: A New Attack Exploiting Vulnerabilities in Tor's Hidden Service Directories](https://dl.acm.org/doi/10.1145/3589334.3645591). Qingfeng Zhang. WWW 2024.
 * [VPNSniffer: Identifying VPN Servers Through Graph-Represented Behaviors](https://dl.acm.org/doi/10.1145/3589334.3645552). Chenxu Wang. WWW 2024.
+* [AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN](https://dl.acm.org/doi/10.1145/3543507.3583473). Sanghak Oh. WWW 2023.
 * [Subverting Website Fingerprinting Defenses with Robust Traffic Representation](https://www.usenix.org/conference/usenixsecurity23/presentation/shen-meng). Meng Shen. USENIX 2023.
 * [Transformer-based Model for Multi-tab Website Fingerprinting Attack](https://dl.acm.org/doi/abs/10.1145/3576915.3623107). Zhaoxin Jin. CCS 2023.
 * [Online Website Fingerprinting: Evaluating Website Fingerprinting Attacks on Tor in the Real World](https://www.usenix.org/conference/usenixsecurity22/presentation/cherubin). Giovanni Cherubin. USENIX 2022.
