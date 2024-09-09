@@ -76,6 +76,9 @@ This is a current list of resources related to the research and development of e
 Fingerprinting (SWF))
 * [CTU-13](https://mcfp.weebly.com/the-ctu-13-dataset-a-labeled-dataset-with-botnet-normal-and-background-traffic.html) (Botnet, Malware)
 * [ANT Datasets](https://ant.isi.edu/datasets/index.html) (Botnet, IoT, DNS, IP Geolocation)
+* [LFETT2021 Dataset](https://github.com/HoneyPotter-Gzy/LFETT2021-dataset) (Tunnel, Proxy, VPN)
+* [AnonProxy2023](https://github.com/MrRobotsAA/AnonProxy2023-Dataset) (Anonymous, Proxy, VPN)
+* [DataCon2021-加密代理流量数据集](https://datacon.qianxin.com/opendata/openpage?resourcesId=10) (Proxy, VPN)
 
 # Survey
 * [Deep learning and pre-training technology for encrypted traffic classification: A comprehensive review](https://www.sciencedirect.com/science/article/pii/S0925231224012153). Wenqi Dong. Neurocomputing 2024.
