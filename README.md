@@ -160,6 +160,7 @@ Fingerprinting (SWF))
     * [Haixin Duan](http://netsec.ccert.edu.cn/people/duanhx/)
 * Chinese Academy of Sciences/China
     * [Gang Xiong](https://people.ucas.ac.cn/~xionggang) (Institute of Information Engineering)
+    * [Qingyun Liu](https://people.ucas.ac.cn/~0027674) (Institute of Information Engineering)
     * [Zhenyu Li](http://www.ict.ac.cn/sourcedb_2018_ict_cas/cn/jssrck/201111/t20111114_3395505.html) (Institute of Computing Technology)
 * Beijing Institute of Technology/China
     * [Liehuang Zhu](https://cs.bit.edu.cn/szdw/jsml/wlkjaqxy/zlh/index.htm)
