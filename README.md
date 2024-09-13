@@ -81,7 +81,6 @@ Fingerprinting (SWF))
 * [DataCon2021-加密代理流量数据集](https://datacon.qianxin.com/opendata/openpage?resourcesId=10) (Proxy, VPN)
 
 # Survey
-* [Deep learning and pre-training technology for encrypted traffic classification: A comprehensive review](https://www.sciencedirect.com/science/article/pii/S0925231224012153). Wenqi Dong. Neurocomputing 2024.
 * [Machine Learning-Powered Encrypted Network Traffic Analysis: A Comprehensive Survey](https://ieeexplore.ieee.org/document/9896143). Meng Shen. IEEE Communications Surveys & Tutorials 2023.
 * [Deep Learning for Encrypted Traffic Classification: An Overview](https://ieeexplore.ieee.org/document/8713803/). Shahbaz Rezaei. IEEE Communications Magazine 2019.
 * [Towards the Deployment of Machine Learning Solutions in Network Traffic Classification: A Systematic Survey](https://ieeexplore.ieee.org/document/8543584). Fannia Pacheco. IEEE Communications Surveys & Tutorials 2019.
