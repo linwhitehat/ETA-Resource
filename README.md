@@ -144,6 +144,8 @@ Fingerprinting (SWF))
 * Domain Name System
     * [A Worldwide View on the Reachability of Encrypted DNS Services](https://dl.acm.org/doi/abs/10.1145/3589334.3645539). Ruixuan Li. WWW 2024.
     * [Investigating Deployment Issues of DNS Root Server Instances from a China-wide View](https://ieeexplore.ieee.org/abstract/document/10460172/keywords#keywords). Fenglu Zhang. IEEE Transactions on Dependable and Secure Computing 2024.
+* Privacy and Security
+    * [Privacy protection of China’s top websites: A Multi-layer privacy measurement via network behaviours and privacy policies](https://www.sciencedirect.com/science/article/abs/pii/S0167404822000050). Xinjie Lin. Computers & Security 2022.
 * IPv6
     * [6GAN: IPv6 Multi-Pattern Target Generation via Generative Adversarial Nets with Reinforcement Learning](https://ieeexplore.ieee.org/document/9488912). Tianyu Cui. INFOCOM 2021. [[code]](https://github.com/CuiTianyu961030/6GAN)
     * [SiamHAN: IPv6 Address Correlation Attacks on TLS Encrypted Traffic via Siamese Heterogeneous Graph Attention Network](https://www.usenix.org/conference/usenixsecurity21/presentation/cui). Tianyu Cui. USENIX 2021. [[code]](https://github.com/CuiTianyu961030/SiamHAN)
