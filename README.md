@@ -163,15 +163,29 @@ Fingerprinting (SWF))
     * [Jiahai Yang](https://nmgroup.tsinghua.edu.cn/yjh/)
     * [Chao Zhang](https://netsec.ccert.edu.cn/chs/people/chaoz/)
     * [Haixin Duan](http://netsec.ccert.edu.cn/people/duanhx/)
+    * [Qi Li](https://www.insc.tsinghua.edu.cn/info/1157/2851.htm)
+    * [Jianjun Chen](https://www.jianjunchen.com/)
+    * [Dan Li](https://www.cs.tsinghua.edu.cn/info/1126/3948.htm)
 * Chinese Academy of Sciences/China
     * [Gang Xiong](https://people.ucas.ac.cn/~xionggang) (Institute of Information Engineering)
+    * [Kai Chen](https://people.ucas.ac.cn/~kaichen) (Institute of Information Engineering)
     * [Qingyun Liu](https://people.ucas.ac.cn/~0027674) (Institute of Information Engineering)
     * [Zhenyu Li](http://www.ict.ac.cn/sourcedb_2018_ict_cas/cn/jssrck/201111/t20111114_3395505.html) (Institute of Computing Technology)
 * Beijing Institute of Technology/China
     * [Liehuang Zhu](https://cs.bit.edu.cn/szdw/jsml/wlkjaqxy/zlh/index.htm)
     * [Meng Shen](https://cst.bit.edu.cn/szdw/jsml/bssds/86728e84066248b0b13bdf04f685817f.htm)
-* [Xiaohong Guan](https://www.xjtu.edu.cn/jsnr.jsp?wbtreeid=1632&wbwbxjtuteacherid=502) (Xi'an Jiaotong University/China)
+* Xi'an Jiaotong University/China
+    * [Xiaohong Guan](https://www.xjtu.edu.cn/jsnr.jsp?wbtreeid=1632&wbwbxjtuteacherid=502)
+    * [Chao Shen](https://gr.xjtu.edu.cn/web/cshen)
+* Zhejiang University/China
+    * [Shouling Ji](https://person.zju.edu.cn/sji#0)
+    * [Wenyuan Xu](https://person.zju.edu.cn/wyxu#0)
+    * [Meng Luo](https://person.zju.edu.cn/mengluo#0)
+* Shanghai Jiao Tong University/China
+    * [Guoxing Chen](https://donnod.github.io/)
+    * [Haojin Zhu](https://nsec.sjtu.edu.cn/~hjzhu/)
 * [Guang Cheng](https://cyber.seu.edu.cn/cg1/list.htm) (Southeast University/China)
+* [Fengwei Zhang](https://fengweiz.github.io/) (Southern University of Science and Technology/China)
 * Overseas Teams
     * [Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) (University of Waterloo/Canada)
     * [Xiaofeng Wang](https://homes.luddy.indiana.edu/xw7/) (Indiana University Bloomington/United States)
@@ -181,6 +195,7 @@ Fingerprinting (SWF))
     * [Giuseppe Aceto](http://wpage.unina.it/giuseppe.aceto/) (Università di Napoli Federico II/Italy)
     * [Thorsten Holz](https://cispa.de/en/research/groups/holz) (CISPA Helmholtz Center for Information Security/Germany)
     * [Mohammad Saidur Rahman](https://www.rahmanmsaidur.com/) (University of Texas at El Paso/United States)
+    * [Yue Zhang](https://yue.zyueinfosec.com/) (Drexel University/United States)
 
 # Blogs
 ## Network Traffic Knowledge
