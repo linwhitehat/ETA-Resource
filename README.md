@@ -98,6 +98,7 @@ Fingerprinting (SWF))
 * [ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://dl.acm.org/doi/abs/10.1145/3485447.3512217). Xinjie Lin. WWW 2022. [[code]](https://github.com/linwhitehat/et-bert) [[Reproduce]](https://gitee.com/xxdxxdxxd/et-bert/blob/master/README.md)
 
 ## ETA for Stable/Robust (Out-of-Distribution, Few-shot, Zero-shot)
+* [Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic](https://www.ndss-symposium.org/ndss-paper/low-quality-training-data-only-a-robust-framework-for-detecting-encrypted-malicious-network-traffic/). Yuqi Qing. NDSS 2024.[[code]](https://github.com/XXnormal/RAPIER)
 * [Few-shot encrypted traffic classification via multi-task representation enhanced meta-learning](https://www.sciencedirect.com/science/article/pii/S1389128623001767). Chen Yang. Computer Networks 2023.
 * [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](https://www.usenix.org/conference/usenixsecurity23/presentation/xie). Renjie Xie. USENIX 2023. [[code]](https://github.com/sunskyXX/Rosetta)
 * [Zero-relabelling mobile-app identification over drifted encrypted network traffic](https://doi.org/10.1016/j.comnet.2023.109728). Minghao Jiang. Computer Networks 2023.
@@ -107,6 +108,7 @@ Fingerprinting (SWF))
 
 ## Traditional Target (Web, App, Malware, Gambling, User Activities, Intrusion Detection, IoT, Streaming Media)
 * General
+    * [Towards Fine-Grained Webpage Fingerprinting at Scale](https://www.arxiv.org/abs/2409.04341). Xiyuan Zhao. CCS 2023.
     * [An Input-Agnostic Hierarchical Deep Learning Framework for Traffic Fingerprinting](https://www.usenix.org/conference/usenixsecurity23/presentation/qu). Jian Qu. USENIX 2023. [[code]](https://github.com/shashadehuajiang/trace_classifier/tree/main)
     * [Classifying encrypted traffic using adaptive fingerprints with multi-level attributes](https://link.springer.com/article/10.1007%2Fs11280-021-00940-0). Chang Liu. WWW Journal 2021.
     * [CETAnalytics: Comprehensive effective traffic information analytics for encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128619309466) (Generalization). Cong Dong. Computer Networks 2020.
