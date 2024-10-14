@@ -202,6 +202,7 @@ Fingerprinting (SWF))
     * [Thorsten Holz](https://cispa.de/en/research/groups/holz) (CISPA Helmholtz Center for Information Security/Germany)
     * [Mohammad Saidur Rahman](https://www.rahmanmsaidur.com/) (University of Texas at El Paso/United States)
     * [Yue Zhang](https://yue.zyueinfosec.com/) (Drexel University/United States)
+    * [Xinyu Xing](http://xinyuxing.org/) (Northwestern University/United States)
 
 # Blogs
 ## Network Traffic Knowledge
