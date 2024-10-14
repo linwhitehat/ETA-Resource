@@ -98,7 +98,7 @@ Fingerprinting (SWF))
 * [ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://dl.acm.org/doi/abs/10.1145/3485447.3512217). Xinjie Lin. WWW 2022. [[code]](https://github.com/linwhitehat/et-bert) [[Reproduce]](https://gitee.com/xxdxxdxxd/et-bert/blob/master/README.md)
 
 ## ETA for Stable/Robust (Out-of-Distribution, Few-shot, Zero-shot)
-* [Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic](https://www.ndss-symposium.org/ndss-paper/low-quality-training-data-only-a-robust-framework-for-detecting-encrypted-malicious-network-traffic/). Yuqi Qing. NDSS 2024.[[code]](https://github.com/XXnormal/RAPIER)
+* [Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic](https://www.ndss-symposium.org/ndss-paper/low-quality-training-data-only-a-robust-framework-for-detecting-encrypted-malicious-network-traffic/). Yuqi Qing. NDSS 2024. [[code]](https://github.com/XXnormal/RAPIER)
 * [MCRe: A Unified Framework for Handling Malicious Traffic With Noise Labels Based on Multidimensional Constraint Representation](https://dl.acm.org/doi/10.1109/TIFS.2023.3318962). Qingjun Yuan. TIFS 2024.
 * [Few-shot encrypted traffic classification via multi-task representation enhanced meta-learning](https://www.sciencedirect.com/science/article/pii/S1389128623001767). Chen Yang. Computer Networks 2023.
 * [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](https://www.usenix.org/conference/usenixsecurity23/presentation/xie). Renjie Xie. USENIX 2023. [[code]](https://github.com/sunskyXX/Rosetta)
@@ -118,13 +118,13 @@ Fingerprinting (SWF))
     * [MaMPF: Encrypted Traffic Classification Based on Multi-Attribute Markov Probability Fingerprints](https://ieeexplore.ieee.org/abstract/document/8624124).  Chang Liu. IWQoS 2018. [[code]](https://github.com/WSPTTH/MaMPF)
     * [AppScanner: Automatic Fingerprinting of Smartphone Apps from Encrypted Network Traffic](https://ieeexplore.ieee.org/abstract/document/7467370). Vincent F. Taylor. EuroS&P 2016. [[code]](https://github.com/vftaylor/appscanner)
 * Malicious
-    * [TMG-GAN: Generative Adversarial Networks-Based Imbalanced Learning for Network Intrusion Detection](https://dl.acm.org/doi/10.1109/TIFS.2023.3331240). Hongwei Ding. TIFS 2024
+    * [TMG-GAN: Generative Adversarial Networks-Based Imbalanced Learning for Network Intrusion Detection](https://dl.acm.org/doi/10.1109/TIFS.2023.3331240). Hongwei Ding. TIFS 2024.
     * [Point Cloud Analysis for ML-Based Malicious Traffic Detection: Reducing Majorities of False Positive Alarms](https://dl.acm.org/doi/10.1145/3576915.3616631). Chuanpu Fu. CCS 2023.
     * [Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s80_paper.pdf). Chuanpu Fu. NDSS 2023.
 * Gambling
     * [Let gambling hide nowhere: Detecting illegal mobile gambling apps via heterogeneous graph-based encrypted traffic analysis](https://www.sciencedirect.com/science/article/pii/S1389128624001105). Zheyuan Gu. Computer Networks 2024.
     * [Gambling Domain Name Recognition via Certificate and Textual Analysis](https://academic.oup.com/comjnl/article/66/8/1829/6570684). GuoYing Sun. The Computer Journal 2023.
-    * [Analyzing Ground-Truth Data of Mobile Gambling Scams](https://ieeexplore.ieee.org/abstract/document/9833665). Geng Hong. Symposium on Security and Privacy(S&P) 2022.
+    * [Analyzing Ground-Truth Data of Mobile Gambling Scams](https://ieeexplore.ieee.org/abstract/document/9833665). Geng Hong. Symposium on Security and Privacy (S&P) 2022.
 * IoT
     * [HorusEye: A Realtime IoT Malicious Traffic Detection Framework using Programmable Switches](https://www.usenix.org/conference/usenixsecurity23/presentation/dong-yutao). Yutao Dong. USENIX 2023.
 * Vedio (Streaming Media)
@@ -147,7 +147,7 @@ Fingerprinting (SWF))
 # Measurement
 * Domain Name System
     * [A Worldwide View on the Reachability of Encrypted DNS Services](https://dl.acm.org/doi/abs/10.1145/3589334.3645539). Ruixuan Li. WWW 2024.
-    * [Investigating Deployment Issues of DNS Root Server Instances from a China-wide View](https://ieeexplore.ieee.org/abstract/document/10460172/keywords#keywords). Fenglu Zhang. IEEE Transactions on Dependable and Secure Computing 2024.
+    * [Investigating Deployment Issues of DNS Root Server Instances from a China-wide View](https://ieeexplore.ieee.org/abstract/document/10460172/keywords#keywords). Fenglu Zhang. IEEE Transactions on Dependable and Secure Computing (TDSC) 2024.
 * Privacy and Security
     * [Privacy protection of China’s top websites: A Multi-layer privacy measurement via network behaviours and privacy policies](https://www.sciencedirect.com/science/article/abs/pii/S0167404822000050). Xinjie Lin. Computers & Security 2022.
 * IPv6
