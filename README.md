@@ -134,7 +134,7 @@ Fingerprinting (SWF))
 
 ## Anonymous and VPN
 * [ProxyKiller: An Anonymous Proxy Traffic Attack Model Based on Traffic Behavior Graphs](https://link.springer.com/chapter/10.1007/978-3-031-70890-9_9#Tab4). Hongbo Xu. ESORICS 2024.
-* [Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a263/1WPcZnZILHa). Meng Shen. Symposium on Security and Privacy(S&P) 2024.
+* [Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a263/1WPcZnZILHa). Meng Shen. S&P 2024.
 * [HSDirSniper: A New Attack Exploiting Vulnerabilities in Tor's Hidden Service Directories](https://dl.acm.org/doi/10.1145/3589334.3645591). Qingfeng Zhang. WWW 2024.
 * [VPNSniffer: Identifying VPN Servers Through Graph-Represented Behaviors](https://dl.acm.org/doi/10.1145/3589334.3645552). Chenxu Wang. WWW 2024.
 * [AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN](https://dl.acm.org/doi/10.1145/3543507.3583473). Sanghak Oh. WWW 2023.
