@@ -141,6 +141,7 @@ Fingerprinting (SWF))
 * [Subverting Website Fingerprinting Defenses with Robust Traffic Representation](https://www.usenix.org/conference/usenixsecurity23/presentation/shen-meng). Meng Shen. USENIX 2023.
 
 ## Anonymous and VPN
+* [Detecting Tunneled Flooding Traffic via Deep Semantic Analysis of Packet Length Patterns](). Chuanpu Fu. CCS 2024. [[vedio]](https://www.bilibili.com/video/BV1QLCUYuEKM/?spm_id_from=333.999.0.0&vd_source=a1efd78c138281beaaf12f4f11412057)
 * [ProxyKiller: An Anonymous Proxy Traffic Attack Model Based on Traffic Behavior Graphs](https://link.springer.com/chapter/10.1007/978-3-031-70890-9_9#Tab4). Hongbo Xu. ESORICS 2024.
 * [HSDirSniper: A New Attack Exploiting Vulnerabilities in Tor's Hidden Service Directories](https://dl.acm.org/doi/10.1145/3589334.3645591). Qingfeng Zhang. WWW 2024.
 * [VPNSniffer: Identifying VPN Servers Through Graph-Represented Behaviors](https://dl.acm.org/doi/10.1145/3589334.3645552). Chenxu Wang. WWW 2024.
