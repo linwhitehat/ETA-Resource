@@ -194,11 +194,13 @@ Fingerprinting (SWF))
     * [Shouling Ji](https://person.zju.edu.cn/sji#0)
     * [Wenyuan Xu](https://person.zju.edu.cn/wyxu#0)
     * [Meng Luo](https://person.zju.edu.cn/mengluo#0)
+    * [Kui Ren](https://person.zju.edu.cn/kuiren)
 * Shanghai Jiao Tong University/China
     * [Guoxing Chen](https://donnod.github.io/)
     * [Haojin Zhu](https://nsec.sjtu.edu.cn/~hjzhu/)
 * [Guang Cheng](https://cyber.seu.edu.cn/cg1/list.htm) (Southeast University/China)
 * [Fengwei Zhang](https://fengweiz.github.io/) (Southern University of Science and Technology/China)
+* [Qian Wang](http://nisplab.whu.edu.cn/people.html) (Wuhan University/China)
 * Overseas Teams
     * [Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) (University of Waterloo/Canada)
     * [Xiaofeng Wang](https://homes.luddy.indiana.edu/xw7/) (Indiana University Bloomington/United States)
