@@ -100,6 +100,7 @@ Fingerprinting (SWF))
 
 ## ETA for Stable/Robust (Out-of-Distribution, Few-shot, Zero-shot)
 * [Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic](https://www.ndss-symposium.org/ndss-paper/low-quality-training-data-only-a-robust-framework-for-detecting-encrypted-malicious-network-traffic/). Yuqi Qing. NDSS 2024. [[code]](https://github.com/XXnormal/RAPIER)
+* [TrafCL: Robust Encrypted Malicious Traffic Detection via Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3627673.3679839). Xiaodu Yang. CIKM 2024.
 * [MCRe: A Unified Framework for Handling Malicious Traffic With Noise Labels Based on Multidimensional Constraint Representation](https://dl.acm.org/doi/10.1109/TIFS.2023.3318962). Qingjun Yuan. TIFS 2024.
 * [Few-shot encrypted traffic classification via multi-task representation enhanced meta-learning](https://www.sciencedirect.com/science/article/pii/S1389128623001767). Chen Yang. Computer Networks 2023.
 * [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](https://www.usenix.org/conference/usenixsecurity23/presentation/xie). Renjie Xie. USENIX 2023. [[code]](https://github.com/sunskyXX/Rosetta)
