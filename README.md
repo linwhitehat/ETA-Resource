@@ -196,6 +196,7 @@ Fingerprinting (SWF))
     * [Wenyuan Xu](https://person.zju.edu.cn/wyxu#0)
     * [Meng Luo](https://person.zju.edu.cn/mengluo#0)
     * [Kui Ren](https://person.zju.edu.cn/kuiren)
+    * [Fan Zhang](https://person.zju.edu.cn/fanzhang)
 * Shanghai Jiao Tong University/China
     * [Guoxing Chen](https://donnod.github.io/)
     * [Haojin Zhu](https://nsec.sjtu.edu.cn/~hjzhu/)
