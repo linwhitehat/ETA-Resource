@@ -187,6 +187,7 @@ Fingerprinting (SWF))
 * Chinese Academy of Sciences, University of Chinese Academy of Sciences/China
     * [Gang Xiong](https://people.ucas.ac.cn/~xionggang) (Institute of Information Engineering)
     * [Kai Chen](https://people.ucas.ac.cn/~kaichen) (Institute of Information Engineering)
+    * [Guozhu Meng](https://people.ucas.ac.cn/~gzmeng) (Institute of Information Engineering)
     * [Qingyun Liu](https://people.ucas.ac.cn/~0027674) (Institute of Information Engineering)
     * [Limin Sun](https://people.ucas.ac.cn/~sunlimin) (Institute of Information Engineering)
     * [Zhenyu Li](http://www.ict.ac.cn/sourcedb_2018_ict_cas/cn/jssrck/201111/t20111114_3395505.html) (Institute of Computing Technology)
