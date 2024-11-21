@@ -184,7 +184,7 @@ Fingerprinting (SWF))
     * [Qi Li](https://www.insc.tsinghua.edu.cn/info/1157/2851.htm)
     * [Jianjun Chen](https://www.jianjunchen.com/)
     * [Dan Li](https://www.cs.tsinghua.edu.cn/info/1126/3948.htm)
-* Chinese Academy of Sciences/China
+* Chinese Academy of Sciences, University of Chinese Academy of Sciences/China
     * [Gang Xiong](https://people.ucas.ac.cn/~xionggang) (Institute of Information Engineering)
     * [Kai Chen](https://people.ucas.ac.cn/~kaichen) (Institute of Information Engineering)
     * [Qingyun Liu](https://people.ucas.ac.cn/~0027674) (Institute of Information Engineering)
@@ -207,6 +207,7 @@ Fingerprinting (SWF))
 * [Guang Cheng](https://cyber.seu.edu.cn/cg1/list.htm) (Southeast University/China)
 * [Fengwei Zhang](https://fengweiz.github.io/) (Southern University of Science and Technology/China)
 * [Qian Wang](http://nisplab.whu.edu.cn/people.html) (Wuhan University/China)
+* [Min Yang](https://cs.fudan.edu.cn/3e/d7/c25921a278231/page.htm) (Fudan University/China)
 * Overseas Teams
     * [Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) (University of Waterloo/Canada)
     * [Xiaofeng Wang](https://homes.luddy.indiana.edu/xw7/) (Indiana University Bloomington/United States)
