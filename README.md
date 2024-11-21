@@ -218,6 +218,7 @@ Fingerprinting (SWF))
     * [Mohammad Saidur Rahman](https://www.rahmanmsaidur.com/) (University of Texas at El Paso/United States)
     * [Yue Zhang](https://yue.zyueinfosec.com/) (Drexel University/United States)
     * [Xinyu Xing](http://xinyuxing.org/) (Northwestern University/United States)
+    * [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (Nanyang Technological University/Singapore)
 
 # Blogs
 ## Network Traffic Knowledge
