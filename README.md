@@ -148,7 +148,7 @@ Fingerprinting (SWF))
 
 ## Anonymous and VPN
 * [Rules Refine the Riddle: Global Explanation for Deep Learning-Based Anomaly Detection in Security Applications](). DongqiHan. CCS 2024. [[code]](https://github.com/dongtsi/GEAD)
-* [Detecting Tunneled Flooding Traffic via Deep Semantic Analysis of Packet Length Patterns](). Chuanpu Fu. CCS 2024. [[vedio]](https://www.bilibili.com/video/BV1QLCUYuEKM/?share_source=copy_web&vd_source=0615de9aadb80787d57d9a4fe9db0c5f&t=2235)
+* [Detecting Tunneled Flooding Traffic via Deep Semantic Analysis of Packet Length Patterns](). Chuanpu Fu. CCS 2024. [[code]](https://github.com/fuchuanpu/Exosphere) [[video]](https://www.bilibili.com/video/BV1QLCUYuEKM/?share_source=copy_web&vd_source=0615de9aadb80787d57d9a4fe9db0c5f&t=2235)
 * [ProxyKiller: An Anonymous Proxy Traffic Attack Model Based on Traffic Behavior Graphs](https://link.springer.com/chapter/10.1007/978-3-031-70890-9_9#Tab4). Hongbo Xu. ESORICS 2024.
 * [HSDirSniper: A New Attack Exploiting Vulnerabilities in Tor's Hidden Service Directories](https://dl.acm.org/doi/10.1145/3589334.3645591). Qingfeng Zhang. WWW 2024.
 * [VPNSniffer: Identifying VPN Servers Through Graph-Represented Behaviors](https://dl.acm.org/doi/10.1145/3589334.3645552). Chenxu Wang. WWW 2024.
