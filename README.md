@@ -114,7 +114,7 @@ Fingerprinting (SWF))
 
 ## Traditional Targets (Web, App, Malware, Gambling, User Activities, Intrusion Detection, IoT, Streaming Media)
 * General
-    * [FlowMiner: APowerful Model Based on Flow Correlation Miningfor Encrypted TrafficClassification](). Hongbo Xu. INFOCOM 2025.
+    * [FlowMiner: A Powerful Model Based on Flow Correlation Miningfor Encrypted Traffic Classification](). Hongbo Xu. INFOCOM 2025.
     * [DE-GNN: Dual embedding with graph neural network for fine-grained encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128624002044). Xinbo Han. Computer Networks 2024.
     * [Towards Fine-Grained Webpage Fingerprinting at Scale](https://www.arxiv.org/abs/2409.04341). Xiyuan Zhao. CCS 2023.
     * [TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Trafic Classification](https://dl.acm.org/doi/abs/10.1145/3543507.3583227). Haozhen Zhang. WWW 2023. [[code]](https://github.com/ViktorAxelsen/TFE-GNN)
@@ -167,7 +167,7 @@ Fingerprinting (SWF))
 * Privacy and Security
     * [Privacy protection of China’s top websites: A Multi-layer privacy measurement via network behaviours and privacy policies](https://www.sciencedirect.com/science/article/abs/pii/S0167404822000050). Xinjie Lin. ComSec 2022.
 * IPv6
-    * [IPv6 Prefix Target Generation through Pattern andDistribution Learning using Vision.Transformer and Guided-Diffusion](). Yaochen Ren. INFOCOM 2025.
+    * [IPv6 Prefix Target Generation through Pattern and Distribution Learning using Vision-Transformer and Guided-Diffusion](). Yaochen Ren. INFOCOM 2025.
     * [6GAN: IPv6 Multi-Pattern Target Generation via Generative Adversarial Nets with Reinforcement Learning](https://ieeexplore.ieee.org/document/9488912). Tianyu Cui. INFOCOM 2021. [[code]](https://github.com/CuiTianyu961030/6GAN)
     * [SiamHAN: IPv6 Address Correlation Attacks on TLS Encrypted Traffic via Siamese Heterogeneous Graph Attention Network](https://www.usenix.org/conference/usenixsecurity21/presentation/cui). Tianyu Cui. USENIX 2021. [[code]](https://github.com/CuiTianyu961030/SiamHAN)
     * [6VecLM: Language Modeling in Vector Space for IPv6 Target Generation](https://link.springer.com/chapter/10.1007%2F978-3-030-67667-4_12). Tianyu Cui. ECML/PKDD 2020. [[code]](https://github.com/CuiTianyu961030/6VecLM)
