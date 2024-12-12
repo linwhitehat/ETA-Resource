@@ -88,7 +88,7 @@ Fingerprinting (SWF))
 
 # Network Traffic Analysis
 
-## ETA with Pre-training/LLMs (Generalization, Side-channel Analysis)
+## ETA with Pre-training/LLMs (Generalization, Side-channel Analysis, Network Simulation)
 * [Resolving Packets from Counters: Enabling Multi-scale Network Traffic Super Resolution via Composable Large Traffic Model](). Xizheng Wang. NSDI 2025. [[code]](https://github.com/wxzisk/ZoomSynth_NSDI2025)
 * [TrafficFormer: An Efficient Pre-trained Model for Traffic Data](http://www.thucsnet.com/wp-content/papers/guangmeng_sp2025.pdf). Guangmeng Zhou. S&P 2025. [[code]](https://github.com/IDP-code/TrafficFormer)
 * [What Was Your Prompt? A Remote Keylogging Attack on AI Assistants](https://www.usenix.org/conference/usenixsecurity24/presentation/weiss). Roy Weiss. USENIX 2024. [[code]](https://github.com/royweiss1/GPT_Keylogger)
