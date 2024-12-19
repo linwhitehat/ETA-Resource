@@ -66,6 +66,8 @@ This is a current list of resources related to the research and development of e
 * [Canadian Institute for Cybersecurity Datasets](https://www.unb.ca/cic/datasets/) (DNS, IDS, DoS, Darknet, Tor, VPN, Botnet, Malware)
 * [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/) (IoT, Botnet, Cloud Security)
 * [Cross-Platform](https://recon.meddle.mobi/cross-market.html) (iOS and Android Apps)
+* [wangknn-dataset](https://github.com/kdsec/wangknn-dataset) (Tor, Websites)
+* [DLWF](https://github.com/DistriNet/DLWF) (Tor, Websites, Concept Drift, Open World)
 * [Malware Capture Facility Project](https://www.stratosphereips.org/datasets-overview) (Malware)
 * [CSTNET-TLS 1.3](https://drive.google.com/drive/folders/1JSsYmevkxQFanoKOi_i1ooA6pH3s9sDr?usp=sharing) (TLS 1.3 services)
 * [Network-based Intrusion Detection](https://www.sciencedirect.com/science/article/pii/S016740481930118X) (AWID, Botnet, CIC DoS, CICIDS, CIDDS, CTU, DARPA, ISCX, IRSC)
@@ -159,6 +161,8 @@ Fingerprinting (SWF))
 * [Transformer-based Model for Multi-tab Website Fingerprinting Attack](https://dl.acm.org/doi/abs/10.1145/3576915.3623107). Zhaoxin Jin. CCS 2023.
 * [Online Website Fingerprinting: Evaluating Website Fingerprinting Attacks on Tor in the Real World](https://www.usenix.org/conference/usenixsecurity22/presentation/cherubin). Giovanni Cherubin. USENIX 2022.
 * [BAPM: Block Attention Profiling Model for Multi-tab Website Fingerprinting Attacks on Tor](https://dl.acm.org/doi/10.1145/3485832.3485891). Zhong Guan. ACSAC 2021.
+* [Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning](https://dl.acm.org/doi/10.1145/3319535.3354217). Payap Sirinam. CCS 2019. [[code]](https://github.com/triplet-fingerprinting/tf)
+* [Automated Website Fingerprinting through Deep Learning](https://tor-wf-dl.distrinet-research.be/Rimmer2018-DLWF.pdf). Vera Rimmer. NDSS 2018. [[code]](https://github.com/DistriNet/DLWF)
 * [Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning](https://dl.acm.org/doi/abs/10.1145/3243734.3243768). Payap Sirinam. CCS 2018. [[code]](https://github.com/deep-fingerprinting/df)
 
 # Measurement
