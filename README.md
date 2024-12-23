@@ -210,10 +210,14 @@ Fingerprinting (SWF))
 
 * [Gang Xiong](https://people.ucas.ac.cn/~xionggang) (Institute of Information Engineering)
 * [Kai Chen](https://people.ucas.ac.cn/~kaichen) (Institute of Information Engineering)
+* [Qixu Liu](https://people.ucas.ac.cn/~liuqixu) (Institute of Information Engineering)
 * [Guozhu Meng](https://people.ucas.ac.cn/~gzmeng) (Institute of Information Engineering)
 * [Qingyun Liu](https://people.ucas.ac.cn/~0027674) (Institute of Information Engineering)
-* [Limin Sun](https://people.ucas.ac.cn/~sunlimin) (Institute of Information Engineering)
+* [Zhigang Lu](https://people.ucas.ac.cn/~luzhigang) (Institute of Information Engineering)
+* [Xiaodong Li](https://people.ucas.edu.cn/~LEE) (Institute of Computing Technology)
 * [Zhenyu Li](http://www.ict.ac.cn/sourcedb_2018_ict_cas/cn/jssrck/201111/t20111114_3395505.html) (Institute of Computing Technology)
+* [Yujun Zhang](https://people.ucas.ac.cn/~yujun) (Institute of Computing Technology)
+* [Yuqing Zhang](https://people.ucas.ac.cn/~zhangyuqing) (School of Computer Science and Technology)
 </details>
 
 <details>
