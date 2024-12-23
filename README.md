@@ -191,6 +191,23 @@ Fingerprinting (SWF))
 # Teams
 <details>
 <summary>
+    Chinese Academy of Sciences, University of Chinese Academy of Sciences/China
+</summary>
+
+* [Gang Xiong](https://people.ucas.ac.cn/~xionggang) (Institute of Information Engineering)
+* [Kai Chen](https://people.ucas.ac.cn/~kaichen) (Institute of Information Engineering)
+* [Qixu Liu](https://people.ucas.ac.cn/~liuqixu) (Institute of Information Engineering)
+* [Guozhu Meng](https://people.ucas.ac.cn/~gzmeng) (Institute of Information Engineering)
+* [Qingyun Liu](https://people.ucas.ac.cn/~0027674) (Institute of Information Engineering)
+* [Zhigang Lu](https://people.ucas.ac.cn/~luzhigang) (Institute of Information Engineering)
+* [Xiaodong Li](https://people.ucas.edu.cn/~LEE) (Institute of Computing Technology)
+* [Zhenyu Li](http://www.ict.ac.cn/sourcedb_2018_ict_cas/cn/jssrck/201111/t20111114_3395505.html) (Institute of Computing Technology)
+* [Yujun Zhang](https://people.ucas.ac.cn/~yujun) (Institute of Computing Technology)
+* [Yuqing Zhang](https://people.ucas.ac.cn/~zhangyuqing) (School of Computer Science and Technology)
+</details>
+
+<details>
+<summary>
     Tsinghua University/China
 </summary>
 
@@ -205,19 +222,14 @@ Fingerprinting (SWF))
 
 <details>
 <summary>
-    Chinese Academy of Sciences, University of Chinese Academy of Sciences/China
+Zhejiang University/China
 </summary>
 
-* [Gang Xiong](https://people.ucas.ac.cn/~xionggang) (Institute of Information Engineering)
-* [Kai Chen](https://people.ucas.ac.cn/~kaichen) (Institute of Information Engineering)
-* [Qixu Liu](https://people.ucas.ac.cn/~liuqixu) (Institute of Information Engineering)
-* [Guozhu Meng](https://people.ucas.ac.cn/~gzmeng) (Institute of Information Engineering)
-* [Qingyun Liu](https://people.ucas.ac.cn/~0027674) (Institute of Information Engineering)
-* [Zhigang Lu](https://people.ucas.ac.cn/~luzhigang) (Institute of Information Engineering)
-* [Xiaodong Li](https://people.ucas.edu.cn/~LEE) (Institute of Computing Technology)
-* [Zhenyu Li](http://www.ict.ac.cn/sourcedb_2018_ict_cas/cn/jssrck/201111/t20111114_3395505.html) (Institute of Computing Technology)
-* [Yujun Zhang](https://people.ucas.ac.cn/~yujun) (Institute of Computing Technology)
-* [Yuqing Zhang](https://people.ucas.ac.cn/~zhangyuqing) (School of Computer Science and Technology)
+* [Shouling Ji](https://person.zju.edu.cn/sji#0)
+* [Wenyuan Xu](https://person.zju.edu.cn/wyxu#0)
+* [Meng Luo](https://person.zju.edu.cn/mengluo#0)
+* [Kui Ren](https://person.zju.edu.cn/kuiren)
+* [Fan Zhang](https://person.zju.edu.cn/fanzhang)
 </details>
 
 <details>
@@ -236,18 +248,6 @@ Xi'an Jiaotong University/China
     
 * [Xiaohong Guan](https://www.xjtu.edu.cn/jsnr.jsp?wbtreeid=1632&wbwbxjtuteacherid=502)
 * [Chao Shen](https://gr.xjtu.edu.cn/web/cshen)
-</details>
-
-<details>
-<summary>
-Zhejiang University/China
-</summary>
-
-* [Shouling Ji](https://person.zju.edu.cn/sji#0)
-* [Wenyuan Xu](https://person.zju.edu.cn/wyxu#0)
-* [Meng Luo](https://person.zju.edu.cn/mengluo#0)
-* [Kui Ren](https://person.zju.edu.cn/kuiren)
-* [Fan Zhang](https://person.zju.edu.cn/fanzhang)
 </details>
     
 <details>
