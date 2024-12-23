@@ -152,6 +152,8 @@ Fingerprinting (SWF))
 * [Subverting Website Fingerprinting Defenses with Robust Traffic Representation](https://www.usenix.org/conference/usenixsecurity23/presentation/shen-meng). Meng Shen. USENIX 2023.
 
 ## Anonymous and VPN
+* [Fingerprinting Obfuscated Proxy Traffic with Encapsulated TLS Handshakes](https://www.usenix.org/conference/usenixsecurity24/presentation/xue-fingerprinting). Diwen Xue. USENIX 2024.
+* [On Precisely Detecting Censorship Circumvention in Real-World Networks](https://www.ndss-symposium.org/ndss-paper/on-precisely-detecting-censorship-circumvention-in-real-world-networks). Ryan Wails. NDSS 2024.
 * [Rules Refine the Riddle: Global Explanation for Deep Learning-Based Anomaly Detection in Security Applications](https://dl.acm.org/doi/10.1145/3658644.3670375). DongqiHan. CCS 2024. [[code]](https://github.com/dongtsi/GEAD)
 * [Towards Fine-Grained Webpage Fingerprinting at Scale](https://dl.acm.org/doi/abs/10.1145/3658644.3690211). Xiyuan Zhao and Xinhao Deng. CCS 2024. [[code]](https://zenodo.org/records/13383332)
 * [Detecting Tunneled Flooding Traffic via Deep Semantic Analysis of Packet Length Patterns](https://drive.google.com/file/d/1_P8HIs3Q9f_HlA9_x2HMr0q6ScPzrF0g/view). Chuanpu Fu. CCS 2024. [[code]](https://github.com/fuchuanpu/Exosphere) [[video]](https://www.bilibili.com/video/BV1QLCUYuEKM/?spm_id_from=333.1387.collection.video_card.click&vd_source=a1efd78c138281beaaf12f4f11412057)
