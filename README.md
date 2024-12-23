@@ -189,52 +189,94 @@ Fingerprinting (SWF))
 -->
 
 # Teams
-* Tsinghua University/China
-    * [Ke Xu](http://www.thucsnet.org/xuke.html)
-    * [Jiahai Yang](https://nmgroup.tsinghua.edu.cn/yjh/)
-    * [Chao Zhang](https://netsec.ccert.edu.cn/chs/people/chaoz/)
-    * [Haixin Duan](http://netsec.ccert.edu.cn/people/duanhx/)
-    * [Qi Li](https://www.insc.tsinghua.edu.cn/info/1157/2851.htm)
-    * [Jianjun Chen](https://www.jianjunchen.com/)
-    * [Dan Li](https://www.cs.tsinghua.edu.cn/info/1126/3948.htm)
-* Chinese Academy of Sciences, University of Chinese Academy of Sciences/China
-    * [Gang Xiong](https://people.ucas.ac.cn/~xionggang) (Institute of Information Engineering)
-    * [Kai Chen](https://people.ucas.ac.cn/~kaichen) (Institute of Information Engineering)
-    * [Guozhu Meng](https://people.ucas.ac.cn/~gzmeng) (Institute of Information Engineering)
-    * [Qingyun Liu](https://people.ucas.ac.cn/~0027674) (Institute of Information Engineering)
-    * [Limin Sun](https://people.ucas.ac.cn/~sunlimin) (Institute of Information Engineering)
-    * [Zhenyu Li](http://www.ict.ac.cn/sourcedb_2018_ict_cas/cn/jssrck/201111/t20111114_3395505.html) (Institute of Computing Technology)
-* Beijing Institute of Technology/China
-    * [Liehuang Zhu](https://cs.bit.edu.cn/szdw/jsml/wlkjaqxy/zlh/index.htm)
-    * [Meng Shen](https://cst.bit.edu.cn/szdw/jsml/bssds/86728e84066248b0b13bdf04f685817f.htm)
-* Xi'an Jiaotong University/China
-    * [Xiaohong Guan](https://www.xjtu.edu.cn/jsnr.jsp?wbtreeid=1632&wbwbxjtuteacherid=502)
-    * [Chao Shen](https://gr.xjtu.edu.cn/web/cshen)
-* Zhejiang University/China
-    * [Shouling Ji](https://person.zju.edu.cn/sji#0)
-    * [Wenyuan Xu](https://person.zju.edu.cn/wyxu#0)
-    * [Meng Luo](https://person.zju.edu.cn/mengluo#0)
-    * [Kui Ren](https://person.zju.edu.cn/kuiren)
-    * [Fan Zhang](https://person.zju.edu.cn/fanzhang)
-* Shanghai Jiao Tong University/China
-    * [Guoxing Chen](https://donnod.github.io/)
-    * [Haojin Zhu](https://nsec.sjtu.edu.cn/~hjzhu/)
+<details>
+<summary>
+    Tsinghua University/China
+</summary>
+
+* [Ke Xu](http://www.thucsnet.org/xuke.html)
+* [Jiahai Yang](https://nmgroup.tsinghua.edu.cn/yjh/)
+* [Chao Zhang](https://netsec.ccert.edu.cn/chs/people/chaoz/)
+* [Haixin Duan](http://netsec.ccert.edu.cn/people/duanhx/)
+* [Qi Li](https://www.insc.tsinghua.edu.cn/info/1157/2851.htm)
+* [Jianjun Chen](https://www.jianjunchen.com/)
+* [Dan Li](https://www.cs.tsinghua.edu.cn/info/1126/3948.htm)
+</details>
+
+<details>
+<summary>
+    Chinese Academy of Sciences, University of Chinese Academy of Sciences/China
+</summary>
+
+* [Gang Xiong](https://people.ucas.ac.cn/~xionggang) (Institute of Information Engineering)
+* [Kai Chen](https://people.ucas.ac.cn/~kaichen) (Institute of Information Engineering)
+* [Guozhu Meng](https://people.ucas.ac.cn/~gzmeng) (Institute of Information Engineering)
+* [Qingyun Liu](https://people.ucas.ac.cn/~0027674) (Institute of Information Engineering)
+* [Limin Sun](https://people.ucas.ac.cn/~sunlimin) (Institute of Information Engineering)
+* [Zhenyu Li](http://www.ict.ac.cn/sourcedb_2018_ict_cas/cn/jssrck/201111/t20111114_3395505.html) (Institute of Computing Technology)
+</details>
+
+<details>
+<summary>
+    Beijing Institute of Technology/China
+</summary>    
+    
+* [Liehuang Zhu](https://cs.bit.edu.cn/szdw/jsml/wlkjaqxy/zlh/index.htm)
+* [Meng Shen](https://cst.bit.edu.cn/szdw/jsml/bssds/86728e84066248b0b13bdf04f685817f.htm)
+</details>
+    
+<details>
+<summary>
+Xi'an Jiaotong University/China
+</summary>
+    
+* [Xiaohong Guan](https://www.xjtu.edu.cn/jsnr.jsp?wbtreeid=1632&wbwbxjtuteacherid=502)
+* [Chao Shen](https://gr.xjtu.edu.cn/web/cshen)
+</details>
+
+<details>
+<summary>
+Zhejiang University/China
+</summary>
+
+* [Shouling Ji](https://person.zju.edu.cn/sji#0)
+* [Wenyuan Xu](https://person.zju.edu.cn/wyxu#0)
+* [Meng Luo](https://person.zju.edu.cn/mengluo#0)
+* [Kui Ren](https://person.zju.edu.cn/kuiren)
+* [Fan Zhang](https://person.zju.edu.cn/fanzhang)
+</details>
+    
+<details>
+<summary>
+Shanghai Jiao Tong University/China
+</summary>
+    
+* [Guoxing Chen](https://donnod.github.io/)
+* [Haojin Zhu](https://nsec.sjtu.edu.cn/~hjzhu/)
+</details>
+
 * [Guang Cheng](https://cyber.seu.edu.cn/cg1/list.htm) (Southeast University/China)
 * [Fengwei Zhang](https://fengweiz.github.io/) (Southern University of Science and Technology/China)
 * [Qian Wang](http://nisplab.whu.edu.cn/people.html) (Wuhan University/China)
 * [Min Yang](https://cs.fudan.edu.cn/3e/d7/c25921a278231/page.htm) (Fudan University/China)
-* Overseas Teams
-    * [Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) (University of Waterloo/Canada)
-    * [Xiaofeng Wang](https://homes.luddy.indiana.edu/xw7/) (Indiana University Bloomington/United States)
-    * [Tao Wang](https://www.cs.sfu.ca/~taowang/) (Simon Fraser University/Canada)
-    * [Ivan Martinovic](https://www.cs.ox.ac.uk/people/ivan.martinovic/) (University of Oxford/United Kingdom)
-    * [Amir Houmansadr](https://people.cs.umass.edu/~amir/) (University of Massachusetts Amherst/United States)
-    * [Giuseppe Aceto](http://wpage.unina.it/giuseppe.aceto/) (Università di Napoli Federico II/Italy)
-    * [Thorsten Holz](https://cispa.de/en/research/groups/holz) (CISPA Helmholtz Center for Information Security/Germany)
-    * [Mohammad Saidur Rahman](https://www.rahmanmsaidur.com/) (University of Texas at El Paso/United States)
-    * [Yue Zhang](https://yue.zyueinfosec.com/) (Drexel University/United States)
-    * [Xinyu Xing](http://xinyuxing.org/) (Northwestern University/United States)
-    * [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (Nanyang Technological University/Singapore)
+  
+<details>
+<summary>
+Overseas
+</summary>
+    
+* [Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) (University of Waterloo/Canada)
+* [Xiaofeng Wang](https://homes.luddy.indiana.edu/xw7/) (Indiana University Bloomington/United States)
+* [Tao Wang](https://www.cs.sfu.ca/~taowang/) (Simon Fraser University/Canada)
+* [Ivan Martinovic](https://www.cs.ox.ac.uk/people/ivan.martinovic/) (University of Oxford/United Kingdom)
+* [Amir Houmansadr](https://people.cs.umass.edu/~amir/) (University of Massachusetts Amherst/United States)
+* [Giuseppe Aceto](http://wpage.unina.it/giuseppe.aceto/) (Università di Napoli Federico II/Italy)
+* [Thorsten Holz](https://cispa.de/en/research/groups/holz) (CISPA Helmholtz Center for Information Security/Germany)
+* [Mohammad Saidur Rahman](https://www.rahmanmsaidur.com/) (University of Texas at El Paso/United States)
+* [Yue Zhang](https://yue.zyueinfosec.com/) (Drexel University/United States)
+* [Xinyu Xing](http://xinyuxing.org/) (Northwestern University/United States)
+* [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (Nanyang Technological University/Singapore)
+</details>
 
 # Blogs
 ## Network Traffic Knowledge
