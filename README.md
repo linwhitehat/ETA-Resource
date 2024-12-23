@@ -233,6 +233,16 @@ Zhejiang University/China
 </details>
 
 <details>
+    <summary>
+        Beijing University of Posts and Telecommunications/China
+    </summary>
+
+* [Shize Guo](https://scss.bupt.edu.cn/info/1063/5386.htm)
+* [Dongbin Wang](https://scss.bupt.edu.cn/info/1249/5098.htm)
+* [Zhongliang Yang](https://scss.bupt.edu.cn/info/1247/5070.htm)
+</details>
+
+<details>
 <summary>
     Beijing Institute of Technology/China
 </summary>    
