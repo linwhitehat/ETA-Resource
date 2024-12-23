@@ -255,10 +255,16 @@ Shanghai Jiao Tong University/China
 * [Haojin Zhu](https://nsec.sjtu.edu.cn/~hjzhu/)
 </details>
 
+<details>
+<summary>
+    Others
+</summary>
+
 * [Guang Cheng](https://cyber.seu.edu.cn/cg1/list.htm) (Southeast University/China)
 * [Fengwei Zhang](https://fengweiz.github.io/) (Southern University of Science and Technology/China)
 * [Qian Wang](http://nisplab.whu.edu.cn/people.html) (Wuhan University/China)
 * [Min Yang](https://cs.fudan.edu.cn/3e/d7/c25921a278231/page.htm) (Fudan University/China)
+</details>
   
 <details>
 <summary>
