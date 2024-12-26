@@ -48,7 +48,7 @@ SOFTWARE.
 
 # Content
 - [About](#about)
-- [Dataset](#datasets)
+- [Dataset](#datasets-and-benchmark)
 - [Survey](#survey)
 - [Network Traffic Analysis](#network-traffic-analysis)
 - [Measurement](#measurement)
@@ -62,7 +62,12 @@ SOFTWARE.
 # About
 This is a current list of resources related to the research and development of encrypted traffic analysis. We comb the field for relevant representative work and related resources, and pay more attention to typical studies and research teams.
 
-# Datasets
+# Datasets and Benchmark
+<details>
+<summary>
+    Datasets for Challenging Tasks
+</summary>
+
 * [Canadian Institute for Cybersecurity Datasets](https://www.unb.ca/cic/datasets/) (DNS, IDS, DoS, Darknet, Tor, VPN, Botnet, Malware)
 * [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/) (IoT, Botnet, Cloud Security)
 * [Cross-Platform](https://recon.meddle.mobi/cross-market.html) (iOS and Android Apps)
@@ -80,7 +85,16 @@ Fingerprinting (SWF))
 * [ANT Datasets](https://ant.isi.edu/datasets/index.html) (Botnet, IoT, DNS, IP Geolocation)
 * [LFETT2021 Dataset](https://github.com/HoneyPotter-Gzy/LFETT2021-dataset) (Tunnel, Proxy, VPN)
 * [AnonProxy2023](https://github.com/MrRobotsAA/AnonProxy2023-Dataset) (Anonymous, Proxy, VPN)
-* [DataCon2021-加密代理流量数据集](https://datacon.qianxin.com/opendata/openpage?resourcesId=10) (Proxy, VPN)
+* [DataCon2021-Encrypted Proxy](https://datacon.qianxin.com/opendata/openpage?resourcesId=10) (Proxy, VPN)
+</details>
+
+<details>
+<summary>
+    Network Benchmark
+</summary>
+    
+* [NetBench: A Large-Scale and Comprehensive Network Traffic Benchmark Dataset for Foundation Models]
+</details>
 
 # Survey
 * [Machine Learning-Powered Encrypted Network Traffic Analysis: A Comprehensive Survey](https://ieeexplore.ieee.org/document/9896143). Meng Shen. IEEE Communications Surveys & Tutorials 2023.
@@ -91,6 +105,7 @@ Fingerprinting (SWF))
 # Network Traffic Analysis
 
 ## ETA with Pre-training/LLMs (Generalization, Side-channel Analysis, Network Simulation)
+* [MIETT: Multi-Instance Encrypted Traffic Transformer for Encrypted Traffic Classification](https://arxiv.org/abs/2412.15306). Xuyang Chen and Lu Han. AAAI 2025.
 * [Resolving Packets from Counters: Enabling Multi-scale Network Traffic Super Resolution via Composable Large Traffic Model](). Xizheng Wang. NSDI 2025. [[code]](https://github.com/wxzisk/ZoomSynth_NSDI2025)
 * [TrafficFormer: An Efficient Pre-trained Model for Traffic Data](http://www.thucsnet.com/wp-content/papers/guangmeng_sp2025.pdf). Guangmeng Zhou. S&P 2025. [[code]](https://github.com/IDP-code/TrafficFormer)
 * [What Was Your Prompt? A Remote Keylogging Attack on AI Assistants](https://www.usenix.org/conference/usenixsecurity24/presentation/weiss). Roy Weiss. USENIX 2024. [[code]](https://github.com/royweiss1/GPT_Keylogger)
