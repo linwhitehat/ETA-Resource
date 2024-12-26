@@ -48,7 +48,7 @@ SOFTWARE.
 
 # Content
 - [About](#about)
-- [Dataset](#datasets-and-benchmark)
+- [Dataset & Benchmark](#datasets-and-benchmark)
 - [Survey](#survey)
 - [Network Traffic Analysis](#network-traffic-analysis)
 - [Measurement](#measurement)
@@ -93,7 +93,7 @@ Fingerprinting (SWF))
     Network Benchmark
 </summary>
     
-* [NetBench: A Large-Scale and Comprehensive Network Traffic Benchmark Dataset for Foundation Models]
+* [NetBench: A Large-Scale and Comprehensive Network Traffic Benchmark Dataset for Foundation Models](https://arxiv.org/abs/2403.10319). [[Data]](https://github.com/WM-JayLab/NetBench)
 </details>
 
 # Survey
