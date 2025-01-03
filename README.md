@@ -109,6 +109,7 @@ Fingerprinting (SWF))
 * [Resolving Packets from Counters: Enabling Multi-scale Network Traffic Super Resolution via Composable Large Traffic Model](). Xizheng Wang. NSDI 2025. [[code]](https://github.com/wxzisk/ZoomSynth_NSDI2025)
 * [TrafficFormer: An Efficient Pre-trained Model for Traffic Data](http://www.thucsnet.com/wp-content/papers/guangmeng_sp2025.pdf). Guangmeng Zhou. S&P 2025. [[code]](https://github.com/IDP-code/TrafficFormer)
 * [What Was Your Prompt? A Remote Keylogging Attack on AI Assistants](https://www.usenix.org/conference/usenixsecurity24/presentation/weiss). Roy Weiss. USENIX 2024. [[code]](https://github.com/royweiss1/GPT_Keylogger)
+* [NetLLM: Adapting Large Language Models for Networking](https://dl.acm.org/doi/abs/10.1145/3651890.3672268). Duo Wu. SIGCOMM 2024. [[code]](https://github.com/duowuyms/NetLLM)
 * [CETP: A Novel Semi-Supervised Framework Based on Contrastive Pre-Training for Imbalanced Encrypted Traffic Classification](https://www.sciencedirect.com/science/article/abs/pii/S0167404824001949). Xinjie Lin. Computers & Security (ComSec) 2024.
 * [A novel approach for application classification with encrypted traffic using BERT and packet headers](https://www.sciencedirect.com/science/article/pii/S1389128624005796). Jaehak Yu. Computer Networks 2024.
 * [Flow-MAE: Leveraging Masked AutoEncoder for Accurate, Efficient and Robust Malicious Traffic Classification](https://dl.acm.org/doi/10.1145/3607199.3607206#core-collateral-purchase-access). Zijun Hang. RAID 2023. [[code]](https://github.com/NLear/Flow-MAE)
