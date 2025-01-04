@@ -308,6 +308,7 @@ Overseas
 * [Ivan Martinovic](https://www.cs.ox.ac.uk/people/ivan.martinovic/) (University of Oxford/United Kingdom)
 * [Amir Houmansadr](https://people.cs.umass.edu/~amir/) (University of Massachusetts Amherst/United States)
 * [Giuseppe Aceto](http://wpage.unina.it/giuseppe.aceto/) (Università di Napoli Federico II/Italy)
+* [Antonio Pescapè](http://wpage.unina.it/pescape/) (Università di Napoli Federico II/Italy)
 * [Thorsten Holz](https://cispa.de/en/research/groups/holz) (CISPA Helmholtz Center for Information Security/Germany)
 * [Mohammad Saidur Rahman](https://www.rahmanmsaidur.com/) (University of Texas at El Paso/United States)
 * [Yue Zhang](https://yue.zyueinfosec.com/) (Drexel University/United States)
