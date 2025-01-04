@@ -314,6 +314,7 @@ Overseas
 * [Yue Zhang](https://yue.zyueinfosec.com/) (Drexel University/United States)
 * [Xinyu Xing](http://xinyuxing.org/) (Northwestern University/United States)
 * [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (Nanyang Technological University/Singapore)
+* [Alessandro Finamore](https://afinamore.io/) (Huawei Technologies/France)
 </details>
 
 # Blogs
