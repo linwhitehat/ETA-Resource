@@ -134,7 +134,6 @@ Fingerprinting (SWF))
 
 ## Traditional Targets (Web, App, Malware, Gambling, User Activities, Intrusion Detection, IoT, Streaming Media)
 * General
-    * [FlowMiner: A Powerful Model Based on Flow Correlation Miningfor Encrypted Traffic Classification](). Hongbo Xu. INFOCOM 2025.
     * [DE-GNN: Dual embedding with graph neural network for fine-grained encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128624002044). Xinbo Han. Computer Networks 2024.
     * [TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Trafic Classification](https://dl.acm.org/doi/abs/10.1145/3543507.3583227). Haozhen Zhang. WWW 2023. [[code]](https://github.com/ViktorAxelsen/TFE-GNN)
     * [An Input-Agnostic Hierarchical Deep Learning Framework for Traffic Fingerprinting](https://www.usenix.org/conference/usenixsecurity23/presentation/qu). Jian Qu. USENIX 2023. [[code]](https://github.com/shashadehuajiang/trace_classifier/tree/main)
