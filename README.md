@@ -168,6 +168,7 @@ Fingerprinting (SWF))
 * [Subverting Website Fingerprinting Defenses with Robust Traffic Representation](https://www.usenix.org/conference/usenixsecurity23/presentation/shen-meng). Meng Shen. USENIX 2023.
 
 ## Anonymous and VPN
+* [FlowMiner: A Powerful Model Based on Flow Correlation Mining for Encrypted Traffic Classification](). Hongbo Xu. INFOCOM 2025.
 * [Fingerprinting Obfuscated Proxy Traffic with Encapsulated TLS Handshakes](https://www.usenix.org/conference/usenixsecurity24/presentation/xue-fingerprinting). Diwen Xue. USENIX 2024.
 * [On Precisely Detecting Censorship Circumvention in Real-World Networks](https://www.ndss-symposium.org/ndss-paper/on-precisely-detecting-censorship-circumvention-in-real-world-networks). Ryan Wails. NDSS 2024.
 * [Rules Refine the Riddle: Global Explanation for Deep Learning-Based Anomaly Detection in Security Applications](https://dl.acm.org/doi/10.1145/3658644.3670375). DongqiHan. CCS 2024. [[code]](https://github.com/dongtsi/GEAD)
