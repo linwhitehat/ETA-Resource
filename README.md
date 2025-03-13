@@ -80,7 +80,7 @@ This repository offers a curated collection of research and development resource
 | [Malware Capture Facility Project](https://www.stratosphereips.org/datasets-overview) | CTU, IoT, Malware, Botnet | 2020 | 🟡&nbsp;No updates |
 | [Cross-Platform](https://recon.meddle.mobi/cross-market.html) | iOS and Android Apps | 2019 | 🟡&nbsp;No updates |
 | [Network-based Intrusion Detection](https://www.sciencedirect.com/science/article/pii/S016740481930118X) | AWID, Botnet, CIC DoS, CTU, DARPA | 2019 | 🟡&nbsp;No&nbsp;updates |
-| [wangknn-dataset](https://github.com/kdsec/wangknn-dataset) | Tor, Websites | 2018 | 🟡&nbsp;No updates |
+| [Wangknn-dataset](https://github.com/kdsec/wangknn-dataset) | Tor, Websites | 2018 | 🟡&nbsp;No updates |
 | [DLWF](https://github.com/DistriNet/DLWF) | Tor, Websites, Concept Drift, Open World | 2018 | 🟡&nbsp;No updates |
 | [Network-Flow-of-QUIC](https://drive.google.com/drive/folders/1cwHhzvaQbi-ap8yfrj2vHyPmUTQhaYOj) | QUIC Services | 2017 | 🟡&nbsp;No updates |
 
