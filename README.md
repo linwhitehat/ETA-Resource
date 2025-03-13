@@ -68,7 +68,7 @@ This is a current list of resources related to the research and development of e
     Datasets for Challenging Tasks
 </summary>
 
-* [Canadian Institute for Cybersecurity Datasets](https://www.unb.ca/cic/datasets/) (DNS, IDS, DoS, Darknet, Tor, VPN, Botnet, Malware)
+* [Canadian Institute for Cybersecurity Datasets](https://www.unb.ca/cic/datasets/) (IoT, LLM, DNS, IDS, DoS, Darknet, Tor, VPN, Botnet, Malware)
 * [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/) (IoT, Botnet, Cloud Security)
 * [Cross-Platform](https://recon.meddle.mobi/cross-market.html) (iOS and Android Apps)
 * [wangknn-dataset](https://github.com/kdsec/wangknn-dataset) (Tor, Websites)
