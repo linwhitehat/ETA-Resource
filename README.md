@@ -68,24 +68,23 @@ This is a current list of resources related to the research and development of e
     Datasets for Challenging Tasks
 </summary>
 
-* [Canadian Institute for Cybersecurity Datasets](https://www.unb.ca/cic/datasets/) (IoT, LLM, DNS, IDS, DoS, Darknet, Tor, VPN, Botnet, Malware)
-* [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/) (IoT, Botnet, Cloud Security)
-* [Cross-Platform](https://recon.meddle.mobi/cross-market.html) (iOS and Android Apps)
-* [wangknn-dataset](https://github.com/kdsec/wangknn-dataset) (Tor, Websites)
-* [DLWF](https://github.com/DistriNet/DLWF) (Tor, Websites, Concept Drift, Open World)
-* [Malware Capture Facility Project](https://www.stratosphereips.org/datasets-overview) (Malware)
-* [CSTNET-TLS 1.3](https://drive.google.com/drive/folders/1JSsYmevkxQFanoKOi_i1ooA6pH3s9sDr?usp=sharing) (TLS 1.3 services)
-* [Network-based Intrusion Detection](https://www.sciencedirect.com/science/article/pii/S016740481930118X) (AWID, Botnet, CIC DoS, CICIDS, CIDDS, CTU, DARPA, ISCX, IRSC)
-* [MobileTraffic](https://github.com/Abby-ZS/NUDT_MobileTraffic) (300+ Mobile Apps)
-* [Itc-Net-Blend-60](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4661706) (Android applications in Diverse Environments)
-* [Network-Flow-of-QUIC](https://drive.google.com/drive/folders/1cwHhzvaQbi-ap8yfrj2vHyPmUTQhaYOj) (QUIC services)
-* [Network Multiflow Fingerprinting Datasets](https://www.kaggle.com/datasets/fuukaa/network-multiflow-fingerprinting-datasets?datasetId=3270419&select=Keyword+Search+Dataset+Pcap) (User Activities (UAV), IoT Device Identification (IDI), Intrusion Detection (ISD), Keyword Searching (KWS), Shadowsocks Website 
-Fingerprinting (SWF))
-* [CTU-13](https://mcfp.weebly.com/the-ctu-13-dataset-a-labeled-dataset-with-botnet-normal-and-background-traffic.html) (Botnet, Malware)
-* [ANT Datasets](https://ant.isi.edu/datasets/index.html) (Botnet, IoT, DNS, IP Geolocation)
-* [LFETT2021 Dataset](https://github.com/HoneyPotter-Gzy/LFETT2021-dataset) (Tunnel, Proxy, VPN)
-* [AnonProxy2023](https://github.com/MrRobotsAA/AnonProxy2023-Dataset) (Anonymous, Proxy, VPN)
-* [DataCon2021-Encrypted Proxy](https://datacon.qianxin.com/opendata/openpage?resourcesId=10) (Proxy, VPN)
+* [Canadian Institute for Cybersecurity Datasets](https://www.unb.ca/cic/datasets/) (IoT, LLM, DNS, IDS, DoS, Darknet, Tor, VPN, Botnet, Malware)(continuous updating)
+* [ANT Datasets](https://ant.isi.edu/datasets/index.html) (Botnet, IoT, DNS, IP Geolocation)(continuous updating)
+* [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/) (IoT, Botnet, Cloud Security)(continuous updating)
+* [MobileTraffic](https://github.com/Abby-ZS/NUDT_MobileTraffic) (300+ Mobile Apps)(2024)
+* [Network Multiflow Fingerprinting Datasets](https://github.com/shashadehuajiang/trace_classifier) (User Activities (UAV), IoT Device Identification (IDI), Intrusion Detection (ISD), Keyword Searching (KWS), Shadowsocks Website 
+Fingerprinting (SWF))(2023)
+* [Itc-Net-Blend-60](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4661706) (Android applications in Diverse Environments)(2023)
+* [AnonProxy2023](https://github.com/MrRobotsAA/AnonProxy2023-Dataset) (Anonymous, Proxy, VPN)(2023)
+* [CSTNET-TLS 1.3](https://drive.google.com/drive/folders/1JSsYmevkxQFanoKOi_i1ooA6pH3s9sDr?usp=sharing) (TLS 1.3 services)(2022)
+* [LFETT2021 Dataset](https://github.com/HoneyPotter-Gzy/LFETT2021-dataset) (Tunnel, Proxy, VPN)(2021)
+* [DataCon2021-Encrypted Proxy](https://datacon.qianxin.com/opendata/openpage?resourcesId=10) (Proxy, VPN)(2021)
+* [Malware Capture Facility Project](https://www.stratosphereips.org/datasets-overview) (CTU, IoT, Malware, Botnet)(2020)
+* [Cross-Platform](https://recon.meddle.mobi/cross-market.html) (iOS and Android Apps)(2019)
+* [Network-based Intrusion Detection](https://www.sciencedirect.com/science/article/pii/S016740481930118X) (AWID, Botnet, CIC DoS, CICIDS, CIDDS, CTU, DARPA, ISCX, IRSC)(2019)
+* [wangknn-dataset](https://github.com/kdsec/wangknn-dataset) (Tor, Websites)(2018)
+* [DLWF](https://github.com/DistriNet/DLWF) (Tor, Websites, Concept Drift, Open World)(2018)
+* [Network-Flow-of-QUIC](https://drive.google.com/drive/folders/1cwHhzvaQbi-ap8yfrj2vHyPmUTQhaYOj) (QUIC services)(2017)
 </details>
 
 <details>
