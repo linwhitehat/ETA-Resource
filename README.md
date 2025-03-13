@@ -68,9 +68,9 @@ This is a current list of resources related to the research and development of e
     Datasets for Challenging Tasks
 </summary>
 
-* [Canadian Institute for Cybersecurity Datasets](https://www.unb.ca/cic/datasets/) (IoT, LLM, DNS, IDS, DoS, Darknet, Tor, VPN, Botnet, Malware)(continuous updating)
-* [ANT Datasets](https://ant.isi.edu/datasets/index.html) (Botnet, IoT, DNS, IP Geolocation)(continuous updating)
-* [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/) (IoT, Botnet, Cloud Security)(continuous updating)
+* [Canadian Institute for Cybersecurity Datasets](https://www.unb.ca/cic/datasets/) (IoT, LLM, DNS, IDS, DoS, Darknet, Tor, VPN, Botnet, Malware)(Regularly updated)
+* [ANT Datasets](https://ant.isi.edu/datasets/index.html) (Botnet, IoT, DNS, IP Geolocation)(Regularly updated)
+* [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/) (IoT, Botnet, Cloud Security)(Regularly updated)
 * [MobileTraffic](https://github.com/Abby-ZS/NUDT_MobileTraffic) (300+ Mobile Apps)(2024)
 * [Network Multiflow Fingerprinting Datasets](https://github.com/shashadehuajiang/trace_classifier) (User Activities (UAV), IoT Device Identification (IDI), Intrusion Detection (ISD), Keyword Searching (KWS), Shadowsocks Website 
 Fingerprinting (SWF))(2023)
