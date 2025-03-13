@@ -53,7 +53,7 @@ SOFTWARE.
 - [Survey & Benchmark](#survey-and-benchmark)
 - [Network Traffic Analysis](#network-traffic-analysis)
 - [Measurement](#measurement)
-- [Teams](#teams)
+- [Research Groups](#research-groups)
 - [Blogs](#blogs)
 - [Libraries and Frameworks](#tool-libraries-and-frameworks)
 <!--
@@ -61,7 +61,8 @@ SOFTWARE.
 -->
 
 # About
-This is a current list of resources related to the research and development of encrypted traffic analysis. We comb the field for relevant representative work and related resources, and pay more attention to typical studies and research teams.
+This repository offers a curated collection of research and development resources in the field of encrypted traffic analysis, with an emphasis on representative studies, datasets, and notable research groups.
+<!-- This is a current list of resources related to the research and development of encrypted traffic analysis. We comb the field for relevant representative work and related resources, and pay more attention to typical studies and research teams.-->
 
 # Datasets
 | Dataset| Description | Year |  Status  |
@@ -225,7 +226,7 @@ Fingerprinting (SWF))(2023)
 * [TTAGN: Temporal transaction aggregation graph network for ethereum phishing scams detection](https://dl.acm.org/doi/abs/10.1145/3485447.3512226). Sijia Li. WWW 2022.
 -->
 
-# Teams
+# Research Groups
 <details>
 <summary>
     Chinese Academy of Sciences, University of Chinese Academy of Sciences/China
@@ -267,6 +268,18 @@ Zhejiang University/China
 * [Meng Luo](https://person.zju.edu.cn/mengluo#0)
 * [Kui Ren](https://person.zju.edu.cn/kuiren)
 * [Fan Zhang](https://person.zju.edu.cn/fanzhang)
+</details>
+
+<details>
+<summary>
+Harbin Institute of Technology/China
+</summary>
+
+* [Weizhe (James) Zhang](https://homepage.hit.edu.cn/wzzhang)
+* [Xiangzhan Yu](https://homepage.hit.edu.cn/yuxiangzhan)
+* [Hui (Sophia) He](https://homepage.hit.edu.cn/huihe)
+* [Junbao Li](https://homepage.hit.edu.cn/lijunbao)
+* [Zhaoxin Zhang](https://homepage.hit.edu.cn/zhangzhaoxin)
 </details>
 
 <details>
@@ -361,7 +374,7 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 * [traffic_classification_utils](https://github.com/jmhIcoding/traffic_classification_utils)
 * [Website-Fingerprinting-Library (WFlib)](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library)
 
-# What's New
+# News and Updates
 **Version 1.0**
 
 > April 15, 2022 
