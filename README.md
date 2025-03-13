@@ -30,6 +30,7 @@ SOFTWARE.
 </h1>
 
 <p align="center">
+    <img src="https://img.shields.io/badge/status-maintained-brightgreen">
     <a href="https://github.com/linwhitehat/ETA-Resource/blob/main/LICENSE">
         <img alt="GitHub" src="https://img.shields.io/github/license/linwhitehat/ETA-Resource.svg?color=green">
     </a>
@@ -38,7 +39,7 @@ SOFTWARE.
     <a href="https://github.com/linwhitehat/ETA-Resource/graphs/traffic">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flinwhitehat%2FETA-Resource&label=visitor%20%20%20&labelColor=%23697689&countColor=%232ccce4&style=flat">
     </a>
-    <a href="https://github.com/linwhitehat/ETA-Resource#contributors-"><img src="https://img.shields.io/badge/Contributors-6-orange.svg"></a>
+    <a href="https://github.com/linwhitehat/ETA-Resource#contributors-"><img src="https://img.shields.io/badge/Contributors-8-orange.svg"></a>
 </p>
 
 **Note:**
@@ -48,8 +49,8 @@ SOFTWARE.
 
 # Content
 - [About](#about)
-- [Dataset & Benchmark](#datasets-and-benchmark)
-- [Survey](#survey)
+- [Dataset](#datasets)
+- [Survey & Benchmark](#survey-and-benchmark)
 - [Network Traffic Analysis](#network-traffic-analysis)
 - [Measurement](#measurement)
 - [Teams](#teams)
@@ -62,8 +63,27 @@ SOFTWARE.
 # About
 This is a current list of resources related to the research and development of encrypted traffic analysis. We comb the field for relevant representative work and related resources, and pay more attention to typical studies and research teams.
 
-# Datasets and Benchmark
-<details>
+# Datasets
+| Dataset | Description | Year |  Status  |
+|---------|-------------|------|----------|
+| [Canadian Institute for Cybersecurity Datasets](https://www.unb.ca/cic/datasets/) | IoT, LLM, DNS, IDS, DoS, Darknet, Tor, VPN, Botnet, Malware | – | 🟢 Regularly |
+| [ANT Datasets](https://ant.isi.edu/datasets/index.html) | Botnet, IoT, DNS, IP Geolocation | – | 🟢 Regularly |
+| [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/) | IoT, Botnet, Cloud Security | – | 🟢 Regularly |
+| [MobileTraffic](https://github.com/Abby-ZS/NUDT_MobileTraffic) | 300+ Mobile Apps | 2024 | 🔵 New |
+| [Network Multiflow Fingerprinting Datasets](https://github.com/shashadehuajiang/trace_classifier) | UAV, IoT Device ID, ISD, KWS, SWF | 2023 | 🟡 No updates |
+| [Itc-Net-Blend-60](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4661706) | Android Apps in Diverse Environments | 2023 | 🟡 No updates |
+| [AnonProxy2023](https://github.com/MrRobotsAA/AnonProxy2023-Dataset) | Anonymous, Proxy, VPN | 2023 | 🟡 No updates |
+| [CSTNET-TLS 1.3](https://github.com/linwhitehat/ET-BERT/tree/main/datasets/CSTNET-TLS%201.3) | TLS 1.3 Services | 2022 | 🟡 No updates |
+| [LFETT2021 Dataset](https://github.com/HoneyPotter-Gzy/LFETT2021-dataset) | Tunnel, Proxy, VPN | 2021 | 🟡 No updates |
+| [DataCon2021-Encrypted Proxy](https://datacon.qianxin.com/opendata/openpage?resourcesId=10) | Proxy, VPN | 2021 | 🟡 No updates |
+| [Malware Capture Facility Project](https://www.stratosphereips.org/datasets-overview) | CTU, IoT, Malware, Botnet | 2020 | 🟡 No updates |
+| [Cross-Platform](https://recon.meddle.mobi/cross-market.html) | iOS and Android Apps | 2019 | 🟡 No updates |
+| [Network-based Intrusion Detection](https://www.sciencedirect.com/science/article/pii/S016740481930118X) | AWID, Botnet, CIC DoS, CTU, DARPA | 2019 | 🟡 No updates |
+| [wangknn-dataset](https://github.com/kdsec/wangknn-dataset) | Tor, Websites | 2018 | 🟡 No updates |
+| [DLWF](https://github.com/DistriNet/DLWF) | Tor, Websites, Concept Drift, Open World | 2018 | 🟡 No updates |
+| [Network-Flow-of-QUIC](https://drive.google.com/drive/folders/1cwHhzvaQbi-ap8yfrj2vHyPmUTQhaYOj) | QUIC Services | 2017 | 🟡 No updates |
+
+<!--<details>
 <summary>
     Datasets for Challenging Tasks
 </summary>
@@ -94,12 +114,14 @@ Fingerprinting (SWF))(2023)
     
 * [NetBench: A Large-Scale and Comprehensive Network Traffic Benchmark Dataset for Foundation Models](https://arxiv.org/abs/2403.10319). [[Data]](https://github.com/WM-JayLab/NetBench)
 </details>
+-->
 
-# Survey
+# Survey and Benchmark
 * [Machine Learning-Powered Encrypted Network Traffic Analysis: A Comprehensive Survey](https://ieeexplore.ieee.org/document/9896143). Meng Shen. IEEE Communications Surveys & Tutorials 2023.
 * [Deep Learning for Encrypted Traffic Classification: An Overview](https://ieeexplore.ieee.org/document/8713803/). Shahbaz Rezaei. IEEE Communications Magazine 2019.
 * [Towards the Deployment of Machine Learning Solutions in Network Traffic Classification: A Systematic Survey](https://ieeexplore.ieee.org/document/8543584). Fannia Pacheco. IEEE Communications Surveys & Tutorials 2019.
 * [Deep Learning in Mobile and Wireless Networking: A Survey](https://ieeexplore.ieee.org/document/8666641). Chaoyun Zhang. IEEE Communications Surveys & Tutorials 2019.
+* [NetBench: A Large-Scale and Comprehensive Network Traffic Benchmark Dataset for Foundation Models](https://arxiv.org/abs/2403.10319). [[Data]](https://github.com/WM-JayLab/NetBench)
 
 # Network Traffic Analysis
 
