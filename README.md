@@ -351,6 +351,16 @@ Overseas
 * [Alessandro Finamore](https://afinamore.io/) (Huawei Technologies/France)
 </details>
 
+<!-- Wait dor updating
+PRL (Privacy Research Lab)	Princeton University	网络隐私、加密通信、流量特征分析	🟢 活跃
+Computer Security and Industrial Cryptography (COSIC)	KU Leuven (比利时)	加密协议、网络匿名性、安全通信	🟢 活跃
+Network and Distributed Systems Security (NDSS Lab)	UC Irvine	加密协议、匿名通信分析	🟢 活跃
+Information Security Group (ISG)	Royal Holloway, University of London	流量分析、TLS/QUIC研究	🟢 活跃
+SecLab	Northeastern University	加密通信、网络测量、反审查	🟢 活跃
+Security and Privacy Engineering Lab (SPRITE)	Georgia Tech	加密流量、IoT安全、数据保护	🟢 活跃
+CISPA Helmholtz Center	德国	加密通信协议分析、网络匿名性
+-->
+
 # Blogs
 ## Network Traffic Knowledge
 * [Icoding_F2014](https://blog.csdn.net/jmh1996)
