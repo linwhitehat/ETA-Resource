@@ -139,7 +139,7 @@ Fingerprinting (SWF))(2023)
 * [Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation](https://ojs.aaai.org/index.php/AAAI/article/view/25674). Ruijie Zhao. AAAI 2023. [[code]](https://github.com/NSSL-SJTU/YaTC)
 * [ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://dl.acm.org/doi/abs/10.1145/3485447.3512217). Xinjie Lin. WWW 2022. [[code]](https://github.com/linwhitehat/et-bert) [[Reproduce]](https://gitee.com/xxdxxdxxd/et-bert/blob/master/README.md)
 
-## ETA for Stable/Robust (Out-of-Distribution, Few-shot, Zero-shot)
+## ETA for Stable/Robust (Out-of-Distribution, Few-shot, Zero-shot, Open-set)
 * [CD-Net: Robust mobile traffic classification against apps updating](https://www.sciencedirect.com/science/article/abs/pii/S0167404824005200). Yanan Chen. ComSec 2025.
 * [Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis](https://arxiv.org/pdf/2407.00918). Xinhao Deng. CCS 2024. [[code]](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library)
 * [Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic](https://www.ndss-symposium.org/ndss-paper/low-quality-training-data-only-a-robust-framework-for-detecting-encrypted-malicious-network-traffic/). Yuqi Qing. NDSS 2024. [[code]](https://github.com/XXnormal/RAPIER)
