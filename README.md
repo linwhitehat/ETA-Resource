@@ -51,7 +51,14 @@ SOFTWARE.
 - [About](#about)
 - [Dataset](#datasets)
 - [Survey & Benchmark](#survey-and-benchmark)
-- [Network Traffic Analysis](#network-traffic-analysis)
+    - [Survey](#survey)
+    - [Benchmark](#benchmark)
+- [Encrypted Traffic Analysis](#encrypted-traffic-analysis)
+    - [ETA with Pre-training/LLMs](#eta-with-pre-trainingllms)
+    - [ETA with ML/DL](#eta-with-mldl)
+    - [Website Fingerprinting and App Fingerprinting (Anonymous and VPN)](#website-fingerprinting-and-app-fingerprinting-anonymous-and-vpn)
+    - [ETA for Robust](#eta-for-robust)
+    - [ETA for Online](#eta-for-online)
 - [Measurement](#measurement)
 - [Research Groups](#research-groups)
 - [Blogs](#blogs)
@@ -118,115 +125,141 @@ Fingerprinting (SWF))(2023)
 -->
 
 # Survey and Benchmark
-* [Machine Learning-Powered Encrypted Network Traffic Analysis: A Comprehensive Survey](https://ieeexplore.ieee.org/document/9896143). Meng Shen. IEEE Communications Surveys & Tutorials 2023.
-* [Deep Learning for Encrypted Traffic Classification: An Overview](https://ieeexplore.ieee.org/document/8713803/). Shahbaz Rezaei. IEEE Communications Magazine 2019.
-* [Towards the Deployment of Machine Learning Solutions in Network Traffic Classification: A Systematic Survey](https://ieeexplore.ieee.org/document/8543584). Fannia Pacheco. IEEE Communications Surveys & Tutorials 2019.
-* [Deep Learning in Mobile and Wireless Networking: A Survey](https://ieeexplore.ieee.org/document/8666641). Chaoyun Zhang. IEEE Communications Surveys & Tutorials 2019.
-* [CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence](https://proceedings.neurips.cc/paper_files/paper/2024/file/5acd3c628aa1819fbf07c39ef73e7285-Paper-Datasets_and_Benchmarks_Track.pdf#:~:text=To%20bridge%20this%20gap%2C%20we,bench). Md Tanvirul Alam. NeurIPS 2024. [[Evaluation]](https://github.com/aiforsec/cti-bench) [[Dataset details]](https://huggingface.co/datasets/AI4Sec/cti-bench)
+## Survey
+* [Machine Learning-Powered Encrypted Network Traffic Analysis: A Comprehensive Survey](https://ieeexplore.ieee.org/document/9896143). Meng Shen. `IEEE Communications Surveys & Tutorials 2023`.
+* [Deep Learning for Encrypted Traffic Classification: An Overview](https://ieeexplore.ieee.org/document/8713803/). Shahbaz Rezaei. `IEEE Communications Magazine 2019`.
+* [Towards the Deployment of Machine Learning Solutions in Network Traffic Classification: A Systematic Survey](https://ieeexplore.ieee.org/document/8543584). Fannia Pacheco. `IEEE Communications Surveys & Tutorials 2019`.
+* [Deep Learning in Mobile and Wireless Networking: A Survey](https://ieeexplore.ieee.org/document/8666641). Chaoyun Zhang. `IEEE Communications Surveys & Tutorials 2019`.
+## Benchmark
+* [CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence](https://proceedings.neurips.cc/paper_files/paper/2024/file/5acd3c628aa1819fbf07c39ef73e7285-Paper-Datasets_and_Benchmarks_Track.pdf#:~:text=To%20bridge%20this%20gap%2C%20we,bench). Md Tanvirul Alam. `NeurIPS 2024`. [[Evaluation]](https://github.com/aiforsec/cti-bench) [[Dataset details]](https://huggingface.co/datasets/AI4Sec/cti-bench)
 
-# Network Traffic Analysis
-
-## ETA with Pre-training/LLMs (Generalization, Side-channel Analysis, Network Simulation)
-* [Bottom Aggregating, Top Separating: An Aggregator and Separator Network for Encrypted Traffic Understanding](https://ieeexplore.ieee.org/abstract/document/10839404). Wei Peng. TIFS 2025.
-* [MIETT: Multi-Instance Encrypted Traffic Transformer for Encrypted Traffic Classification](https://arxiv.org/abs/2412.15306). Xuyang Chen and Lu Han. AAAI 2025.
-* [Resolving Packets from Counters: Enabling Multi-scale Network Traffic Super Resolution via Composable Large Traffic Model](https://www.usenix.org/conference/nsdi25/presentation/wang-xizheng-resolving). Xizheng Wang. NSDI 2025. [[code]](https://github.com/wxzisk/ZoomSynth_NSDI2025)
-* [TrafficFormer: An Efficient Pre-trained Model for Traffic Data](http://www.thucsnet.com/wp-content/papers/guangmeng_sp2025.pdf). Guangmeng Zhou. S&P 2025. [[code]](https://github.com/IDP-code/TrafficFormer)
-* [What Was Your Prompt? A Remote Keylogging Attack on AI Assistants](https://www.usenix.org/conference/usenixsecurity24/presentation/weiss). Roy Weiss. USENIX 2024. [[code]](https://github.com/royweiss1/GPT_Keylogger)
-* [NetLLM: Adapting Large Language Models for Networking](https://dl.acm.org/doi/abs/10.1145/3651890.3672268). Duo Wu. SIGCOMM 2024. [[code]](https://github.com/duowuyms/NetLLM)
-* [Efficient Network Traffic Classification via Pre-training Unidirectional Mamba](https://arxiv.org/abs/2405.11449). Tongze Wang. ICNP 2024. [[code]](https://github.com/wangtz19/NetMamba)
-* [CETP: A Novel Semi-Supervised Framework Based on Contrastive Pre-Training for Imbalanced Encrypted Traffic Classification](https://www.sciencedirect.com/science/article/abs/pii/S0167404824001949). Xinjie Lin. Computers & Security (ComSec) 2024.
-* [A novel approach for application classification with encrypted traffic using BERT and packet headers](https://www.sciencedirect.com/science/article/pii/S1389128624005796). Jaehak Yu. Computer Networks 2024.
-* [Flow-MAE: Leveraging Masked AutoEncoder for Accurate, Efficient and Robust Malicious Traffic Classification](https://dl.acm.org/doi/10.1145/3607199.3607206#core-collateral-purchase-access). Zijun Hang. RAID 2023. [[code]](https://github.com/NLear/Flow-MAE)
-* [Listen to Minority: Encrypted Traffic Classification for Class Imbalance with Contrastive Pre-Training](https://ieeexplore.ieee.org/abstract/document/10287449). Xiang Li. SECON 2023.
-* [Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation](https://ojs.aaai.org/index.php/AAAI/article/view/25674). Ruijie Zhao. AAAI 2023. [[code]](https://github.com/NSSL-SJTU/YaTC)
-* [ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://dl.acm.org/doi/abs/10.1145/3485447.3512217). Xinjie Lin. WWW 2022. [[code]](https://github.com/linwhitehat/et-bert) [[Reproduce]](https://gitee.com/xxdxxdxxd/et-bert/blob/master/README.md)
-
-## ETA for Stable (Out-of-Distribution, Few-shot, Zero-shot, Open-set)
-* [CD-Net: Robust mobile traffic classification against apps updating](https://www.sciencedirect.com/science/article/abs/pii/S0167404824005200). Yanan Chen. ComSec 2025.
-* [Identifying malicious traffic under concept drift based on intraclass consistency enhanced variational autoencoder](http://scis.scichina.com/en/2024/182302.pdf). Xiang Luo. SCIENCE CHINA Information Sciences (SCIS) 2024.
-* [Robust open-set classification for encrypted traffic fingerprinting](https://www.sciencedirect.com/science/article/pii/S138912862300436X). Thilini Dahanayaka. Computer Networks 2023.
-* [Few-shot encrypted traffic classification via multi-task representation enhanced meta-learning](https://www.sciencedirect.com/science/article/pii/S1389128623001767). Chen Yang. Computer Networks 2023.
-* [Zero-relabelling mobile-app identification over drifted encrypted network traffic](https://doi.org/10.1016/j.comnet.2023.109728). Minghao Jiang. Computer Networks 2023.
-* [Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation](https://www.ndss-symposium.org/ndss-paper/anomaly-detection-in-the-open-world-normality-shift-detection-explanation-and-adaptation/). Dongqi Han. NDSS 2023. [[code]](https://github.com/dongtsi/OWAD)
-* [Accurate mobile-app fingerprinting using flow-level relationship with graph neural networks](https://www.sciencedirect.com/science/article/pii/S1389128622003577). Minghao Jiang. Computer Networks 2022.
-* [Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning](https://dl.acm.org/doi/abs/10.1145/3319535.3354217). Payap Sirinam. CCS 2019. [[code]](https://github.com/triplet-fingerprinting/tf) (N-shot Learning)
-
-## Traditional Targets (Web, App, Malware, Gambling, User Activities, Intrusion Detection, IoT, Streaming Media)
+# Encrypted Traffic Analysis
+## ETA with Pre-training/LLMs
+* Side-channel Analysis
+    * [Bottom Aggregating, Top Separating: An Aggregator and Separator Network for Encrypted Traffic Understanding](https://ieeexplore.ieee.org/abstract/document/10839404). Wei Peng. `TIFS 2025`.
+    * [MIETT: Multi-Instance Encrypted Traffic Transformer for Encrypted Traffic Classification](https://arxiv.org/abs/2412.15306). Xuyang Chen and Lu Han. `AAAI 2025`.
+    * [Resolving Packets from Counters: Enabling Multi-scale Network Traffic Super Resolution via Composable Large Traffic Model](https://www.usenix.org/conference/nsdi25/presentation/wang-xizheng-resolving). Xizheng Wang. `NSDI 2025`. [[code]](https://github.com/wxzisk/ZoomSynth_NSDI2025)
+    * [TrafficFormer: An Efficient Pre-trained Model for Traffic Data](http://www.thucsnet.com/wp-content/papers/guangmeng_sp2025.pdf). Guangmeng Zhou. `S&P 2025`. [[code]](https://github.com/IDP-code/TrafficFormer)
+    * [What Was Your Prompt? A Remote Keylogging Attack on AI Assistants](https://www.usenix.org/conference/usenixsecurity24/presentation/weiss). Roy Weiss. `USENIX Security 2024`. [[code]](https://github.com/royweiss1/GPT_Keylogger)
+    * [Ptu: Pre-Trained Model for Network Traffic Understanding](https://ieeexplore.ieee.org/document/10858503). Lingfeng Peng. `ICNP 2024`.
+    * [NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba](https://arxiv.org/abs/2405.11449). Tongze Wang. `ICNP 2024`. [[code]](https://github.com/wangtz19/NetMamba)
+    * [CETP: A Novel Semi-Supervised Framework Based on Contrastive Pre-Training for Imbalanced Encrypted Traffic Classification](https://www.sciencedirect.com/science/article/abs/pii/S0167404824001949). Xinjie Lin. `Computers & Security 2024`.
+    * [A novel approach for application classification with encrypted traffic using BERT and packet headers](https://www.sciencedirect.com/science/article/pii/S1389128624005796). Jaehak Yu. `Computer Networks 2024`.
+    * [Flow-MAE: Leveraging Masked AutoEncoder for Accurate, Efficient and Robust Malicious Traffic Classification](https://dl.acm.org/doi/10.1145/3607199.3607206#core-collateral-purchase-access). Zijun Hang. `RAID 2023`. [[code]](https://github.com/NLear/Flow-MAE)
+    * [Listen to Minority: Encrypted Traffic Classification for Class Imbalance with Contrastive Pre-Training](https://ieeexplore.ieee.org/abstract/document/10287449). Xiang Li. `SECON 2023`.
+    * [Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation](https://ojs.aaai.org/index.php/AAAI/article/view/25674). Ruijie Zhao. `AAAI 2023`. [[code]](https://github.com/NSSL-SJTU/YaTC)
+    * [ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://dl.acm.org/doi/abs/10.1145/3485447.3512217). Xinjie Lin. `WWW 2022`. [[code]](https://github.com/linwhitehat/et-bert) [[Reproduce]](https://gitee.com/xxdxxdxxd/et-bert/blob/master/README.md)
+* Network Simulation
+   * [NetLLM: Adapting Large Language Models for Networking](https://dl.acm.org/doi/abs/10.1145/3651890.3672268). Duo Wu. `SIGCOMM 2024`. [[code]](https://github.com/duowuyms/NetLLM)
+     
+## ETA with ML/DL
 * General
-    * [FlowMiner: A Powerful Model Based on Flow Correlation Mining for Encrypted Traffic Classification](). Hongbo Xu. INFOCOM 2025.
-    * [DE-GNN: Dual embedding with graph neural network for fine-grained encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128624002044). Xinbo Han. Computer Networks 2024.
-    * [TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Trafic Classification](https://dl.acm.org/doi/abs/10.1145/3543507.3583227). Haozhen Zhang. WWW 2023. [[code]](https://github.com/ViktorAxelsen/TFE-GNN)
-    * [An Input-Agnostic Hierarchical Deep Learning Framework for Traffic Fingerprinting](https://www.usenix.org/conference/usenixsecurity23/presentation/qu). Jian Qu. USENIX 2023. [[code]](https://github.com/shashadehuajiang/trace_classifier/tree/main)
-    * [Classifying encrypted traffic using adaptive fingerprints with multi-level attributes](https://link.springer.com/article/10.1007%2Fs11280-021-00940-0). Chang Liu. WWW Journal 2021.
-    * [CETAnalytics: Comprehensive effective traffic information analytics for encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128619309466) (Generalization). Cong Dong. Computer Networks 2020.
-    * [FlowPrint: Semi-Supervised Mobile-App Fingerprinting on Encrypted Network Traffic](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24412.pdf). van Ede, Thijs. NDSS 2020. [[code]](https://github.com/Thijsvanede/FlowPrint)
-    * [FS-Net: A Flow Sequence Network For Encrypted Traffic Classification](https://ieeexplore.ieee.org/document/8737507). Chang Liu. INFOCOM 2019. [[code]](https://github.com/WSPTTH/FS-Net)
-    * [MaMPF: Encrypted Traffic Classification Based on Multi-Attribute Markov Probability Fingerprints](https://ieeexplore.ieee.org/abstract/document/8624124).  Chang Liu. IWQoS 2018. [[code]](https://github.com/WSPTTH/MaMPF)
-    * [AppScanner: Automatic Fingerprinting of Smartphone Apps from Encrypted Network Traffic](https://ieeexplore.ieee.org/abstract/document/7467370). Vincent F. Taylor. EuroS&P 2016. [[code]](https://github.com/vftaylor/appscanner)
-    * [Adaptive encrypted traffic fingerprinting with bi-directional dependence](https://dl.acm.org/doi/abs/10.1145/2991079.2991123). Khaled Al-Naami. ACSAC 2016. [[code]](https://github.com/khaled-alnaami/NetworkTrafficFingerprinting)
+    * [FlowMiner: A Powerful Model Based on Flow Correlation Mining for Encrypted Traffic Classification](). Hongbo Xu. `INFOCOM 2025`.
+    * [DE-GNN: Dual embedding with graph neural network for fine-grained encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128624002044). Xinbo Han. `Computer Networks 2024`.
+    * [TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Trafic Classification](https://dl.acm.org/doi/abs/10.1145/3543507.3583227). Haozhen Zhang. `WWW 2023`. [[code]](https://github.com/ViktorAxelsen/TFE-GNN)
+    * [An Input-Agnostic Hierarchical Deep Learning Framework for Traffic Fingerprinting](https://www.usenix.org/conference/usenixsecurity23/presentation/qu). Jian Qu. `USENIX 2023`. [[code]](https://github.com/shashadehuajiang/trace_classifier/tree/main)
+    * [Classifying encrypted traffic using adaptive fingerprints with multi-level attributes](https://link.springer.com/article/10.1007%2Fs11280-021-00940-0). Chang Liu. `WWW Journal 2021`.
+    * [CETAnalytics: Comprehensive effective traffic information analytics for encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128619309466) (Generalization). Cong Dong. `Computer Networks 2020`.
+    * [FlowPrint: Semi-Supervised Mobile-App Fingerprinting on Encrypted Network Traffic](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24412.pdf). van Ede, Thijs. `NDSS 2020`. [[code]](https://github.com/Thijsvanede/FlowPrint)
+    * [FS-Net: A Flow Sequence Network For Encrypted Traffic Classification](https://ieeexplore.ieee.org/document/8737507). Chang Liu. `INFOCOM 2019`. [[code]](https://github.com/WSPTTH/FS-Net)
+    * [MaMPF: Encrypted Traffic Classification Based on Multi-Attribute Markov Probability Fingerprints](https://ieeexplore.ieee.org/abstract/document/8624124).  Chang Liu. `IWQoS 2018`. [[code]](https://github.com/WSPTTH/MaMPF)
+    * [AppScanner: Automatic Fingerprinting of Smartphone Apps from Encrypted Network Traffic](https://ieeexplore.ieee.org/abstract/document/7467370). Vincent F. Taylor. `EuroS&P 2016`. [[code]](https://github.com/vftaylor/appscanner)
+    * [Adaptive encrypted traffic fingerprinting with bi-directional dependence](https://dl.acm.org/doi/abs/10.1145/2991079.2991123). Khaled Al-Naami. `ACSAC 2016`. [[code]](https://github.com/khaled-alnaami/NetworkTrafficFingerprinting)
 * Malicious
-    * [PETNet: Plaintext-aware encrypted traffic detection network for identifying Cobalt Strike HTTPS traffics](https://www.sciencedirect.com/science/article/pii/S1389128623005650). Xiaodu Yang. Computer Networks 2024. [[code]](https://github.com/CN-PETNet/PETNet)
-    * [Point Cloud Analysis for ML-Based Malicious Traffic Detection: Reducing Majorities of False Positive Alarms](https://dl.acm.org/doi/10.1145/3576915.3616631). Chuanpu Fu. CCS 2023.
-    * [Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s80_paper.pdf). Chuanpu Fu. NDSS 2023.
-    * [Detecting Tunneled Flooding Traffic via Deep Semantic Analysis of Packet Length Patterns](https://dl.acm.org/doi/abs/10.1145/3658644.3670353). Chuanpu Fu. CCS 2024.
+    * [PETNet: Plaintext-aware encrypted traffic detection network for identifying Cobalt Strike HTTPS traffics](https://www.sciencedirect.com/science/article/pii/S1389128623005650). Xiaodu Yang. `Computer Networks 2024`. [[code]](https://github.com/CN-PETNet/PETNet)
+    * [Point Cloud Analysis for ML-Based Malicious Traffic Detection: Reducing Majorities of False Positive Alarms](https://dl.acm.org/doi/10.1145/3576915.3616631). Chuanpu Fu. `CCS 2023`.
+    * [Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s80_paper.pdf). Chuanpu Fu. `NDSS 2023`.
+    * [Detecting Tunneled Flooding Traffic via Deep Semantic Analysis of Packet Length Patterns](https://dl.acm.org/doi/abs/10.1145/3658644.3670353). Chuanpu Fu. `CCS 2024`.
 * Network Intrusion Detection
-    * [Early Network Intrusion Detection Enabled by Attention Mechanisms and RNNs](https://doi.org/10.1109/TIFS.2024.3441862). Taki Eddine Toufik Djaidja. TIFS 2024.
-    * [TMG-GAN: Generative Adversarial Networks-Based Imbalanced Learning for Network Intrusion Detection](https://dl.acm.org/doi/10.1109/TIFS.2023.3331240). Hongwei Ding. TIFS 2024.
-    * [Network intrusion detection based on n-gram frequency and time-aware transformer](https://www.sciencedirect.com/science/article/pii/S0167404823000810?via%3Dihub). Xueying Han. Computer Security 2023.
+    * [Trident: A Universal Framework for Fine-Grained and Class-Incremental Unknown Traffic Detection](https://dl.acm.org/doi/10.1145/3589334.3645407). Secbrain. `WWW 2024`. [[code]](https://github.com/Secbrain/Trident/)
+    * [Mateen: Adaptive Ensemble Learning for Network Anomaly Detection](https://dl.acm.org/doi/10.1145/3678890.3678901). `RAID 2024`. [[code]](https://github.com/ICL-ml4csec/Mateen/)
+    * [AOC-IDS: Autonomous Online Framework with Contrastive Learning for Intrusion Detection](https://arxiv.org/abs/2402.01807). `Infocom 2024`. [[code]](https://github.com/xinchen930/AOC-IDS)
+    * [Early Network Intrusion Detection Enabled by Attention Mechanisms and RNNs](https://doi.org/10.1109/TIFS.2024.3441862). Taki Eddine Toufik Djaidja. `TIFS 2024`.
+    * [TMG-GAN: Generative Adversarial Networks-Based Imbalanced Learning for Network Intrusion Detection](https://dl.acm.org/doi/10.1109/TIFS.2023.3331240). Hongwei Ding. `TIFS 2024`.
+    * [Network intrusion detection based on n-gram frequency and time-aware transformer](https://www.sciencedirect.com/science/article/pii/S0167404823000810?via%3Dihub). Xueying Han. `Computer Security 2023`.
 * Gambling
-    * [Let gambling hide nowhere: Detecting illegal mobile gambling apps via heterogeneous graph-based encrypted traffic analysis](https://www.sciencedirect.com/science/article/pii/S1389128624001105). Zheyuan Gu. Computer Networks 2024.
-    * [Gambling Domain Name Recognition via Certificate and Textual Analysis](https://academic.oup.com/comjnl/article/66/8/1829/6570684). GuoYing Sun. The Computer Journal 2023.
-    * [Analyzing Ground-Truth Data of Mobile Gambling Scams](https://ieeexplore.ieee.org/abstract/document/9833665). Geng Hong. Symposium on Security and Privacy (S&P) 2022.
+    * [Let gambling hide nowhere: Detecting illegal mobile gambling apps via heterogeneous graph-based encrypted traffic analysis](https://www.sciencedirect.com/science/article/pii/S1389128624001105). Zheyuan Gu. `Computer Networks 2024`.
+    * [Gambling Domain Name Recognition via Certificate and Textual Analysis](https://academic.oup.com/comjnl/article/66/8/1829/6570684). GuoYing Sun. `The Computer Journal 2023`.
+    * [Analyzing Ground-Truth Data of Mobile Gambling Scams](https://ieeexplore.ieee.org/abstract/document/9833665). Geng Hong. `Symposium on Security and Privacy (S&P) 2022`.
 * IoT
-    * [HorusEye: A Realtime IoT Malicious Traffic Detection Framework using Programmable Switches](https://www.usenix.org/conference/usenixsecurity23/presentation/dong-yutao). Yutao Dong. USENIX 2023.
+    * [HorusEye: A Realtime IoT Malicious Traffic Detection Framework using Programmable Switches](https://www.usenix.org/conference/usenixsecurity23/presentation/dong-yutao). Yutao Dong. `USENIX 2023`.
 * Vedio (Streaming Media)
-    * [Breaking Through the Diversity: Encrypted Video Identification Attack Based on QUIC Features](https://link.springer.com/chapter/10.1007/978-3-031-70903-6_9#author-information). Nan Hu. ESORICS 2024.
-    * [Traffic spills the beans: A robust video identification attack against YouTube](https://www.sciencedirect.com/science/article/abs/pii/S0167404823005333). Xiyuan Zhang. ComSec 2024.
-    * [Walls Have Ears: Traffic-based Side-channel Attack in Video Streaming](https://ieeexplore.ieee.org/abstract/document/8486211). Jiaxi Gu. IEEE INFOCOM 2018.
+    * [Breaking Through the Diversity: Encrypted Video Identification Attack Based on QUIC Features](https://link.springer.com/chapter/10.1007/978-3-031-70903-6_9#author-information). Nan Hu. `ESORICS 2024`.
+    * [Traffic spills the beans: A robust video identification attack against YouTube](https://www.sciencedirect.com/science/article/abs/pii/S0167404823005333). Xiyuan Zhang. `ComSec 2024`.
+    * [Walls Have Ears: Traffic-based Side-channel Attack in Video Streaming](https://ieeexplore.ieee.org/abstract/document/8486211). Jiaxi Gu. `IEEE INFOCOM 2018`.
 
-## Defense and Adversarial Techniques (Robust)
-* [Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic](https://www.ndss-symposium.org/ndss-paper/low-quality-training-data-only-a-robust-framework-for-detecting-encrypted-malicious-network-traffic/). Yuqi Qing. NDSS 2024. [[code]](https://github.com/XXnormal/RAPIER)
-* [TrafCL: Robust Encrypted Malicious Traffic Detection via Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3627673.3679839). Xiaodu Yang. CIKM 2024.
-* [MCRe: A Unified Framework for Handling Malicious Traffic With Noise Labels Based on Multidimensional Constraint Representation](https://dl.acm.org/doi/10.1109/TIFS.2023.3318962). Qingjun Yuan. TIFS 2024.
-* [Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a263/1WPcZnZILHa). Meng Shen. S&P 2024.
-* [Defending Against Deep Learning-Based Traffic Fingerprinting Attacks With Adversarial Examples](https://dl.acm.org/doi/abs/10.1145/3698591). Blake Hayden. ACM Transactions on Privacy and Security (TOPS) 2024.
-* [BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems](https://www.ndss-symposium.org/ndss-paper/bars-local-robustness-certification-for-deep-learning-based-traffic-analysis-systems/#:~:text=Deep%20learning%20,based%20traffic%20analysis%20systems%20based). Kai Wang. NDSS 2023.
-* [Subverting Website Fingerprinting Defenses with Robust Traffic Representation](https://www.usenix.org/conference/usenixsecurity23/presentation/shen-meng). Meng Shen. USENIX 2023.
-* [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](https://www.usenix.org/conference/usenixsecurity23/presentation/xie). Renjie Xie. USENIX 2023. [[code]](https://github.com/sunskyXX/Rosetta)
+## Website Fingerprinting and App Fingerprinting (Anonymous and VPN)
+* Tunnel and VPN
+    * [Fingerprinting Obfuscated Proxy Traffic with Encapsulated TLS Handshakes](https://www.usenix.org/conference/usenixsecurity24/presentation/xue-fingerprinting). Diwen Xue. `USENIX 2024`.
+    * [On Precisely Detecting Censorship Circumvention in Real-World Networks](https://www.ndss-symposium.org/ndss-paper/on-precisely-detecting-censorship-circumvention-in-real-world-networks). Ryan Wails. `NDSS 2024`.
+    * [Detecting Tunneled Flooding Traffic via Deep Semantic Analysis of Packet Length Patterns](https://dl.acm.org/doi/10.1145/3658644.3670353). Chuanpu Fu. `CCS 2024`. [[code]](https://github.com/fuchuanpu/Exosphere) [[video]](https://www.bilibili.com/video/BV1QLCUYuEKM/?spm_id_from=333.1387.collection.video_card.click&vd_source=a1efd78c138281beaaf12f4f11412057)
+    * [ProxyKiller: An Anonymous Proxy Traffic Attack Model Based on Traffic Behavior Graphs](https://link.springer.com/chapter/10.1007/978-3-031-70890-9_9#Tab4). Hongbo Xu. `ESORICS 2024`.
+    * [VPNSniffer: Identifying VPN Servers Through Graph-Represented Behaviors](https://dl.acm.org/doi/10.1145/3589334.3645552). Chenxu Wang. `WWW 2024`.
+    * [AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN](https://dl.acm.org/doi/10.1145/3543507.3583473). Sanghak Oh. `WWW 2023`.
+* Tor
+    * [Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis](https://arxiv.org/pdf/2407.00918). Xinhao Deng. `CCS 2024`. [[code]](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library)
+    * [Towards Fine-Grained Webpage Fingerprinting at Scale](https://dl.acm.org/doi/abs/10.1145/3658644.3690211). Xiyuan Zhao and Xinhao Deng. `CCS 2024`. [[code]](https://zenodo.org/records/13383332)
+    * [HSDirSniper: A New Attack Exploiting Vulnerabilities in Tor's Hidden Service Directories](https://dl.acm.org/doi/10.1145/3589334.3645591). Qingfeng Zhang. `WWW 2024`.
+    * [Transformer-based Model for Multi-tab Website Fingerprinting Attack](https://dl.acm.org/doi/abs/10.1145/3576915.3623107). Zhaoxin Jin. `CCS 2023`.
+    * [Online Website Fingerprinting: Evaluating Website Fingerprinting Attacks on Tor in the Real World](https://www.usenix.org/conference/usenixsecurity22/presentation/cherubin). Giovanni Cherubin. `USENIX 2022`.
+    * [BAPM: Block Attention Profiling Model for Multi-tab Website Fingerprinting Attacks on Tor](https://dl.acm.org/doi/10.1145/3485832.3485891). Zhong Guan. `ACSAC 2021`.
+    * [Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning](https://dl.acm.org/doi/10.1145/3319535.3354217). Payap Sirinam. `CCS 2019`. [[code]](https://github.com/triplet-fingerprinting/tf)
+    * [Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning](https://dl.acm.org/doi/abs/10.1145/3243734.3243768). Payap Sirinam. `CCS 2018`. [[code]](https://github.com/deep-fingerprinting/df)
+    * [Automated Website Fingerprinting through Deep Learning](https://tor-wf-dl.distrinet-research.be/Rimmer2018-DLWF.pdf). Vera Rimmer. `NDSS 2018`. [[code]](https://github.com/DistriNet/DLWF)
+
+## ETA for Robust
+* Out-of-Distribution
+    * [CD-Net: Robust mobile traffic classification against apps updating](https://www.sciencedirect.com/science/article/abs/pii/S0167404824005200). Yanan Chen. `ComSec 2025`.
+    * [Identifying malicious traffic under concept drift based on intraclass consistency enhanced variational autoencoder](http://scis.scichina.com/en/2024/182302.pdf). Xiang Luo. `SCIENCE CHINA Information Sciences (SCIS) 2024`.
+    * [Zero-relabelling mobile-app identification over drifted encrypted network traffic](https://doi.org/10.1016/j.comnet.2023.109728). Minghao Jiang. `Computer Networks 2023`.
+    * [Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation](https://www.ndss-symposium.org/ndss-paper/anomaly-detection-in-the-open-world-normality-shift-detection-explanation-and-adaptation/). Dongqi Han. `NDSS 2023`. [[code]](https://github.com/dongtsi/OWAD)
+    * [Accurate mobile-app fingerprinting using flow-level relationship with graph neural networks](https://www.sciencedirect.com/science/article/pii/S1389128622003577). Minghao Jiang. `Computer Networks 2022`.
+    * [CADE: Detecting and Explaining Concept Drift Samples for Security Applications](https://www.usenix.org/conference/usenixsecurity21/presentation/yang-limin). Dongqi Han. `USENIX Security 2021`. [[code]](https://github.com/whyisyoung/CADE)
+* Few-shot/Zero-shot
+    * [Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic](https://www.ndss-symposium.org/ndss-paper/low-quality-training-data-only-a-robust-framework-for-detecting-encrypted-malicious-network-traffic/). Yuqi Qing. `NDSS 2024`. [[code]](https://github.com/XXnormal/RAPIER)
+    * [Few-shot encrypted traffic classification via multi-task representation enhanced meta-learning](https://www.sciencedirect.com/science/article/pii/S1389128623001767). Chen Yang. `Computer Networks 2023`.
+    * [Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning](https://dl.acm.org/doi/abs/10.1145/3319535.3354217). Payap Sirinam. `CCS 2019`. [[code]](https://github.com/triplet-fingerprinting/tf) (N-shot Learning)
+* Open-set
+    * [Robust open-set classification for encrypted traffic fingerprinting](https://www.sciencedirect.com/science/article/pii/S138912862300436X). Thilini Dahanayaka. `Computer Networks 2023`.
+* Defense and Adversarial Techniques
+    * [TrafCL: Robust Encrypted Malicious Traffic Detection via Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3627673.3679839). Xiaodu Yang. `CIKM 2024`.
+    * [MCRe: A Unified Framework for Handling Malicious Traffic With Noise Labels Based on Multidimensional Constraint Representation](https://dl.acm.org/doi/10.1109/TIFS.2023.3318962). Qingjun Yuan. `TIFS 2024`.
+    * [Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a263/1WPcZnZILHa). Meng Shen. `S&P 2024`.
+    * [Defending Against Deep Learning-Based Traffic Fingerprinting Attacks With Adversarial Examples](https://dl.acm.org/doi/abs/10.1145/3698591). Blake Hayden. `ACM Transactions on Privacy and Security (TOPS) 2024`.
+    * [BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems](https://www.ndss-symposium.org/ndss-paper/bars-local-robustness-certification-for-deep-learning-based-traffic-analysis-systems/#:~:text=Deep%20learning%20,based%20traffic%20analysis%20systems%20based). Kai Wang. `NDSS 2023`.
+    * [Subverting Website Fingerprinting Defenses with Robust Traffic Representation](https://www.usenix.org/conference/usenixsecurity23/presentation/shen-meng). Meng Shen. `USENIX 2023`.
+    * [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](https://www.usenix.org/conference/usenixsecurity23/presentation/xie). Renjie Xie. `USENIX 2023`. [[code]](https://github.com/sunskyXX/Rosetta)
 * Explanatory Analysis
-    * [Rules Refine the Riddle: Global Explanation for Deep Learning-Based Anomaly Detection in Security Applications](https://dl.acm.org/doi/10.1145/3658644.3670375). DongqiHan. CCS 2024. [[code]](https://github.com/dongtsi/GEAD)
+    * [Rules Refine the Riddle: Global Explanation for Deep Learning-Based Anomaly Detection in Security Applications](https://dl.acm.org/doi/10.1145/3658644.3670375). Dongqi Han. `CCS 2024`. [[code]](https://github.com/dongtsi/GEAD)
+    * [xNIDS: Explaining Deep Learning-based Network Intrusion Detection Systems for Active Intrusion Responses](https://www.usenix.org/conference/usenixsecurity23/presentation/wei-feng). Feng Wei. `USENIX Security 2023`. [[code]](https://github.com/CactiLab/code-xNIDS)
+    * [Towards Understanding Alerts raised by Unsupervised Network Intrusion Detection Systems](https://dl.acm.org/doi/10.1145/3607199.3607247). Maxime Lanvin. `RAID 2023`.
+    * [AI/ML for Network Security: The Emperor has no Clothes](https://dl.acm.org/doi/10.1145/3548606.3560609). Arthur S. Jacobs. `CCS 2022`. [[code]](https://github.com/TrusteeML/trustee)
 <!-- * [Explaining Deep Learning Models for Per-packet Encrypted Network Traffic Classification](https://ant.isi.edu/~hardaker/papers/Explaining_Deep_Learning_Models_for_Per-packet_Encrypted_Network_Traffic_Classification.pdf#:~:text=we%20propose%20a%20methodology%20to,directions%20toward%20optimizing%20model%20performance). Luis Garcia. IEEE M&N 2022. -->
 
-## Anonymous and VPN (WF, WFP, App Classification)
-* Tunnel and VPN
-    * [Fingerprinting Obfuscated Proxy Traffic with Encapsulated TLS Handshakes](https://www.usenix.org/conference/usenixsecurity24/presentation/xue-fingerprinting). Diwen Xue. USENIX 2024.
-    * [On Precisely Detecting Censorship Circumvention in Real-World Networks](https://www.ndss-symposium.org/ndss-paper/on-precisely-detecting-censorship-circumvention-in-real-world-networks). Ryan Wails. NDSS 2024.
-    * [Detecting Tunneled Flooding Traffic via Deep Semantic Analysis of Packet Length Patterns](https://dl.acm.org/doi/10.1145/3658644.3670353). Chuanpu Fu. CCS 2024. [[code]](https://github.com/fuchuanpu/Exosphere) [[video]](https://www.bilibili.com/video/BV1QLCUYuEKM/?spm_id_from=333.1387.collection.video_card.click&vd_source=a1efd78c138281beaaf12f4f11412057)
-    * [ProxyKiller: An Anonymous Proxy Traffic Attack Model Based on Traffic Behavior Graphs](https://link.springer.com/chapter/10.1007/978-3-031-70890-9_9#Tab4). Hongbo Xu. ESORICS 2024.
-    * [VPNSniffer: Identifying VPN Servers Through Graph-Represented Behaviors](https://dl.acm.org/doi/10.1145/3589334.3645552). Chenxu Wang. WWW 2024.
-    * [AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN](https://dl.acm.org/doi/10.1145/3543507.3583473). Sanghak Oh. WWW 2023.
-* Tor
-    * [Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis](https://arxiv.org/pdf/2407.00918). Xinhao Deng. CCS 2024. [[code]](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library)
-    * [Towards Fine-Grained Webpage Fingerprinting at Scale](https://dl.acm.org/doi/abs/10.1145/3658644.3690211). Xiyuan Zhao and Xinhao Deng. CCS 2024. [[code]](https://zenodo.org/records/13383332)
-    * [HSDirSniper: A New Attack Exploiting Vulnerabilities in Tor's Hidden Service Directories](https://dl.acm.org/doi/10.1145/3589334.3645591). Qingfeng Zhang. WWW 2024.
-    * [Transformer-based Model for Multi-tab Website Fingerprinting Attack](https://dl.acm.org/doi/abs/10.1145/3576915.3623107). Zhaoxin Jin. CCS 2023.
-    * [Online Website Fingerprinting: Evaluating Website Fingerprinting Attacks on Tor in the Real World](https://www.usenix.org/conference/usenixsecurity22/presentation/cherubin). Giovanni Cherubin. USENIX 2022.
-    * [BAPM: Block Attention Profiling Model for Multi-tab Website Fingerprinting Attacks on Tor](https://dl.acm.org/doi/10.1145/3485832.3485891). Zhong Guan. ACSAC 2021.
-    * [Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning](https://dl.acm.org/doi/10.1145/3319535.3354217). Payap Sirinam. CCS 2019. [[code]](https://github.com/triplet-fingerprinting/tf)
-    * [Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning](https://dl.acm.org/doi/abs/10.1145/3243734.3243768). Payap Sirinam. CCS 2018. [[code]](https://github.com/deep-fingerprinting/df)
-    * [Automated Website Fingerprinting through Deep Learning](https://tor-wf-dl.distrinet-research.be/Rimmer2018-DLWF.pdf). Vera Rimmer. NDSS 2018. [[code]](https://github.com/DistriNet/DLWF)
+## ETA for Online
+* [Leo: Online ML-based Traffic Classification at Multi-Terabit Line Rate](https://www.usenix.org/conference/nsdi24/presentation/jafri). Syed Usman Jafri. `NSDI 2024`. [[code]](https://github.com/Purdue-ISL/Leo)
+* [Brain-on-Switch: Towards Advanced Intelligent Network Data Plane via NN-Driven Traffic Analysis at Line-Speed](https://www.usenix.org/conference/nsdi24/presentation/yan). Jinzhu Yan. `NSDI 2024`. [[code]](https://github.com/InspiringGroup-Lab/Brain-on-Switch)
+* [LINC: Enabling Low-Resource In-network Classification and Incremental Model Update](https://smartinternet.group/wp-content/uploads/2024/09/paper-yhl-linc-icnp.pdf). Haolin Yan. `ICNP 2024`. [[code]](https://github.com/haolinyan/LINC)
+* [IIsy: Hybrid In-Network Classification Using Programmable Switches](https://ieeexplore.ieee.org/document/10439067). Changgang Zheng. `ToN 2024`. [[code]](https://github.com/In-Network-Machine-Learning/IIsy)
+* [Recursive Multi-Tree Construction With Efficient Rule Sifting for Packet Classification on FPGA](https://ieeexplore.ieee.org/document/10315073). Yao Xin. `ToN 2024`. [[code]](https://github.com/wenjunpaper/KickTree)
+* [NetVigil: Robust and Low-Cost Anomaly Detection for East-West Data Center Security](https://www.usenix.org/system/files/nsdi24-hsieh.pdf). Kevin Hsieh. `NSDI 2024`. [[code]](https://github.com/microsoft/Yatesbury)
+* [RIDS: Towards Advanced IDS via RNN Model and Programmable Switches Co-Designed Approaches](https://ieeexplore.ieee.org/document/10621290). Ziming Zhao. `Infocom 2024`. [[code]](https://github.com/Secbrain/RIDS/)
+* [Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction](https://arxiv.org/abs/2403.19248). Ruoyu Li. `Infocom 2024`.
+* [HorusEye: A Realtime IoT Malicious Traffic Detection Framework using Programmable Switches](https://www.usenix.org/conference/usenixsecurity23/presentation/dong-yutao). Yutao Dong. `USENIX Security 2023`. [[code]](https://github.com/vicTorKd/HorusEye)
+* [Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis](https://www.ndss-symposium.org/ndss-paper/detecting-unknown-encrypted-malicious-traffic-in-real-time-via-flow-interaction-graph-analysis/). Chuanpu Fu. `NDSS 2023`. [[code]](https://github.com/fuchuanpu/HyperVision)
+* [Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-3_Mirsky_paper.pdf). Yisroel Mirsky. `NDSS 2018`. [[code]](https://github.com/ymirsky/KitNET-py)
 
 # Measurement
 * Domain Name System
-    * [A Worldwide View on the Reachability of Encrypted DNS Services](https://dl.acm.org/doi/abs/10.1145/3589334.3645539). Ruixuan Li. WWW 2024.
-    * [Investigating Deployment Issues of DNS Root Server Instances from a China-wide View](https://ieeexplore.ieee.org/abstract/document/10460172/keywords#keywords). Fenglu Zhang. IEEE Transactions on Dependable and Secure Computing (TDSC) 2024.
+    * [A Worldwide View on the Reachability of Encrypted DNS Services](https://dl.acm.org/doi/abs/10.1145/3589334.3645539). Ruixuan Li. `WWW 2024`.
+    * [Investigating Deployment Issues of DNS Root Server Instances from a China-wide View](https://ieeexplore.ieee.org/abstract/document/10460172/keywords#keywords). Fenglu Zhang. `IEEE Transactions on Dependable and Secure Computing (TDSC) 2024`.
 * Privacy and Security
-    * [Privacy protection of China’s top websites: A Multi-layer privacy measurement via network behaviours and privacy policies](https://www.sciencedirect.com/science/article/abs/pii/S0167404822000050). Xinjie Lin. ComSec 2022.
+    * [Privacy protection of China’s top websites: A Multi-layer privacy measurement via network behaviours and privacy policies](https://www.sciencedirect.com/science/article/abs/pii/S0167404822000050). Xinjie Lin. `ComSec 2022`.
 * IPv6
-    * [IPv6 Prefix Target Generation through Pattern and Distribution Learning using Vision-Transformer and Guided-Diffusion](). Yaochen Ren. INFOCOM 2025.
-    * [6GAN: IPv6 Multi-Pattern Target Generation via Generative Adversarial Nets with Reinforcement Learning](https://ieeexplore.ieee.org/document/9488912). Tianyu Cui. INFOCOM 2021. [[code]](https://github.com/CuiTianyu961030/6GAN)
-    * [SiamHAN: IPv6 Address Correlation Attacks on TLS Encrypted Traffic via Siamese Heterogeneous Graph Attention Network](https://www.usenix.org/conference/usenixsecurity21/presentation/cui). Tianyu Cui. USENIX 2021. [[code]](https://github.com/CuiTianyu961030/SiamHAN)
-    * [6VecLM: Language Modeling in Vector Space for IPv6 Target Generation](https://link.springer.com/chapter/10.1007%2F978-3-030-67667-4_12). Tianyu Cui. ECML/PKDD 2020. [[code]](https://github.com/CuiTianyu961030/6VecLM)
+    * [IPv6 Prefix Target Generation through Pattern and Distribution Learning using Vision-Transformer and Guided-Diffusion](). Yaochen Ren. `INFOCOM 2025`.
+    * [6GAN: IPv6 Multi-Pattern Target Generation via Generative Adversarial Nets with Reinforcement Learning](https://ieeexplore.ieee.org/document/9488912). Tianyu Cui. `INFOCOM 2021`. [[code]](https://github.com/CuiTianyu961030/6GAN)
+    * [SiamHAN: IPv6 Address Correlation Attacks on TLS Encrypted Traffic via Siamese Heterogeneous Graph Attention Network](https://www.usenix.org/conference/usenixsecurity21/presentation/cui). Tianyu Cui. `USENIX 2021`. [[code]](https://github.com/CuiTianyu961030/SiamHAN)
+    * [6VecLM: Language Modeling in Vector Space for IPv6 Target Generation](https://link.springer.com/chapter/10.1007%2F978-3-030-67667-4_12). Tianyu Cui. `ECML/PKDD 2020`. [[code]](https://github.com/CuiTianyu961030/6VecLM)
 
 <!--
 # Ethereum
@@ -375,6 +408,7 @@ CISPA Helmholtz Center	德国	加密通信协议分析、网络匿名性
 ## Network Traffic Knowledge
 * [Icoding_F2014](https://blog.csdn.net/jmh1996)
 * [Malware-Traffic-Analysis](https://www.malware-traffic-analysis.net/)
+* [Awesome-NTA](https://github.com/linwhitehat/Awesome-NTA)
 
 ## Network Traffic Analysis Tool Manual
 * [Tshark](https://www.wireshark.org/docs/man-pages/tshark.html)
@@ -395,10 +429,14 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 * [Website-Fingerprinting-Library (WFlib)](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library)
 
 # News and Updates
+**Version 2.0**
+> March 22, 2025 
+1. Welcome to the New Contributors!
+2. The content is presented with a clearer structure and style.
+3. Fixed some errors.
+
 **Version 1.0**
-
 > April 15, 2022 
-
 1. Welcome to the Ph.Ds from IIE,CAS.
 
 # Contributors 🌟
