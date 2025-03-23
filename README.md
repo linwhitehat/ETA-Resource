@@ -54,11 +54,11 @@ SOFTWARE.
     - [Survey](#survey)
     - [Benchmark](#benchmark)
 - [Encrypted Traffic Analysis](#encrypted-traffic-analysis)
-    - [ETA with Pre-training/LLMs](#eta-with-pre-trainingllms)
-    - [ETA with ML/DL](#eta-with-mldl)
+    - [Pre-training/LLMs](#pre-trainingllms)
+    - [ML/DL](#mldl)
     - [Website Fingerprinting and App Fingerprinting (Anonymous and VPN)](#website-fingerprinting-and-app-fingerprinting-anonymous-and-vpn)
-    - [ETA for Robust](#eta-for-robust)
-    - [ETA for Online](#eta-for-online)
+    - [Robustness](#robustness)
+    - [Online Methods](#online-methods)
 - [Measurement](#measurement)
 - [Research Groups](#research-groups)
 - [Blogs](#blogs)
@@ -134,7 +134,7 @@ Fingerprinting (SWF))(2023)
 * [CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence](https://proceedings.neurips.cc/paper_files/paper/2024/file/5acd3c628aa1819fbf07c39ef73e7285-Paper-Datasets_and_Benchmarks_Track.pdf#:~:text=To%20bridge%20this%20gap%2C%20we,bench). Md Tanvirul Alam. `NeurIPS 2024`. [[Evaluation]](https://github.com/aiforsec/cti-bench) [[Dataset details]](https://huggingface.co/datasets/AI4Sec/cti-bench)
 
 # Encrypted Traffic Analysis
-## ETA with Pre-training/LLMs
+## Pre-training/LLMs
 * Side-channel Analysis
     * [Bottom Aggregating, Top Separating: An Aggregator and Separator Network for Encrypted Traffic Understanding](https://ieeexplore.ieee.org/abstract/document/10839404). Wei Peng. `TIFS 2025`.
     * [MIETT: Multi-Instance Encrypted Traffic Transformer for Encrypted Traffic Classification](https://arxiv.org/abs/2412.15306). Xuyang Chen and Lu Han. `AAAI 2025`.
@@ -152,7 +152,7 @@ Fingerprinting (SWF))(2023)
 * Network Simulation
    * [NetLLM: Adapting Large Language Models for Networking](https://dl.acm.org/doi/abs/10.1145/3651890.3672268). Duo Wu. `SIGCOMM 2024`. [[code]](https://github.com/duowuyms/NetLLM)
      
-## ETA with ML/DL
+## ML/DL
 * General
     * [FlowMiner: A Powerful Model Based on Flow Correlation Mining for Encrypted Traffic Classification](). Hongbo Xu. `INFOCOM 2025`.
     * [DE-GNN: Dual embedding with graph neural network for fine-grained encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128624002044). Xinbo Han. `Computer Networks 2024`.
@@ -207,7 +207,7 @@ Fingerprinting (SWF))(2023)
     * [Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning](https://dl.acm.org/doi/abs/10.1145/3243734.3243768). Payap Sirinam. `CCS 2018`. [[code]](https://github.com/deep-fingerprinting/df)
     * [Automated Website Fingerprinting through Deep Learning](https://tor-wf-dl.distrinet-research.be/Rimmer2018-DLWF.pdf). Vera Rimmer. `NDSS 2018`. [[code]](https://github.com/DistriNet/DLWF)
 
-## ETA for Robust
+## Robustness
 * Out-of-Distribution
     * [CD-Net: Robust mobile traffic classification against apps updating](https://www.sciencedirect.com/science/article/abs/pii/S0167404824005200). Yanan Chen. `ComSec 2025`.
     * [Zero-relabelling mobile-app identification over drifted encrypted network traffic](https://doi.org/10.1016/j.comnet.2023.109728). Minghao Jiang. `Computer Networks 2023`.
@@ -236,7 +236,7 @@ Fingerprinting (SWF))(2023)
     * [AI/ML for Network Security: The Emperor has no Clothes](https://dl.acm.org/doi/10.1145/3548606.3560609). Arthur S. Jacobs. `CCS 2022`. [[code]](https://github.com/TrusteeML/trustee)
 <!-- * [Explaining Deep Learning Models for Per-packet Encrypted Network Traffic Classification](https://ant.isi.edu/~hardaker/papers/Explaining_Deep_Learning_Models_for_Per-packet_Encrypted_Network_Traffic_Classification.pdf#:~:text=we%20propose%20a%20methodology%20to,directions%20toward%20optimizing%20model%20performance). Luis Garcia. IEEE M&N 2022. -->
 
-## ETA for Online
+## Online Methods
 * [Leo: Online ML-based Traffic Classification at Multi-Terabit Line Rate](https://www.usenix.org/conference/nsdi24/presentation/jafri). Syed Usman Jafri. `NSDI 2024`. [[code]](https://github.com/Purdue-ISL/Leo)
 * [Brain-on-Switch: Towards Advanced Intelligent Network Data Plane via NN-Driven Traffic Analysis at Line-Speed](https://www.usenix.org/conference/nsdi24/presentation/yan). Jinzhu Yan. `NSDI 2024`. [[code]](https://github.com/InspiringGroup-Lab/Brain-on-Switch)
 * [LINC: Enabling Low-Resource In-network Classification and Incremental Model Update](https://smartinternet.group/wp-content/uploads/2024/09/paper-yhl-linc-icnp.pdf). Haolin Yan. `ICNP 2024`. [[code]](https://github.com/haolinyan/LINC)
