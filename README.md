@@ -57,6 +57,7 @@ SOFTWARE.
     - [Applied Pre-training/LLMs](#applied-pre-trainingllms)
     - [Encrypted Traffic Classification: ML/DL](#encrypted-traffic-classification-mldl)
     - [Network Traffic Simulation: ML/DL](#network-traffic-simulation-mldl)
+    - [Network Intrusion Detection](#network-intrusion-detection)
     - [WFP and AFP](#wfp-and-afp)
     - [Robustness](#robustness)
     - [Online Methods](#online-methods)
@@ -164,7 +165,17 @@ Fingerprinting (SWF))(2023)
     * [CETAnalytics: Comprehensive effective traffic information analytics for encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128619309466) (Generalization). Cong Dong. `Computer Networks 2020`.
     * [FS-Net: A Flow Sequence Network For Encrypted Traffic Classification](https://ieeexplore.ieee.org/document/8737507). Chang Liu. `INFOCOM 2019`. [[code]](https://github.com/WSPTTH/FS-Net)
     * [MaMPF: Encrypted Traffic Classification Based on Multi-Attribute Markov Probability Fingerprints](https://ieeexplore.ieee.org/abstract/document/8624124).  Chang Liu. `IWQoS 2018`. [[code]](https://github.com/WSPTTH/MaMPF)
-* Network Intrusion Detection
+* Vedio (Streaming Media)
+    * [Breaking Through the Diversity: Encrypted Video Identification Attack Based on QUIC Features](https://link.springer.com/chapter/10.1007/978-3-031-70903-6_9#author-information). Nan Hu. `ESORICS 2024`.
+    * [Traffic spills the beans: A robust video identification attack against YouTube](https://www.sciencedirect.com/science/article/abs/pii/S0167404823005333). Xiyuan Zhang. `ComSec 2024`.
+    * [Walls Have Ears: Traffic-based Side-channel Attack in Video Streaming](https://ieeexplore.ieee.org/abstract/document/8486211). Jiaxi Gu. `IEEE INFOCOM 2018`.
+
+## Network Traffic Simulation: ML/DL
+* [Datacenter Network Deserves Be!er Traffic Models](https://conferences.sigcomm.org/hotnets/2023/papers/hotnets23_huang.pdf). Sijiang Huang. `HotNets 2023`.
+* [Practical GAN-based synthetic IP header trace generation using NetShare](https://dl.acm.org/doi/10.1145/3544216.3544251). Yucheng Yin. `SIGCOMM 2022`. [[code](https://github.com/netsharecmu/NetShare)]
+
+## Network Intrusion Detection
+* Threat Detection
     * [Trident: A Universal Framework for Fine-Grained and Class-Incremental Unknown Traffic Detection](https://dl.acm.org/doi/10.1145/3589334.3645407). Secbrain. `WWW 2024`. [[code]](https://github.com/Secbrain/Trident/)
     * [Mateen: Adaptive Ensemble Learning for Network Anomaly Detection](https://dl.acm.org/doi/10.1145/3678890.3678901). `RAID 2024`. [[code]](https://github.com/ICL-ml4csec/Mateen/)
     * [AOC-IDS: Autonomous Online Framework with Contrastive Learning for Intrusion Detection](https://arxiv.org/abs/2402.01807). `INFOCOM 2024`. [[code]](https://github.com/xinchen930/AOC-IDS)
@@ -179,16 +190,8 @@ Fingerprinting (SWF))(2023)
     * [Let gambling hide nowhere: Detecting illegal mobile gambling apps via heterogeneous graph-based encrypted traffic analysis](https://www.sciencedirect.com/science/article/pii/S1389128624001105). Zheyuan Gu. `Computer Networks 2024`.
     * [Gambling Domain Name Recognition via Certificate and Textual Analysis](https://academic.oup.com/comjnl/article/66/8/1829/6570684). GuoYing Sun. `The Computer Journal 2023`.
     * [Analyzing Ground-Truth Data of Mobile Gambling Scams](https://ieeexplore.ieee.org/abstract/document/9833665). Geng Hong. `Symposium on Security and Privacy (S&P) 2022`.
-* IoT
+* IoT Malicious Traffic Detection
     * [HorusEye: A Realtime IoT Malicious Traffic Detection Framework using Programmable Switches](https://www.usenix.org/conference/usenixsecurity23/presentation/dong-yutao). Yutao Dong. `USENIX Security 2023`.
-* Vedio (Streaming Media)
-    * [Breaking Through the Diversity: Encrypted Video Identification Attack Based on QUIC Features](https://link.springer.com/chapter/10.1007/978-3-031-70903-6_9#author-information). Nan Hu. `ESORICS 2024`.
-    * [Traffic spills the beans: A robust video identification attack against YouTube](https://www.sciencedirect.com/science/article/abs/pii/S0167404823005333). Xiyuan Zhang. `ComSec 2024`.
-    * [Walls Have Ears: Traffic-based Side-channel Attack in Video Streaming](https://ieeexplore.ieee.org/abstract/document/8486211). Jiaxi Gu. `IEEE INFOCOM 2018`.
-
-## Network Traffic Simulation: ML/DL
-* [Datacenter Network Deserves Be!er Traffic Models](https://conferences.sigcomm.org/hotnets/2023/papers/hotnets23_huang.pdf). Sijiang Huang. `HotNets 2023`.
-* [Practical GAN-based synthetic IP header trace generation using NetShare](https://dl.acm.org/doi/10.1145/3544216.3544251). Yucheng Yin. `SIGCOMM 2022`. [[code](https://github.com/netsharecmu/NetShare)]
 
 ## WFP and AFP
 ### Website Fingerprinting
