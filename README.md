@@ -294,11 +294,16 @@ Fingerprinting (SWF))(2023)
 
 * [Ke Xu](http://www.thucsnet.org/xuke.html)
 * [Jiahai Yang](https://nmgroup.tsinghua.edu.cn/yjh/)
-* [Chao Zhang](https://netsec.ccert.edu.cn/chs/people/chaoz/)
 * [Haixin Duan](http://netsec.ccert.edu.cn/people/duanhx/)
-* [Qi Li](https://www.insc.tsinghua.edu.cn/info/1157/2851.htm)
 * [Jianjun Chen](https://www.jianjunchen.com/)
 * [Dan Li](https://www.cs.tsinghua.edu.cn/info/1126/3948.htm)
+* [Yong Cui](https://www.cs.tsinghua.edu.cn/info/1126/3589.htm)
+* [Mingwei Xu](https://www.cs.tsinghua.edu.cn/info/1126/3580.htm)
+* [Xia Yin](https://www.cs.tsinghua.edu.cn/info/1126/3578.htm)
+* [Qi Li](https://www.insc.tsinghua.edu.cn/info/1157/2851.htm)
+* [Dan Pei](https://www.cs.tsinghua.edu.cn/info/1127/3597.htm)
+* [Zhiliang Wang](https://www.cs.tsinghua.edu.cn/info/1127/3593.htm)
+* [Chao Zhang](https://netsec.ccert.edu.cn/chs/people/chaoz/)
 </details>
 
 <details>
