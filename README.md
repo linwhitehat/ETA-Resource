@@ -243,10 +243,13 @@ Fingerprinting (SWF))(2023)
     * [Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a263/1WPcZnZILHa). Meng Shen. `S&P 2024`.
     * [Defending Against Deep Learning-Based Traffic Fingerprinting Attacks With Adversarial Examples](https://dl.acm.org/doi/abs/10.1145/3698591). Blake Hayden. `ACM Transactions on Privacy and Security (TOPS) 2024`.
     * [BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems](https://www.ndss-symposium.org/ndss-paper/bars-local-robustness-certification-for-deep-learning-based-traffic-analysis-systems/#:~:text=Deep%20learning%20,based%20traffic%20analysis%20systems%20based). Kai Wang. `NDSS 2023`.
+    * [Prism: Real-Time Privacy Protection Against Temporal Network Traffic Analyzers](https://ieeexplore.ieee.org/document/10103708). Wenhao Li. `TIFS 2023`.
     * [Subverting Website Fingerprinting Defenses with Robust Traffic Representation](https://www.usenix.org/conference/usenixsecurity23/presentation/shen-meng). Meng Shen. `USENIX Security 2023`.
     * [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](https://www.usenix.org/conference/usenixsecurity23/presentation/xie). Renjie Xie. `USENIX Security 2023`. [[code]](https://github.com/sunskyXX/Rosetta)
 * Explanatory Analysis
-    * [Rules Refine the Riddle: Global Explanation for Deep Learning-Based Anomaly Detection in Security Applications](https://dl.acm.org/doi/10.1145/3658644.3670375). Dongqi Han. `CCS 2024`. [[code]](https://github.com/dongtsi/GEAD)
+    * [Understanding Web Fingerprinting with a Protocol-Centric Approach](https://dl.acm.org/doi/10.1145/3678890.3678910). Bogdan Cebere. `RAID 2024`. [[code]](https://github.com/bcebere/Understanding-and-Explaining-Web-Fingerprinting-with-a-Protocol-Centric-Approach)
+    * [GEAD: Rules Refine the Riddle: Global Explanation for Deep Learning-Based Anomaly Detection in Security Applications](https://dl.acm.org/doi/10.1145/3658644.3670375). Dongqi Han. `CCS 2024`. [[code]](https://github.com/dongtsi/GEAD)
+    * [Towards Real-Time Intrusion Detection with Explainable AI-Based Detector](https://dl.acm.org/doi/10.1145/3658644.3691410). Wenhao Li. `CCS Poster 2024`.
     * [xNIDS: Explaining Deep Learning-based Network Intrusion Detection Systems for Active Intrusion Responses](https://www.usenix.org/conference/usenixsecurity23/presentation/wei-feng). Feng Wei. `USENIX Security 2023`. [[code]](https://github.com/CactiLab/code-xNIDS)
     * [Towards Understanding Alerts raised by Unsupervised Network Intrusion Detection Systems](https://dl.acm.org/doi/10.1145/3607199.3607247). Maxime Lanvin. `RAID 2023`.
     * [AI/ML for Network Security: The Emperor has no Clothes](https://dl.acm.org/doi/10.1145/3548606.3560609). Arthur S. Jacobs. `CCS 2022`. [[code]](https://github.com/TrusteeML/trustee)
