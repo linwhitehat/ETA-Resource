@@ -408,7 +408,7 @@ CISPA Helmholtz Center	德国	加密通信协议分析、网络匿名性
 ## Network Traffic Knowledge
 * [Icoding_F2014](https://blog.csdn.net/jmh1996)
 * [Malware-Traffic-Analysis](https://www.malware-traffic-analysis.net/)
-* [Awesome-NTA](https://github.com/linwhitehat/Awesome-NTA)
+* [Awesome-NTA](https://github.com/wangtz19/Awesome-NTA)
 
 ## Network Traffic Analysis Tool Manual
 * [Tshark](https://www.wireshark.org/docs/man-pages/tshark.html)
