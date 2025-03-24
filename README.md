@@ -364,8 +364,20 @@ Harbin Institute of Technology/China
     Beijing Institute of Technology/China
 </summary>    
     
+* [Changzhen Hu](https://cst.bit.edu.cn/szdw/jsml/bssds/ca94335a79114dbe9ae967e53ca86bec.htm)
 * [Liehuang Zhu](https://cs.bit.edu.cn/szdw/jsml/wlkjaqxy/zlh/index.htm)
 * [Meng Shen](https://cst.bit.edu.cn/szdw/jsml/bssds/86728e84066248b0b13bdf04f685817f.htm)
+* [Xuhui Ding](https://cst.bit.edu.cn/szdw/jsml/bssds/711aba6ea79b41618a2f2fac616652a9.htm)
+</details>
+
+<details>
+<summary>
+    Beihang University/China
+</summary>    
+    
+* [Jian Mao](https://shi.buaa.edu.cn/maojian/zh_CN/index.htm)
+* [Sheng Hong](http://shi.buaa.edu.cn/hongsheng/zh_CN/index.htm)
+* [Ying Gao](https://shi.buaa.edu.cn/gaoying/zh_CN/index.htm)
 </details>
     
 <details>
