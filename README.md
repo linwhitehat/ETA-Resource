@@ -61,6 +61,9 @@ SOFTWARE.
         - [Applied Pre-training/LLMs](#applied-pre-trainingllms)
         - [Applied ML/DL](#applied-mldl)
     - [Network Intrusion Detection](#network-intrusion-detection)
+        - [General Threat Detection](#general-threat-detection)
+        - [Malware/C2 Traffic Detection](#malwarec2-traffic-detection)
+        - [IoT and Scenario-Specific Detection](#iot-and-scenario-specific-detection)
     - [WFP and AFP](#wfp-and-afp)
         - [Website Fingerprinting](#website-fingerprinting)
         - [App Fingerprinting](#app-fingerprinting)
@@ -174,23 +177,33 @@ Fingerprinting (SWF))(2023)
 * [Practical GAN-based synthetic IP header trace generation using NetShare](https://dl.acm.org/doi/10.1145/3544216.3544251). Yucheng Yin. `SIGCOMM 2022`. [[code](https://github.com/netsharecmu/NetShare)]
 
 ## Network Intrusion Detection
-* Threat Detection
-    * [Trident: A Universal Framework for Fine-Grained and Class-Incremental Unknown Traffic Detection](https://dl.acm.org/doi/10.1145/3589334.3645407). Secbrain. `WWW 2024`. [[code]](https://github.com/Secbrain/Trident/)
-    * [Mateen: Adaptive Ensemble Learning for Network Anomaly Detection](https://dl.acm.org/doi/10.1145/3678890.3678901). `RAID 2024`. [[code]](https://github.com/ICL-ml4csec/Mateen/)
-    * [AOC-IDS: Autonomous Online Framework with Contrastive Learning for Intrusion Detection](https://arxiv.org/abs/2402.01807). `INFOCOM 2024`. [[code]](https://github.com/xinchen930/AOC-IDS)
-    * [Early Network Intrusion Detection Enabled by Attention Mechanisms and RNNs](https://doi.org/10.1109/TIFS.2024.3441862). Taki Eddine Toufik Djaidja. `TIFS 2024`.
-    * [TMG-GAN: Generative Adversarial Networks-Based Imbalanced Learning for Network Intrusion Detection](https://dl.acm.org/doi/10.1109/TIFS.2023.3331240). Hongwei Ding. `TIFS 2024`.
-    * [PETNet: Plaintext-aware encrypted traffic detection network for identifying Cobalt Strike HTTPS traffics](https://www.sciencedirect.com/science/article/pii/S1389128623005650). Xiaodu Yang. `Computer Networks 2024`. [[code]](https://github.com/CN-PETNet/PETNet)
-    * [Detecting Tunneled Flooding Traffic via Deep Semantic Analysis of Packet Length Patterns](https://dl.acm.org/doi/abs/10.1145/3658644.3670353). Chuanpu Fu. `CCS 2024`. [[code]](https://github.com/fuchuanpu/Exosphere)
-    * [Point Cloud Analysis for ML-Based Malicious Traffic Detection: Reducing Majorities of False Positive Alarms](https://dl.acm.org/doi/10.1145/3576915.3616631). Chuanpu Fu. `CCS 2023`. [[code]](https://github.com/fuchuanpu/pVoxel)
-    * [Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s80_paper.pdf). Chuanpu Fu. `NDSS 2023`. [[code]](https://github.com/fuchuanpu/HyperVision)
-    * [Network intrusion detection based on n-gram frequency and time-aware transformer](https://www.sciencedirect.com/science/article/pii/S0167404823000810?via%3Dihub). Xueying Han. `Computer Security 2023`.
-* Gambling
+### General Threat Detection
+* [Trident: A Universal Framework for Fine-Grained and Class-Incremental Unknown Traffic Detection](https://dl.acm.org/doi/10.1145/3589334.3645407). Secbrain. `WWW 2024`. [[code]](https://github.com/Secbrain/Trident/)
+* [Mateen: Adaptive Ensemble Learning for Network Anomaly Detection](https://dl.acm.org/doi/10.1145/3678890.3678901). Fahad Alotaibi. `RAID 2024`. [[code]](https://github.com/ICL-ml4csec/Mateen/)
+* [AOC-IDS: Autonomous Online Framework with Contrastive Learning for Intrusion Detection](https://ieeexplore.ieee.org/document/10621346). Xinchen Zhang. `INFOCOM 2024`. [[code]](https://github.com/xinchen930/AOC-IDS)
+* [Early Network Intrusion Detection Enabled by Attention Mechanisms and RNNs](https://doi.org/10.1109/TIFS.2024.3441862). Taki Eddine Toufik Djaidja. `TIFS 2024`.
+* [TMG-GAN: Generative Adversarial Networks-Based Imbalanced Learning for Network Intrusion Detection](https://dl.acm.org/doi/10.1109/TIFS.2023.3331240). Hongwei Ding. `TIFS 2024`.
+* [Network intrusion detection based on n-gram frequency and time-aware transformer](https://www.sciencedirect.com/science/article/pii/S0167404823000810?via%3Dihub). Xueying Han. `Computer Security 2023`.
+
+### Malware/C2 Traffic Detection
+* [PETNet: Plaintext-aware encrypted traffic detection network for identifying Cobalt Strike HTTPS traffics](https://www.sciencedirect.com/science/article/pii/S1389128623005650). Xiaodu Yang. `Computer Networks 2024`. [[code]](https://github.com/CN-PETNet/PETNet)
+* [Detecting Tunneled Flooding Traffic via Deep Semantic Analysis of Packet Length Patterns](https://dl.acm.org/doi/abs/10.1145/3658644.3670353). Chuanpu Fu. `CCS 2024`. [[code]](https://github.com/fuchuanpu/Exosphere)
+* [Point Cloud Analysis for ML-Based Malicious Traffic Detection: Reducing Majorities of False Positive Alarms](https://dl.acm.org/doi/10.1145/3576915.3616631). Chuanpu Fu. `CCS 2023`. [[code]](https://github.com/fuchuanpu/pVoxel)
+* [Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s80_paper.pdf). Chuanpu Fu. `NDSS 2023`. [[code]](https://github.com/fuchuanpu/HyperVision)
+
+### IoT and Scenario-Specific Detection
+* IoT Malicious Traffic Detection
+    * [HorusEye: A Realtime IoT Malicious Traffic Detection Framework using Programmable Switches](https://www.usenix.org/conference/usenixsecurity23/presentation/dong-yutao). Yutao Dong. `USENIX Security 2023`.
+* Vehicle Network (IoV) Malicious Traffic Detection
+    * [Cyber Security Framework for Vehicular Network Based on a Hierarchical Game](https://ieeexplore.ieee.org/document/8598790). Hichem Sedjelmaci. `IEEE Transactions on Emerging Topics in Computing 2021`.
+
+### Black/Grey Market Activity Detection
+**Illegal Traffic Identification**
+* Gambling Detection
     * [Let gambling hide nowhere: Detecting illegal mobile gambling apps via heterogeneous graph-based encrypted traffic analysis](https://www.sciencedirect.com/science/article/pii/S1389128624001105). Zheyuan Gu. `Computer Networks 2024`.
     * [Gambling Domain Name Recognition via Certificate and Textual Analysis](https://academic.oup.com/comjnl/article/66/8/1829/6570684). GuoYing Sun. `The Computer Journal 2023`.
     * [Analyzing Ground-Truth Data of Mobile Gambling Scams](https://ieeexplore.ieee.org/abstract/document/9833665). Geng Hong. `Symposium on Security and Privacy (S&P) 2022`.
-* IoT Malicious Traffic Detection
-    * [HorusEye: A Realtime IoT Malicious Traffic Detection Framework using Programmable Switches](https://www.usenix.org/conference/usenixsecurity23/presentation/dong-yutao). Yutao Dong. `USENIX Security 2023`.
+
 
 ## WFP and AFP
 ### Website Fingerprinting
