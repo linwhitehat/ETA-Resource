@@ -64,6 +64,7 @@ SOFTWARE.
         - [General Threat Detection](#general-threat-detection)
         - [Malware/C2 Traffic Detection](#malwarec2-traffic-detection)
         - [IoT and Scenario-Specific Detection](#iot-and-scenario-specific-detection)
+        - [Black/Grey Market Activity Detection](#blackgrey-market-activity-detection)
     - [WFP and AFP](#wfp-and-afp)
         - [Website Fingerprinting](#website-fingerprinting)
         - [App Fingerprinting](#app-fingerprinting)
