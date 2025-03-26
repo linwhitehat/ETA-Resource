@@ -138,6 +138,7 @@ Fingerprinting (SWF))(2023)
 # Survey and Benchmark
 ## Survey
 * [Machine Learning-Powered Encrypted Network Traffic Analysis: A Comprehensive Survey](https://ieeexplore.ieee.org/document/9896143). Meng Shen. `IEEE Communications Surveys & Tutorials 2023`.
+* [Graph Mining for Cybersecurity: A Survey](https://dl.acm.org/doi/10.1145/3610228). Bo Yan. `ACM Transactions on Knowledge Discovery from Data 2023`.
 * [Deep Learning for Encrypted Traffic Classification: An Overview](https://ieeexplore.ieee.org/document/8713803/). Shahbaz Rezaei. `IEEE Communications Magazine 2019`.
 * [Towards the Deployment of Machine Learning Solutions in Network Traffic Classification: A Systematic Survey](https://ieeexplore.ieee.org/document/8543584). Fannia Pacheco. `IEEE Communications Surveys & Tutorials 2019`.
 * [Deep Learning in Mobile and Wireless Networking: A Survey](https://ieeexplore.ieee.org/document/8666641). Chaoyun Zhang. `IEEE Communications Surveys & Tutorials 2019`.
@@ -157,13 +158,19 @@ Fingerprinting (SWF))(2023)
 * [Flow-MAE: Leveraging Masked AutoEncoder for Accurate, Efficient and Robust Malicious Traffic Classification](https://dl.acm.org/doi/10.1145/3607199.3607206#core-collateral-purchase-access). Zijun Hang. `RAID 2023`. [[code]](https://github.com/NLear/Flow-MAE)
 * [Listen to Minority: Encrypted Traffic Classification for Class Imbalance with Contrastive Pre-Training](https://ieeexplore.ieee.org/abstract/document/10287449). Xiang Li. `SECON 2023`.
 * [Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation](https://ojs.aaai.org/index.php/AAAI/article/view/25674). Ruijie Zhao. `AAAI 2023`. [[code]](https://github.com/NSSL-SJTU/YaTC)
+* [MT-FlowFormer: A Semi-Supervised Flow Transformer for Encrypted Traffic Classification](https://dl.acm.org/doi/10.1145/3534678.3539314). Ruijie Zhao. `KDD 2022`.
 * [ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://dl.acm.org/doi/abs/10.1145/3485447.3512217). Xinjie Lin. `WWW 2022`. [[code]](https://github.com/linwhitehat/et-bert) [[Reproduce]](https://gitee.com/xxdxxdxxd/et-bert/blob/master/README.md)
 ### Applied ML/DL
 * [FlowMiner: A Powerful Model Based on Flow Correlation Mining for Encrypted Traffic Classification](). Hongbo Xu. `INFOCOM 2025`.
 * [DE-GNN: Dual embedding with graph neural network for fine-grained encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128624002044). Xinbo Han. `Computer Networks 2024`.
 * [TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Trafic Classification](https://dl.acm.org/doi/abs/10.1145/3543507.3583227). Haozhen Zhang. `WWW 2023`. [[code]](https://github.com/ViktorAxelsen/TFE-GNN)
 * [An Input-Agnostic Hierarchical Deep Learning Framework for Traffic Fingerprinting](https://www.usenix.org/conference/usenixsecurity23/presentation/qu). Jian Qu. `USENIX Security 2023`. [[code]](https://github.com/shashadehuajiang/trace_classifier/tree/main)
+* [Packet Representation Learning for Traffic Classification](https://dl.acm.org/doi/10.1145/3534678.3539085). Xuying Meng. `KDD 2022`.
+* [A Novel Multimodal Deep Learning Framework for Encrypted Traffic Classification](https://ieeexplore.ieee.org/document/9931999). Peng Lin. `ToN 2022`.
+* [Enabling Efficient Flow Classification for ML-based Network Security Applications](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_7C-2_24067_paper.pdf). Diogo Barradas. `NDSS 2021`. [[code]](https://github.com/dmbb/FlowLens)
+* [Accurate Decentralized Application Identification via Encrypted Traffic Analysis Using Graph Neural Networks](https://ieeexplore.ieee.org/document/9319399).  Meng Shen. `TIFS 2021`.
 * [Classifying encrypted traffic using adaptive fingerprints with multi-level attributes](https://link.springer.com/article/10.1007%2Fs11280-021-00940-0). Chang Liu. `WWW Journal 2021`.
+* [Fine-Grained Webpage Fingerprinting Using Only Packet Length Information of Encrypted Traffic](https://ieeexplore.ieee.org/document/9305740). Meng Shen. `TIFS 2020`.
 * [CETAnalytics: Comprehensive effective traffic information analytics for encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128619309466) (Generalization). Cong Dong. `Computer Networks 2020`.
 * [FS-Net: A Flow Sequence Network For Encrypted Traffic Classification](https://ieeexplore.ieee.org/document/8737507). Chang Liu. `INFOCOM 2019`. [[code]](https://github.com/WSPTTH/FS-Net)
 * [MaMPF: Encrypted Traffic Classification Based on Multi-Attribute Markov Probability Fingerprints](https://ieeexplore.ieee.org/abstract/document/8624124).  Chang Liu. `IWQoS 2018`. [[code]](https://github.com/WSPTTH/MaMPF)
@@ -210,16 +217,17 @@ Fingerprinting (SWF))(2023)
 ### Website Fingerprinting
 * Tunnel and VPN
     * [Fingerprinting Obfuscated Proxy Traffic with Encapsulated TLS Handshakes](https://www.usenix.org/conference/usenixsecurity24/presentation/xue-fingerprinting). Diwen Xue. `USENIX Security 2024`.
-    * [On Precisely Detecting Censorship Circumvention in Real-World Networks](https://www.ndss-symposium.org/ndss-paper/on-precisely-detecting-censorship-circumvention-in-real-world-networks). Ryan Wails. `NDSS 2024`.
     * [Detecting Tunneled Flooding Traffic via Deep Semantic Analysis of Packet Length Patterns](https://dl.acm.org/doi/10.1145/3658644.3670353). Chuanpu Fu. `CCS 2024`. [[code]](https://github.com/fuchuanpu/Exosphere) [[video]](https://www.bilibili.com/video/BV1QLCUYuEKM/?spm_id_from=333.1387.collection.video_card.click&vd_source=a1efd78c138281beaaf12f4f11412057)
     * [ProxyKiller: An Anonymous Proxy Traffic Attack Model Based on Traffic Behavior Graphs](https://link.springer.com/chapter/10.1007/978-3-031-70890-9_9#Tab4). Hongbo Xu. `ESORICS 2024`.
     * [VPNSniffer: Identifying VPN Servers Through Graph-Represented Behaviors](https://dl.acm.org/doi/10.1145/3589334.3645552). Chenxu Wang. `WWW 2024`.
 * Tor
     * [Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis](https://arxiv.org/pdf/2407.00918). Xinhao Deng. `CCS 2024`. [[code]](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library)
     * [Towards Fine-Grained Webpage Fingerprinting at Scale](https://dl.acm.org/doi/abs/10.1145/3658644.3690211). Xiyuan Zhao and Xinhao Deng. `CCS 2024`. [[code]](https://zenodo.org/records/13383332)
+    * [On Precisely Detecting Censorship Circumvention in Real-World Networks](https://www.ndss-symposium.org/ndss-paper/on-precisely-detecting-censorship-circumvention-in-real-world-networks/). Ryan Wails. `NDSS 2024`.
     * [HSDirSniper: A New Attack Exploiting Vulnerabilities in Tor's Hidden Service Directories](https://dl.acm.org/doi/10.1145/3589334.3645591). Qingfeng Zhang. `WWW 2024`.
     * [Transformer-based Model for Multi-tab Website Fingerprinting Attack](https://dl.acm.org/doi/abs/10.1145/3576915.3623107). Zhaoxin Jin. `CCS 2023`.
     * [Online Website Fingerprinting: Evaluating Website Fingerprinting Attacks on Tor in the Real World](https://www.usenix.org/conference/usenixsecurity22/presentation/cherubin). Giovanni Cherubin. `USENIX Security 2022`.
+    * [Adaptive Fingerprinting:Website Fingerprinting over Few Encrypted Traffic](https://dl.acm.org/doi/10.1145/3422337.3447835). Chenggang Wang. `CODASPY 2021`.
     * [BAPM: Block Attention Profiling Model for Multi-tab Website Fingerprinting Attacks on Tor](https://dl.acm.org/doi/10.1145/3485832.3485891). Zhong Guan. `ACSAC 2021`.
     * [Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning](https://dl.acm.org/doi/10.1145/3319535.3354217). Payap Sirinam. `CCS 2019`. [[code]](https://github.com/triplet-fingerprinting/tf)
     * [Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning](https://dl.acm.org/doi/abs/10.1145/3243734.3243768). Payap Sirinam. `CCS 2018`. [[code]](https://github.com/deep-fingerprinting/df)
@@ -227,6 +235,7 @@ Fingerprinting (SWF))(2023)
 ### App Fingerprinting
 * Mobile App
     * [AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN](https://dl.acm.org/doi/10.1145/3543507.3583473). Sanghak Oh. `WWW 2023`.
+    * [Packet-Level Open-World App Fingerprinting on Wireless Traffic](https://www.ndss-symposium.org/ndss-paper/auto-draft-218/). Jianfeng Li. `NDSS 2022`. [[code]](https://github.com/jflixjtu/PacketPrint/tree/main)
     * [FlowPrint: Semi-Supervised Mobile-App Fingerprinting on Encrypted Network Traffic](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24412.pdf). van Ede, Thijs. `NDSS 2020`. [[code]](https://github.com/Thijsvanede/FlowPrint)
     * [AppScanner: Automatic Fingerprinting of Smartphone Apps from Encrypted Network Traffic](https://ieeexplore.ieee.org/abstract/document/7467370). Vincent F. Taylor. `EuroS&P 2016`. [[code]](https://github.com/vftaylor/appscanner)
     * [Adaptive encrypted traffic fingerprinting with bi-directional dependence](https://dl.acm.org/doi/abs/10.1145/2991079.2991123). Khaled Al-Naami. `ACSAC 2016`. [[code]](https://github.com/khaled-alnaami/NetworkTrafficFingerprinting)
