@@ -237,7 +237,7 @@ Fingerprinting (SWF))(2023)
 * Mobile App
     * [AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN](https://dl.acm.org/doi/10.1145/3543507.3583473). Sanghak Oh. `WWW 2023`.
     * [Packet-Level Open-World App Fingerprinting on Wireless Traffic](https://www.ndss-symposium.org/ndss-paper/auto-draft-218/). Jianfeng Li. `NDSS 2022`. [[code]](https://github.com/jflixjtu/PacketPrint/tree/main)
-    * [FlowPrint: Semi-Supervised Mobile-App Fingerprinting on Encrypted Network Traffic](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24412.pdf). van Ede, Thijs. `NDSS 2020`. [[code]](https://github.com/Thijsvanede/FlowPrint)
+    * [FlowPrint: Semi-Supervised Mobile-App Fingerprinting on Encrypted Network Traffic](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24412.pdf). Thijs van Ede. `NDSS 2020`. [[code]](https://github.com/Thijsvanede/FlowPrint)
     * [AppScanner: Automatic Fingerprinting of Smartphone Apps from Encrypted Network Traffic](https://ieeexplore.ieee.org/abstract/document/7467370). Vincent F. Taylor. `EuroS&P 2016`. [[code]](https://github.com/vftaylor/appscanner)
     * [Adaptive encrypted traffic fingerprinting with bi-directional dependence](https://dl.acm.org/doi/abs/10.1145/2991079.2991123). Khaled Al-Naami. `ACSAC 2016`. [[code]](https://github.com/khaled-alnaami/NetworkTrafficFingerprinting)
 * Streaming Media
@@ -452,6 +452,7 @@ Overseas
 * [Xinyu Xing](http://xinyuxing.org/) (Northwestern University/United States)
 * [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (Nanyang Technological University/Singapore)
 * [Alessandro Finamore](https://afinamore.io/) (Huawei Technologies/France)
+* [Thijs van Ede](https://thijsvane.de/) (University of Twente/Netherlands)
 </details>
 
 <!-- Wait dor updating
