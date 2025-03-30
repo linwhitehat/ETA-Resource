@@ -195,7 +195,7 @@ Fingerprinting (SWF))(2023)
 * [Network intrusion detection based on n-gram frequency and time-aware transformer](https://www.sciencedirect.com/science/article/pii/S0167404823000810?via%3Dihub). Xueying Han. `Computer Security 2023`.
 
 ### Malware/C2 Traffic Detection
-* [Wedjat: Detecting Sophisticated Evasion Attacks via Real-time Causal Analysis](http://www.thucsnet.com/wp-content/papers/li_gao_kdd2025.pdf). Li Gao. `SIGKDD 2025`.
+* [Wedjat: Detecting Sophisticated Evasion Attacks via Real-time Causal Analysis](http://www.thucsnet.com/wp-content/papers/li_gao_kdd2025.pdf). Li Gao. `KDD 2025`.
 * [PETNet: Plaintext-aware encrypted traffic detection network for identifying Cobalt Strike HTTPS traffics](https://www.sciencedirect.com/science/article/pii/S1389128623005650). Xiaodu Yang. `Computer Networks 2024`. [[code]](https://github.com/CN-PETNet/PETNet)
 * [Detecting Tunneled Flooding Traffic via Deep Semantic Analysis of Packet Length Patterns](https://dl.acm.org/doi/abs/10.1145/3658644.3670353). Chuanpu Fu. `CCS 2024`. [[code]](https://github.com/fuchuanpu/Exosphere)
 * [Point Cloud Analysis for ML-Based Malicious Traffic Detection: Reducing Majorities of False Positive Alarms](https://dl.acm.org/doi/10.1145/3576915.3616631). Chuanpu Fu. `CCS 2023`. [[code]](https://github.com/fuchuanpu/pVoxel)
