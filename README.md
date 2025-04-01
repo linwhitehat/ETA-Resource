@@ -521,6 +521,9 @@ Thanks goes to these wonderful people!
     <td align="center"><a href="https://github.com/GuanZH95"><img src="https://avatars.githubusercontent.com/u/30852909?v=4" width="100px;" alt=""/><br /><sub><b>Zhong Guan</b></sub></a><br /><a href="#ideas-ZhongGuan" title="Ideas, Planning, & Feedback">🎯</a> <a href="https://github.com/linwhitehat/ETA-Resource/commits?author=GuanZH95" title="Documentation">📝</a></td>
     <td align="center"><a href="https://github.com/wayneowen7"><img src="https://avatars.githubusercontent.com/u/29433723?v=4" width="100px;" alt=""/><br /><sub><b>Wei Cai</b></sub></a><br /><a href="#ideas-WeiCai" title="Ideas, Planning, & Feedback">🎯</a> </td>
     <td align="center"><a href="https://github.com/XiyuanZhang971118"><img src="https://avatars.githubusercontent.com/u/155507014?v=4" width="100px;" alt=""/><br /><sub><b>Xiyuan Zhang</b></sub></a><br /><a href="#ideas-XiyuanZhang" title="Ideas, Planning, & Feedback">🎯</a> <a href="https://github.com/linwhitehat/ETA-Resource/commits?author=XiyuanZhang971118" title="Documentation">📝</a></td>
-      <td align="center"><a href="https://github.com/yyyjn"><img src="https://avatars.githubusercontent.com/u/32609644?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Junnan Yin</b></sub></a><br /><a href="#ideas-JunnanYin" title="Ideas, Planning, & Feedback">🎯</a> <a href="https://github.com/linwhitehat/ETA-Resource/commits?author=yyyjn" title="Documentation">📝</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/yyyjn"><img src="https://avatars.githubusercontent.com/u/32609644?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Junnan Yin</b></sub></a><br /><a href="#ideas-JunnanYin" title="Ideas, Planning, & Feedback">🎯</a> <a href="https://github.com/linwhitehat/ETA-Resource/commits?author=yyyjn" title="Documentation">📝</a></td>
+    <td align="center"><a href="https://github.com/TaRiK-Haob"><img src="https://avatars.githubusercontent.com/u/83114553?v=4" width="100px;" alt=""/><br /><sub><b>TaRiK-Haob</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=TaRiK" title="Documentation">📝</a></td>
   </tr>
 </table>
