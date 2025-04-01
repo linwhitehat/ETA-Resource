@@ -167,7 +167,7 @@ Fingerprinting (SWF))(2023)
 * [DE-GNN: Dual embedding with graph neural network for fine-grained encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128624002044). Xinbo Han. `Computer Networks 2024`.
 * [TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Trafic Classification](https://dl.acm.org/doi/abs/10.1145/3543507.3583227). Haozhen Zhang. `WWW 2023`. [[code]](https://github.com/ViktorAxelsen/TFE-GNN)
 * [An Input-Agnostic Hierarchical Deep Learning Framework for Traffic Fingerprinting](https://www.usenix.org/conference/usenixsecurity23/presentation/qu). Jian Qu. `USENIX Security 2023`. [[code]](https://github.com/shashadehuajiang/trace_classifier/tree/main)
-* [Packet Representation Learning for Traffic Classification](https://dl.acm.org/doi/10.1145/3534678.3539085). Xuying Meng. `KDD 2022`.
+* [Packet Representation Learning for Traffic Classification](https://dl.acm.org/doi/10.1145/3534678.3539085). Xuying Meng. `KDD 2022`. [[code]](https://github.com/ict-net/PacRep)
 * [Seeing Traffic Paths: Encrypted Traffic Classification With Path Signature Features](https://ieeexplore.ieee.org/document/9786755). Shijie Xu. `TIFS 2022`.
 * [A Novel Multimodal Deep Learning Framework for Encrypted Traffic Classification](https://ieeexplore.ieee.org/document/9931999). Peng Lin. `ToN 2022`.
 * [Enabling Efficient Flow Classification for ML-based Network Security Applications](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_7C-2_24067_paper.pdf). Diogo Barradas. `NDSS 2021`. [[code]](https://github.com/dmbb/FlowLens)
@@ -195,6 +195,8 @@ Fingerprinting (SWF))(2023)
 * [Early Network Intrusion Detection Enabled by Attention Mechanisms and RNNs](https://doi.org/10.1109/TIFS.2024.3441862). Taki Eddine Toufik Djaidja. `TIFS 2024`.
 * [TMG-GAN: Generative Adversarial Networks-Based Imbalanced Learning for Network Intrusion Detection](https://dl.acm.org/doi/10.1109/TIFS.2023.3331240). Hongwei Ding. `TIFS 2024`.
 * [Network intrusion detection based on n-gram frequency and time-aware transformer](https://www.sciencedirect.com/science/article/pii/S0167404823000810?via%3Dihub). Xueying Han. `Computer Security 2023`.
+* [Encrypted Malware Traffic Detection via Graph-based Network Analysis](https://dl.acm.org/doi/10.1145/3545948.3545983). Zhuoqun Fu. `RAID 2022`.
+* [Interactive Anomaly Detection in Dynamic Communication Networks](https://ieeexplore.ieee.org/abstract/document/9494106). Xuying Meng. `ToN 2021`. [[code]](https://github.com/ict-net/HADDN)
 
 ### Malware/C2 Traffic Detection
 * [Wedjat: Detecting Sophisticated Evasion Attacks via Real-time Causal Analysis](http://www.thucsnet.com/wp-content/papers/li_gao_kdd2025.pdf). Li Gao. `KDD 2025`.
@@ -242,10 +244,11 @@ Fingerprinting (SWF))(2023)
 ### App Fingerprinting
 * Tunnel and VPN
     * [DecETT: Accurate App Fingerprinting Under Encrypted Tunnels via Dual Decouple-based Semantic Enhancement](https://openreview.net/forum?id=y5tQ9BX5NW#discussion). Zheyuan Gu. `WWW 2025`. [[code]](https://github.com/DecETT/DecETT)
-    * [AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN](https://dl.acm.org/doi/10.1145/3543507.3583473). Sanghak Oh. `WWW 2023`.
+    * [AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN](https://dl.acm.org/doi/10.1145/3543507.3583473). Sanghak Oh. `WWW 2023`. [[code]](https://github.com/network-traffic/AppSniffer)
 * Mobile App
     * [Packet-Level Open-World App Fingerprinting on Wireless Traffic](https://www.ndss-symposium.org/ndss-paper/auto-draft-218/). Jianfeng Li. `NDSS 2022`. [[code]](https://github.com/jflixjtu/PacketPrint/tree/main)
     * [FlowPrint: Semi-Supervised Mobile-App Fingerprinting on Encrypted Network Traffic](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24412.pdf). Thijs van Ede. `NDSS 2020`. [[code]](https://github.com/Thijsvanede/FlowPrint)
+    * [Robust Smartphone App Identification via Encrypted Network Traffic Analysis](https://ieeexplore.ieee.org/document/8006282). Vincent F. Taylor. `TIFS 2018`. [[code]](https://github.com/vftaylor/appscanner)
     * [AppScanner: Automatic Fingerprinting of Smartphone Apps from Encrypted Network Traffic](https://ieeexplore.ieee.org/abstract/document/7467370). Vincent F. Taylor. `EuroS&P 2016`. [[code]](https://github.com/vftaylor/appscanner)
     * [Adaptive encrypted traffic fingerprinting with bi-directional dependence](https://dl.acm.org/doi/abs/10.1145/2991079.2991123). Khaled Al-Naami. `ACSAC 2016`. [[code]](https://github.com/khaled-alnaami/NetworkTrafficFingerprinting)
 * Streaming Media
