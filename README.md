@@ -146,6 +146,7 @@ Fingerprinting (SWF))(2023)
 * [Deep Learning in Mobile and Wireless Networking: A Survey](https://ieeexplore.ieee.org/document/8666641). Chaoyun Zhang. `IEEE Communications Surveys & Tutorials 2019`.
 ## Benchmark
 * [CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence](https://proceedings.neurips.cc/paper_files/paper/2024/file/5acd3c628aa1819fbf07c39ef73e7285-Paper-Datasets_and_Benchmarks_Track.pdf#:~:text=To%20bridge%20this%20gap%2C%20we,bench). Md Tanvirul Alam. `NeurIPS 2024`. [[Evaluation]](https://github.com/aiforsec/cti-bench) [[Dataset details]](https://huggingface.co/datasets/AI4Sec/cti-bench)
+* [NetBench: A Large-Scale and Comprehensive Network Traffic Benchmark Dataset for Foundation Models](https://arxiv.org/abs/2403.10319). Qian Chen. `FMSys 2024`. [[Data]](https://github.com/WM-JayLab/NetBench)
 
 # Encrypted Traffic Analysis
 ## Encrypted Traffic Classification
@@ -532,6 +533,7 @@ Thanks goes to these wonderful people!
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/yyyjn"><img src="https://avatars.githubusercontent.com/u/32609644?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Junnan Yin</b></sub></a><br /><a href="#ideas-JunnanYin" title="Ideas, Planning, & Feedback">🎯</a> <a href="https://github.com/linwhitehat/ETA-Resource/commits?author=yyyjn" title="Documentation">📝</a></td>
-    <td align="center"><a href="https://github.com/TaRiK-Haob"><img src="https://avatars.githubusercontent.com/u/83114553?v=4" width="100px;" alt=""/><br /><sub><b>TaRiK-Haob</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=TaRiK" title="Documentation">📝</a></td>
+    <td align="center"><a href="https://github.com/TaRiK-Haob"><img src="https://avatars.githubusercontent.com/u/83114553?v=4" width="100px;" alt=""/><br /><sub><b>TaRiK-Haob</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=TaRiK-Haob" title="Documentation">📝</a></td>
+    <td align="center"><a href="https://github.com/weiyuhao2021"><img src="https://avatars.githubusercontent.com/u/89506254?v=4" width="100px;" alt=""/><br /><sub><b>Yuhao Wei</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=YuhaoWei" title="Documentation">📝</a></td>
   </tr>
 </table>
