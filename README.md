@@ -315,7 +315,8 @@ Fingerprinting (SWF))(2023)
     * [Investigating Deployment Issues of DNS Root Server Instances from a China-wide View](https://ieeexplore.ieee.org/abstract/document/10460172/keywords#keywords). Fenglu Zhang. `IEEE Transactions on Dependable and Secure Computing (TDSC) 2024`.
 * Privacy and Security
     * [Privacy protection of China’s top websites: A Multi-layer privacy measurement via network behaviours and privacy policies](https://www.sciencedirect.com/science/article/abs/pii/S0167404822000050). Xinjie Lin. `ComSec 2022`.
-    <!-- * [](). . ``.-->
+    * [Towards IP-based Geolocation via Fine-grained and Stable Webcam Landmarks](https://dl.acm.org/doi/10.1145/3366423.3380216). Zhihao Wang. `WWW 2020`.
+    * [Server-Side Traffic Analysis Reveals Mobile Location Information over the Internet](https://ieeexplore.ieee.org/document/8413110). Keen Sung. `IEEE Transactions on Mobile Computing 2018`.
 * IPv6
     * [IPv6 Prefix Target Generation through Pattern and Distribution Learning using Vision-Transformer and Guided-Diffusion](). Yaochen Ren. `INFOCOM 2025`.
     * [6GAN: IPv6 Multi-Pattern Target Generation via Generative Adversarial Nets with Reinforcement Learning](https://ieeexplore.ieee.org/document/9488912). Tianyu Cui. `INFOCOM 2021`. [[code]](https://github.com/CuiTianyu961030/6GAN)
@@ -536,5 +537,6 @@ Thanks goes to these wonderful people!
     <td align="center"><a href="https://github.com/TaRiK-Haob"><img src="https://avatars.githubusercontent.com/u/83114553?v=4" width="100px;" alt=""/><br /><sub><b>TaRiK-Haob</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=TaRiK-Haob" title="Documentation">📝</a></td>
     <td align="center"><a href="https://github.com/weiyuhao2021"><img src="https://avatars.githubusercontent.com/u/89506254?v=4" width="100px;" alt=""/><br /><sub><b>Yuhao Wei</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=YuhaoWei" title="Documentation">📝</a></td>
     <td align="center"><a href="https://github.com/Frederick666666"><img src="https://avatars.githubusercontent.com/u/75159200?v=4" width="100px;" alt=""/><br /><sub><b>Wenqi Dong</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=WenqiDong" title="Documentation">📝</a></td>
+    <td align="center"><a href="https://github.com/iiehyy"><img src="https://avatars.githubusercontent.com/u/186914194?v=4" width="100px;" alt=""/><br /><sub><b>Yiyang Huang</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=YiyangHuang" title="Documentation">📝</a></td>
   </tr>
 </table>
