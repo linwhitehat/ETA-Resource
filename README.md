@@ -29,17 +29,18 @@ SOFTWARE.
     <p>加密流量分析相关研究资源汇总</p>
 </h1>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/status-maintained-brightgreen">
-    <a href="https://github.com/linwhitehat/ETA-Resource/blob/main/LICENSE">
+<!--
+<a href="https://github.com/linwhitehat/ETA-Resource/blob/main/LICENSE">
         <img alt="GitHub" src="https://img.shields.io/github/license/linwhitehat/ETA-Resource.svg?color=green">
     </a>
     <img src="https://img.shields.io/github/stars/linwhitehat/ETA-Resource">
     <img src="https://img.shields.io/github/forks/linwhitehat/ETA-Resource">
-    <a href="https://github.com/linwhitehat/ETA-Resource/graphs/traffic">
+-->
+
+<p align="center">
+    <img src="https://img.shields.io/badge/License-MIT-brightgreen">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flinwhitehat%2FETA-Resource&label=visitor%20%20%20&labelColor=%23697689&countColor=%232ccce4&style=flat">
-    </a>
-    <a href="https://github.com/linwhitehat/ETA-Resource#contributors-"><img src="https://img.shields.io/badge/Contributors-11-orange.svg"></a>
+    <img src="https://img.shields.io/badge/Contributors-11-orange.svg">
 </p>
 
 **Note:**
