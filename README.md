@@ -146,7 +146,7 @@ Fingerprinting (SWF))(2023)
 * [Towards the Deployment of Machine Learning Solutions in Network Traffic Classification: A Systematic Survey](https://ieeexplore.ieee.org/document/8543584). Fannia Pacheco. `IEEE Communications Surveys & Tutorials 2019`.
 * [Deep Learning in Mobile and Wireless Networking: A Survey](https://ieeexplore.ieee.org/document/8666641). Chaoyun Zhang. `IEEE Communications Surveys & Tutorials 2019`.
 ## Benchmark
-* [The Digital Cybersecurity Expert: How Far Have We Come?](). Dawei Wang. `S&P 2025`. [[Report]](https://mp.weixin.qq.com/s/0G0iJue6yJval7sYAmtFEg) [[BenchMark]](https://github.com/NASP-THU/CSEBenchmark)
+* [The Digital Cybersecurity Expert: How Far Have We Come?](https://arxiv.org/abs/2504.11783). Dawei Wang. `S&P 2025`. [[Report]](https://mp.weixin.qq.com/s/0G0iJue6yJval7sYAmtFEg) [[BenchMark]](https://github.com/NASP-THU/CSEBenchmark)
 * [CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence](https://proceedings.neurips.cc/paper_files/paper/2024/file/5acd3c628aa1819fbf07c39ef73e7285-Paper-Datasets_and_Benchmarks_Track.pdf#:~:text=To%20bridge%20this%20gap%2C%20we,bench). Md Tanvirul Alam. `NeurIPS 2024`. [[Evaluation]](https://github.com/aiforsec/cti-bench) [[BenchMark]](https://huggingface.co/datasets/AI4Sec/cti-bench)
 * [NetBench: A Large-Scale and Comprehensive Network Traffic Benchmark Dataset for Foundation Models](https://arxiv.org/abs/2403.10319). Qian Chen. `FMSys 2024`. [[Dataset]](https://github.com/WM-JayLab/NetBench)
 
