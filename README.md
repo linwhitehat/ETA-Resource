@@ -265,7 +265,7 @@ Fingerprinting (SWF))(2023)
     * [Traffic spills the beans: A robust video identification attack against YouTube](https://www.sciencedirect.com/science/article/abs/pii/S0167404823005333). Xiyuan Zhang. `ComSec 2024`.
     * [EVS2vec: A Low-dimensional Embedding Method for Encrypted Video Stream Analysis](https://ieeexplore.ieee.org/document/10287432). Luming Yang. `SECON 2023`
     * [Walls Have Ears: Traffic-based Side-channel Attack in Video Streaming](https://ieeexplore.ieee.org/abstract/document/8486211). Jiaxi Gu. `IEEE INFOCOM 2018`.
-* LLM Supply Chain
+* LLMs API Attack
     * [What Was Your Prompt? A Remote Keylogging Attack on AI Assistants](https://www.usenix.org/conference/usenixsecurity24/presentation/weiss). Roy Weiss. `USENIX Security 2024`. [[code]](https://github.com/royweiss1/GPT_Keylogger)
 
 ## Robustness
