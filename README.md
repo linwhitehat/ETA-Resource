@@ -153,6 +153,7 @@ Fingerprinting (SWF))(2023)
 # Encrypted Traffic Analysis
 ## Encrypted Traffic Classification
 ### Applied Pre-training/LLMs
+* [MM4flow: A Pre-trained Multi-modal Model for Versatile Network Traffic Analysis](). Luming Yang. `CCS 2025`.
 * [Web-FTP: A Feature Transferring-Based Pre-Trained Model for Web Attack Detection](https://ieeexplore.ieee.org/abstract/document/10854996/). Zhenyu Guo. `TKDE 2025`.
 * [Bottom Aggregating, Top Separating: An Aggregator and Separator Network for Encrypted Traffic Understanding](https://ieeexplore.ieee.org/abstract/document/10839404). Wei Peng. `TIFS 2025`.
 * [MIETT: Multi-Instance Encrypted Traffic Transformer for Encrypted Traffic Classification](https://arxiv.org/abs/2412.15306). Xuyang Chen and Lu Han. `AAAI 2025`.
