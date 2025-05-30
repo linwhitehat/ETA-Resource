@@ -155,7 +155,7 @@ Fingerprinting (SWF))(2023)
 ### Applied Pre-training/LLMs
 * [Swallow: A Transfer-Robust Website Fingerprinting Attack via Consistent Feature Learning](). Meng Shen. `CCS 2025`. [[code]](https://github.com/wujinhe0814/Swallow)
 * [MM4flow: A Pre-trained Multi-modal Model for Versatile Network Traffic Analysis](). Luming Yang. `CCS 2025`.
-* [Respond to Change with Constancy: Instruction-tuning with LLM for Non-I.I.D. Network Traffic Classification](). Xinjie Lin. `TIFS 2025`.
+* [Respond to Change with Constancy: Instruction-tuning with LLM for Non-I.I.D. Network Traffic Classification](https://doi.org/10.1109/TIFS.2025.3574971). Xinjie Lin. `TIFS 2025`.
 * [Web-FTP: A Feature Transferring-Based Pre-Trained Model for Web Attack Detection](https://ieeexplore.ieee.org/abstract/document/10854996/). Zhenyu Guo. `TKDE 2025`.
 * [Bottom Aggregating, Top Separating: An Aggregator and Separator Network for Encrypted Traffic Understanding](https://ieeexplore.ieee.org/abstract/document/10839404). Wei Peng. `TIFS 2025`.
 * [MIETT: Multi-Instance Encrypted Traffic Transformer for Encrypted Traffic Classification](https://arxiv.org/abs/2412.15306). Xuyang Chen and Lu Han. `AAAI 2025`.
