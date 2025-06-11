@@ -489,6 +489,7 @@ Overseas
 * [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (Nanyang Technological University/Singapore)
 * [Alessandro Finamore](https://afinamore.io/) (Huawei Technologies/France)
 * [Thijs van Ede](https://thijsvane.de/) (University of Twente/Netherlands)
+* [Idilio Drago](https://www.cs.unito.it/do/docenti.pl/Alias?idilio.drago#tab-profilo) (University of Turin/Italy)
 </details>
 
 <!-- Wait dor updating
