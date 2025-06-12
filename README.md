@@ -57,7 +57,7 @@ SOFTWARE.
 - [Encrypted Traffic Analysis](#encrypted-traffic-analysis)
     - [Encrypted Traffic Classification](#encrypted-traffic-classification)
         - [Applied Pre-training/LLMs](#applied-pre-trainingllms)
-        - [Applied ML/DL](#applied-machinelearningdeeplearning)
+        - [Applied ML/DL](#applied-machine-learningdeep-learning)
     - [Network Traffic Simulation](#network-traffic-simulation)
         - [Applied Pre-training/LLMs](#applied-ptllms)
         - [Applied ML/DL](#applied-mldl)
