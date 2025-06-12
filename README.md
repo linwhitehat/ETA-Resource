@@ -529,7 +529,7 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 # News and Updates
 **Version 2.0**
 > March 22, 2025 
-1. Welcome to the New Contributors!
+1. Welcome to the New Contributors from UCAS, BIT, SEU, GZHU!
 2. The content is presented with a clearer structure and style.
 3. Fixed some errors.
 
