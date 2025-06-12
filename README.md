@@ -57,9 +57,9 @@ SOFTWARE.
 - [Encrypted Traffic Analysis](#encrypted-traffic-analysis)
     - [Encrypted Traffic Classification](#encrypted-traffic-classification)
         - [Applied Pre-training/LLMs](#applied-pre-trainingllms)
-        - [Applied ML/DL](#applied-mldl)
+        - [Applied ML/DL](#applied-machinelearningdeeplearning)
     - [Network Traffic Simulation](#network-traffic-simulation)
-        - [Applied Pre-training/LLMs](#applied-pre-trainingllms)
+        - [Applied Pre-training/LLMs](#applied-ptllms)
         - [Applied ML/DL](#applied-mldl)
     - [Network Intrusion Detection](#network-intrusion-detection)
         - [General Threat Detection](#general-threat-detection)
@@ -171,7 +171,7 @@ Fingerprinting (SWF))(2023)
 * [Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation](https://ojs.aaai.org/index.php/AAAI/article/view/25674). Ruijie Zhao. `AAAI 2023`. [[code]](https://github.com/NSSL-SJTU/YaTC)
 * [MT-FlowFormer: A Semi-Supervised Flow Transformer for Encrypted Traffic Classification](https://dl.acm.org/doi/10.1145/3534678.3539314). Ruijie Zhao. `KDD 2022`.
 * [ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://dl.acm.org/doi/abs/10.1145/3485447.3512217). Xinjie Lin. `WWW 2022`. [[code]](https://github.com/linwhitehat/et-bert) [[Reproduce]](https://gitee.com/xxdxxdxxd/et-bert/blob/master/README.md)
-### Applied ML/DL
+### Applied Machine Learning/Deep Learning
 * [Revolutionizing Encrypted Traffic Classification with MH-Net: A Multi-View Heterogeneous Graph Model](https://arxiv.org/abs/2501.03279). Haozhen Zhang. `AAAI 2025`. [[code]](https://github.com/ViktorAxelsen/MH-Net)
 * [FlowMiner: A Powerful Model Based on Flow Correlation Mining for Encrypted Traffic Classification](). Hongbo Xu. `INFOCOM 2025`.
 * [DE-GNN: Dual embedding with graph neural network for fine-grained encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128624002044). Xinbo Han. `Computer Networks 2024`.
@@ -189,7 +189,7 @@ Fingerprinting (SWF))(2023)
 * [MaMPF: Encrypted Traffic Classification Based on Multi-Attribute Markov Probability Fingerprints](https://ieeexplore.ieee.org/abstract/document/8624124).  Chang Liu. `IWQoS 2018`. [[code]](https://github.com/WSPTTH/MaMPF)
 
 ## Network Traffic Simulation
-### Applied Pre-training/LLMs
+### Applied PT/LLMs
 * [Resolving Packets from Counters: Enabling Multi-scale Network Traffic Super Resolution via Composable Large Traffic Model](https://www.usenix.org/conference/nsdi25/presentation/wang-xizheng-resolving). Xizheng Wang. `NSDI 2025`. [[code]](https://github.com/wxzisk/ZoomSynth_NSDI2025)
 * [NetLLM: Adapting Large Language Models for Networking](https://dl.acm.org/doi/abs/10.1145/3651890.3672268). Duo Wu. `SIGCOMM 2024`. [[code]](https://github.com/duowuyms/NetLLM)
 * [NetDiffusion: Network Data Augmentation Through Protocol-Constrained Traffic Generation](https://dl.acm.org/doi/10.1145/3639037). Xi Jiang. `SIGMETRICS 2023`. [[code](https://github.com/noise-lab/NetDiffusion_Generator)]
