@@ -141,6 +141,7 @@ Fingerprinting (SWF))(2023)
 # Survey and Benchmark
 ## Survey
 * [Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities](https://doi.org//10.1109/COMST.2024.3465447). Hao Zhou. `IEEE Communications Surveys & Tutorials 2025`.
+* [Deep learning and pre-training technology for encrypted traffic classification: A comprehensive review](https://www.sciencedirect.com/science/article/abs/pii/S0925231224012153). Wenqi Dong. `Neurocomputing 2024`.
 * [Machine Learning-Powered Encrypted Network Traffic Analysis: A Comprehensive Survey](https://ieeexplore.ieee.org/document/9896143). Meng Shen. `IEEE Communications Surveys & Tutorials 2023`.
 * [Graph Mining for Cybersecurity: A Survey](https://dl.acm.org/doi/10.1145/3610228). Bo Yan. `ACM Transactions on Knowledge Discovery from Data 2023`.
 * [Deep Learning for Encrypted Traffic Classification: An Overview](https://ieeexplore.ieee.org/document/8713803/). Shahbaz Rezaei. `IEEE Communications Magazine 2019`.
