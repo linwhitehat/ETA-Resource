@@ -156,6 +156,7 @@ Fingerprinting (SWF))(2023)
 # Encrypted Traffic Analysis
 ## Encrypted Traffic Classification
 ### Applied Pre-training/LLMs
+* [MOTA: Mixture Of Traffic Agents for Robust Network Traffic Classification](). Shaowei Li. `IWQoS 2025`.
 * [TraGe: A Generic Packet Representation for Traffic Classification Based on Header-Payload Differences](). Chungang Lin. `IWQoS 2025`.
 * [Swallow: A Transfer-Robust Website Fingerprinting Attack via Consistent Feature Learning](). Meng Shen. `CCS 2025`. [[code]](https://github.com/wujinhe0814/Swallow)
 * [MM4flow: A Pre-trained Multi-modal Model for Versatile Network Traffic Analysis](). Luming Yang. `CCS 2025`.
@@ -478,6 +479,7 @@ Fudan University/China
 * [Fengwei Zhang](https://fengweiz.github.io/) (Southern University of Science and Technology/China)
 * [Qian Wang](http://nisplab.whu.edu.cn/people.html) (Wuhan University/China)
 * [Shuguang Cui](https://sse.cuhk.edu.cn/en/faculty/cuishuguang) (The Chinese University of Hong Kong/China)
+* [Feng Li](https://funglee.github.io/) (Shandong University/China)
 </details>
   
 <details>
