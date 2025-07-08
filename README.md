@@ -74,7 +74,7 @@ SOFTWARE.
 - [Measurement](#measurement)
 - [Research Groups](#research-groups)
 - [Blogs](#blogs)
-- [Libraries and Frameworks](#tool-libraries-and-frameworks)
+- [Tool Libraries and Frameworks](#tool-libraries-and-frameworks)
 - [News and Updates](#news-and-updates)
 - [Contributors](#contributors-)
 <!--
