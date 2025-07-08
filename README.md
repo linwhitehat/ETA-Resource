@@ -69,7 +69,7 @@ SOFTWARE.
     - [WFP and AFP](#wfp-and-afp)
         - [Website Fingerprinting](#website-fingerprinting)
         - [App Fingerprinting](#app-fingerprinting)
-    - [Robustness](#robustness)
+    - [Generalization and Robustness](#generalization-and-robustness)
     - [Online Methods](#online-methods)
 - [Measurement](#measurement)
 - [Research Groups](#research-groups)
@@ -203,6 +203,7 @@ Fingerprinting (SWF))(2023)
 
 ## Network Intrusion Detection
 ### General Threat Detection
+* [Robust Detection of Malicious Encrypted Traffic via Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10964328). Meng Shen. `TIFS 2025`.
 * [Trident: A Universal Framework for Fine-Grained and Class-Incremental Unknown Traffic Detection](https://dl.acm.org/doi/10.1145/3589334.3645407). Secbrain. `WWW 2024`. [[code]](https://github.com/Secbrain/Trident/)
 * [Mateen: Adaptive Ensemble Learning for Network Anomaly Detection](https://dl.acm.org/doi/10.1145/3678890.3678901). Fahad Alotaibi. `RAID 2024`. [[code]](https://github.com/ICL-ml4csec/Mateen/)
 * [AOC-IDS: Autonomous Online Framework with Contrastive Learning for Intrusion Detection](https://ieeexplore.ieee.org/document/10621346). Xinchen Zhang. `INFOCOM 2024`. [[code]](https://github.com/xinchen930/AOC-IDS)
@@ -278,7 +279,7 @@ Fingerprinting (SWF))(2023)
 * LLMs API Attack
     * [What Was Your Prompt? A Remote Keylogging Attack on AI Assistants](https://www.usenix.org/conference/usenixsecurity24/presentation/weiss). Roy Weiss. `USENIX Security 2024`. [[code]](https://github.com/royweiss1/GPT_Keylogger)
 
-## Robustness
+## Generalization and Robustness
 * Out-of-Distribution
     * [FG-SAT: Efficient Flow Graph for Encrypted Traffic Classification under Environment Shifts](https://ieeexplore.ieee.org/abstract/document/11007150). Susu Cui. `TIFS 2025`.
     * [Facing Anomalies Head-On: Network Traffic Anomaly Detection via Uncertainty-Inspired Inter-Sample Differences](https://openreview.net/forum?id=hcXmL63aOJ#discussion). Xinglin Lian. `WWW 2025`.
