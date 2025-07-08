@@ -318,6 +318,7 @@ Fingerprinting (SWF))(2023)
 <!-- * [Explaining Deep Learning Models for Per-packet Encrypted Network Traffic Classification](https://ant.isi.edu/~hardaker/papers/Explaining_Deep_Learning_Models_for_Per-packet_Encrypted_Network_Traffic_Classification.pdf#:~:text=we%20propose%20a%20methodology%20to,directions%20toward%20optimizing%20model%20performance). Luis Garcia. IEEE M&N 2022. -->
 
 ## Online Methods
+* [Less is More: Simplifying Network Traffic Classification Leveraging RFCs](https://dl.acm.org/doi/abs/10.1145/3701716.3715492). Nimesha Wickramasinghe. `WWW 2025`.
 * [Leo: Online ML-based Traffic Classification at Multi-Terabit Line Rate](https://www.usenix.org/conference/nsdi24/presentation/jafri). Syed Usman Jafri. `NSDI 2024`. [[code]](https://github.com/Purdue-ISL/Leo)
 * [Brain-on-Switch: Towards Advanced Intelligent Network Data Plane via NN-Driven Traffic Analysis at Line-Speed](https://www.usenix.org/conference/nsdi24/presentation/yan). Jinzhu Yan. `NSDI 2024`. [[code]](https://github.com/InspiringGroup-Lab/Brain-on-Switch)
 * [LINC: Enabling Low-Resource In-network Classification and Incremental Model Update](https://smartinternet.group/wp-content/uploads/2024/09/paper-yhl-linc-icnp.pdf). Haolin Yan. `ICNP 2024`. [[code]](https://github.com/haolinyan/LINC)
@@ -505,6 +506,7 @@ Overseas
 * [Alessandro Finamore](https://afinamore.io/) (Huawei Technologies/France)
 * [Thijs van Ede](https://thijsvane.de/) (University of Twente/Netherlands)
 * [Idilio Drago](https://www.cs.unito.it/do/docenti.pl/Alias?idilio.drago#tab-profilo) (University of Turin/Italy)
+* [Sanjay Jha](https://sites.google.com/view/profsanjayjha) (University of New South Wales/Australia)
 </details>
 
 <!-- Wait dor updating
