@@ -157,6 +157,8 @@ Fingerprinting (SWF))(2023)
 # Encrypted Traffic Analysis
 ## Encrypted Traffic Classification
 ### Applied Pre-training/LLMs
+* [TrafficGPT: An LLM Approach for Open-Set Encrypted Traffic Classification](). Yasod Ginige  `AINTEC 2024`. [[code]](https://github.com/YasodGinige/TrafficGPT)
+* [Trafficllm: Llms for Improved Open-Set Encrypted Traffic Analysis](). Yasod Ginige  `Computer Networks`. [[code]](https://github.com/YasodGinige/TrafficLLM)
 * [MOTA: Mixture Of Traffic Agents for Robust Network Traffic Classification](). Shaowei Li. `IWQoS 2025`.
 * [TraGe: A Generic Packet Representation for Traffic Classification Based on Header-Payload Differences](). Chungang Lin. `IWQoS 2025`.
 * [Swallow: A Transfer-Robust Website Fingerprinting Attack via Consistent Feature Learning](). Meng Shen. `CCS 2025`. [[code]](https://github.com/wujinhe0814/Swallow)
