@@ -67,6 +67,7 @@ SOFTWARE.
         - [IoT and Scenario-Specific Detection](#iot-and-scenario-specific-detection)
         - [Black/Grey Market Activity Detection](#blackgrey-market-activity-detection)
     - [WFP and AFP](#wfp-and-afp)
+        - [General Fingerprinting](#general-fingerprinting)
         - [Website Fingerprinting](#website-fingerprinting)
         - [App Fingerprinting](#app-fingerprinting)
     - [Generalization and Robustness](#generalization-and-robustness)
@@ -222,7 +223,7 @@ Fingerprinting (SWF))(2023)
     * [Analyzing Ground-Truth Data of Mobile Gambling Scams](https://ieeexplore.ieee.org/abstract/document/9833665). Geng Hong. `Symposium on Security and Privacy (S&P) 2022`.
 
 ## WFP and AFP
-### General FP
+### General Fingerprinting
 * [Nüwa: Enhancing Network Traffic Analysis With Pre-Trained Side-Channel Feature Imputation](https://ieeexplore.ieee.org/abstract/document/11071392). Faqi Zhao. `ToN 2025`.
 * [DE-GNN: Dual embedding with graph neural network for fine-grained encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128624002044). Xinbo Han. `Computer Networks 2024`.
 * [Seeing Traffic Paths: Encrypted Traffic Classification With Path Signature Features](https://ieeexplore.ieee.org/document/9786755). Shijie Xu. `TIFS 2022`.
