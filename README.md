@@ -535,6 +535,7 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 -->
 
 # Tool Libraries and Frameworks
+* [PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope)
 * [flowcontainer](https://github.com/jmhIcoding/flowcontainer)
 * [scapy](https://scapy.net/)
 * [wireshark](https://www.wireshark.org/)
