@@ -296,6 +296,7 @@ Fingerprinting (SWF))(2023)
     * [Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning](https://dl.acm.org/doi/abs/10.1145/3319535.3354217). Payap Sirinam. `CCS 2019`. [[code]](https://github.com/triplet-fingerprinting/tf) (N-shot Learning)
 * Open-set
     * [Reliable Open-Set Network Traﬃc Classification](https://ieeexplore.ieee.org/abstract/document/10900396). Xueman Wang. `TIFS 2025`.
+    * [TrafficGPT: An LLM Approach for Open-Set Encrypted Traffic Classification](https://dl.acm.org/doi/abs/10.1145/3674213.3674217). Yasod Ginige. `AINTEC 2024`. [[code]](https://github.com/YasodGinige/TrafficGPT)
     * [Knowing the unknowns: Network traffic detection with open-set semi-supervised learning](https://www.sciencedirect.com/science/article/abs/pii/S1389128624004626). Rui Chen. `Computer Networks 2024`.
     * [Identifying malicious traffic under concept drift based on intraclass consistency enhanced variational autoencoder](http://scis.scichina.com/en/2024/182302.pdf). Xiang Luo. `SCIENCE CHINA Information Sciences (SCIS) 2024`.
     * [Robust open-set classification for encrypted traffic fingerprinting](https://www.sciencedirect.com/science/article/pii/S138912862300436X). Thilini Dahanayaka. `Computer Networks 2023`.
