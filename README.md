@@ -584,4 +584,7 @@ Thanks goes to these wonderful people!
     <td align="center"><a href="https://github.com/iiehyy"><img src="https://avatars.githubusercontent.com/u/186914194?v=4" width="100px;" alt=""/><br /><sub><b>Yiyang Huang</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=YiyangHuang" title="Documentation">📝</a></td>
     <td align="center"><a href="https://github.com/xingyue-Wangh"><img src="https://avatars.githubusercontent.com/u/85674037?v=4" width="100px;" alt=""/><br /><sub><b>xingyue-Wangh</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=xingyue-Wangh" title="Documentation">📝</a></td>
   </tr>
+  <tr>
+  <td align="center"><a href="https://github.com/nime-sha256"><img src="https://avatars.githubusercontent.com/u/27483081?v=4" width="100px;" alt=""/><br /><sub><b>Nimesha Wickramasinghe</b></sub></a><br /> <a href="https://github.com/linwhitehat/ETA-Resource/commits?author=nime-sha256" title="Documentation">📝</a></td>
+  <\tr>
 </table>
