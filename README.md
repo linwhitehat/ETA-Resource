@@ -586,5 +586,5 @@ Thanks goes to these wonderful people!
   </tr>
   <tr>
   <td align="center"><a href="https://github.com/nime-sha256"><img src="https://avatars.githubusercontent.com/u/27483081?v=4" width="100px;" alt=""/><br /><sub><b>Nimesha Wickramasinghe</b></sub></a><br /> <a href="https://github.com/linwhitehat/ETA-Resource/commits?author=nime-sha256" title="Documentation">📝</a></td>
-  <\tr>
+  </tr>
 </table>
