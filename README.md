@@ -101,7 +101,7 @@ This repository offers a curated collection of research and development resource
 | [LFETT2021 Dataset](https://github.com/HoneyPotter-Gzy/LFETT2021-dataset) | Tunnel, Proxy, VPN | 2021 | 🟡&nbsp;No updates |
 | [DataCon2021-Encrypted Proxy](https://datacon.qianxin.com/opendata/openpage?resourcesId=10) | Proxy, VPN | 2021 | 🟡&nbsp;No updates |
 | [Malware Capture Facility Project](https://www.stratosphereips.org/datasets-overview) | CTU, IoT, Malware, Botnet | 2020 | 🟡&nbsp;No updates |
-| [Cross-Platform](https://recon.meddle.mobi/cross-market.html) | iOS and Android Apps | 2019 | 🟡&nbsp;No updates |
+| [Cross-Platform](https://recon.meddle.mobi/cross-market.html) ([Backup Dataset](https://cloud.tsinghua.edu.cn/f/b00ce0c960114b59b948/)) | iOS and Android Apps | 2019 | 🟡&nbsp;No updates |
 | [Network-based Intrusion Detection](https://www.sciencedirect.com/science/article/pii/S016740481930118X) | AWID, Botnet, CIC DoS, CTU, DARPA | 2019 | 🟡&nbsp;No&nbsp;updates |
 | [Wangknn-dataset](https://github.com/kdsec/wangknn-dataset) | Tor, Websites | 2018 | 🟡&nbsp;No updates |
 | [DLWF](https://github.com/DistriNet/DLWF) | Tor, Websites, Concept Drift, Open World | 2018 | 🟡&nbsp;No updates |
