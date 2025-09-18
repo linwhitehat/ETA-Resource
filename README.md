@@ -343,6 +343,7 @@ Fingerprinting (SWF))(2023)
     * [Investigating Deployment Issues of DNS Root Server Instances from a China-wide View](https://ieeexplore.ieee.org/abstract/document/10460172/keywords#keywords). Fenglu Zhang. `IEEE Transactions on Dependable and Secure Computing (TDSC) 2024`.
 * Privacy and Security
     * [Enhanced Dynamics of IP Allocation: Fine-Grained IP Geolocation via Temporal-Spatial Correlation](). Yiyang Huang. `IEEE Transactions on Networking 2025`.
+    * [Mapping the unseen: Robust IP geolocation through the lens of uncertainty quantification](https://www.sciencedirect.com/science/article/abs/pii/S138912862500372X). Xueting Liu. `Computer Networks 2025`.
     * [Privacy protection of China’s top websites: A Multi-layer privacy measurement via network behaviours and privacy policies](https://www.sciencedirect.com/science/article/abs/pii/S0167404822000050). Xinjie Lin. `ComSec 2022`.
     * [Towards IP-based Geolocation via Fine-grained and Stable Webcam Landmarks](https://dl.acm.org/doi/10.1145/3366423.3380216). Zhihao Wang. `WWW 2020`.
     * [Server-Side Traffic Analysis Reveals Mobile Location Information over the Internet](https://ieeexplore.ieee.org/document/8413110). Keen Sung. `IEEE Transactions on Mobile Computing 2018`.
