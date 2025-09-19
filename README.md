@@ -514,7 +514,7 @@ Overseas
 * [Alessandro Finamore](https://afinamore.io/) (Huawei Technologies/France)
 * [Thijs van Ede](https://thijsvane.de/) (University of Twente/Netherlands)
 * [Idilio Drago](https://www.cs.unito.it/do/docenti.pl/Alias?idilio.drago#tab-profilo) (University of Turin/Italy)
-* [Sanjay Jha](https://sites.google.com/view/profsanjayjha) (University of New South Wales/Australia)
+* [Arash Shaghaghi](https://research.unsw.edu.au/people/dr-arash-shaghaghi) (University of New South Wales/Australia)
 </details>
 
 <!-- Wait dor updating
