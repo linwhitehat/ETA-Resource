@@ -142,7 +142,7 @@ Fingerprinting (SWF))(2023)
 
 # Survey and Benchmark
 ## Survey
-* [SoK: Decoding the Enigma of Encrypted Network Traffic Classifiers](https://ieeexplore.ieee.org/abstract/document/11023502). Nimesha Wickramasinghe. `S&P 2025`.
+* [SoK: Decoding the Enigma of Encrypted Network Traffic Classifiers](https://ieeexplore.ieee.org/abstract/document/11023502). Nimesha Wickramasinghe. `S&P 2025`. [[code]](https://github.com/nime-sha256/ntc-enigma)
 * [Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities](https://doi.org//10.1109/COMST.2024.3465447). Hao Zhou. `IEEE Communications Surveys & Tutorials 2025`.
 * [Deep learning and pre-training technology for encrypted traffic classification: A comprehensive review](https://www.sciencedirect.com/science/article/abs/pii/S0925231224012153). Wenqi Dong. `Neurocomputing 2024`.
 * [SoK: A Critical Evaluation of Efficient Website Fingerprinting Defenses](https://ieeexplore.ieee.org/document/10179289). Nate Mathews. `S&P 2023`.
