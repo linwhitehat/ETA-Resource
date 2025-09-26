@@ -227,6 +227,7 @@ Fingerprinting (SWF))(2023)
 
 ## WFP and AFP
 ### General Fingerprinting
+* [HOLMES & WATSON: A Robust and Lightweight HTTPS Website Fingerprinting through HTTP Version Parallelism](https://dl.acm.org/doi/10.1145/3696410.3714578). Yifei Cheng. `WWW 2025`.
 * [Nüwa: Enhancing Network Traffic Analysis With Pre-Trained Side-Channel Feature Imputation](https://ieeexplore.ieee.org/abstract/document/11071392). Faqi Zhao. `ToN 2025`.
 * [DE-GNN: Dual embedding with graph neural network for fine-grained encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128624002044). Xinbo Han. `Computer Networks 2024`.
 * [Seeing Traffic Paths: Encrypted Traffic Classification With Path Signature Features](https://ieeexplore.ieee.org/document/9786755). Shijie Xu. `TIFS 2022`.
@@ -237,7 +238,6 @@ Fingerprinting (SWF))(2023)
 * [CETAnalytics: Comprehensive effective traffic information analytics for encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128619309466). Cong Dong. `Computer Networks 2020`.
 ### Website Fingerprinting
 * Tunnel and VPN
-    * [HOLMES & WATSON: A Robust and Lightweight HTTPS Website Fingerprinting through HTTP Version Parallelism](https://dl.acm.org/doi/10.1145/3696410.3714578). Yifei Cheng. `WWW 2025`.
     * [Fingerprinting Obfuscated Proxy Traffic with Encapsulated TLS Handshakes](https://www.usenix.org/conference/usenixsecurity24/presentation/xue-fingerprinting). Diwen Xue. `USENIX Security 2024`.
     * [ProxyKiller: An Anonymous Proxy Traffic Attack Model Based on Traffic Behavior Graphs](https://link.springer.com/chapter/10.1007/978-3-031-70890-9_9#Tab4). Hongbo Xu. `ESORICS 2024`.
     * [VPNSniffer: Identifying VPN Servers Through Graph-Represented Behaviors](https://dl.acm.org/doi/10.1145/3589334.3645552). Chenxu Wang. `WWW 2024`.
