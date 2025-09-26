@@ -237,6 +237,7 @@ Fingerprinting (SWF))(2023)
 * [CETAnalytics: Comprehensive effective traffic information analytics for encrypted traffic classification](https://www.sciencedirect.com/science/article/pii/S1389128619309466). Cong Dong. `Computer Networks 2020`.
 ### Website Fingerprinting
 * Tunnel and VPN
+    * [HOLMES & WATSON: A Robust and Lightweight HTTPS Website Fingerprinting through HTTP Version Parallelism](https://dl.acm.org/doi/10.1145/3696410.3714578). Yifei Cheng. `WWW 2025`.
     * [Fingerprinting Obfuscated Proxy Traffic with Encapsulated TLS Handshakes](https://www.usenix.org/conference/usenixsecurity24/presentation/xue-fingerprinting). Diwen Xue. `USENIX Security 2024`.
     * [ProxyKiller: An Anonymous Proxy Traffic Attack Model Based on Traffic Behavior Graphs](https://link.springer.com/chapter/10.1007/978-3-031-70890-9_9#Tab4). Hongbo Xu. `ESORICS 2024`.
     * [VPNSniffer: Identifying VPN Servers Through Graph-Represented Behaviors](https://dl.acm.org/doi/10.1145/3589334.3645552). Chenxu Wang. `WWW 2024`.
@@ -245,7 +246,6 @@ Fingerprinting (SWF))(2023)
     * [Context-aware Website Fingerprinting over Encrypted Proxies](https://ieeexplore.ieee.org/abstract/document/9488676). Xiaobo Ma. `INFOCOM 2021`.
 * Tor
     * [Beyond Single Tabs: A Transformative Few-Shot Approach to Multi-Tab Website Fingerprinting Attacks](https://dl.acm.org/doi/10.1145/3696410.3714811). Wenwen Meng. `WWW 2025`. [[code]](https://github.com/WW-Meng/FMWF)
-    * [HOLMES & WATSON: A Robust and Lightweight HTTPS Website Fingerprinting through HTTP Version Parallelism](https://dl.acm.org/doi/10.1145/3696410.3714578). Yifei Cheng. `WWW 2025`.
     * [Enhancing Search Privacy on Tor: Advanced Deep Keyword Fingerprinting Attacks and BurstGuard Defense](https://dl.acm.org/doi/abs/10.1145/3708821.3733914). Chaiwon Hwang. `ASIA CCS 2025`.
     * [Stop, Don’t Click Here Anymore: Boosting Website Fingerprinting By Considering Sets of Subpages](https://www.usenix.org/conference/usenixsecurity24/presentation/mitseva). Mitseva and Panchenko. `Usenix Security 2024`. 
     * [Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis](https://arxiv.org/pdf/2407.00918). Xinhao Deng. `CCS 2024`. [[code]](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library)
