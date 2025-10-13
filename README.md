@@ -92,6 +92,7 @@ This repository offers a curated collection of research and development resource
 | [Canadian Institute for Cybersecurity Datasets](https://www.unb.ca/cic/datasets/) | IoT, LLM, DNS, IDS, DoS, Darknet, Tor, VPN, Botnet, Malware | – | 🟢&nbsp;Regularly |
 | [ANT Datasets](https://ant.isi.edu/datasets/index.html) | Botnet, IoT, DNS, IP Geolocation | – | 🟢&nbsp;Regularly |
 | [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/) | IoT, Botnet, Cloud Security | – | 🟢&nbsp;Regularly |
+| [VisQUIC](https://github.com/robshahla/VisQUIC) | QUIC Traffic Captured from Different Webpages | 2025 | 🔵&nbsp;New |
 | [CipherSpectrum](https://cspectrum.web.cse.unsw.edu.au) | TLS 1.3 Web-Traffic for 40 Domains | 2025 | 🔵&nbsp;New |
 | [NETD](https://github.com/linwhitehat/NETD) | Dynamic Non-I.I.D. Encrypted Traffic Dataset | 2025 | 🔵&nbsp;New |
 | [MobileTraffic](https://github.com/Abby-ZS/NUDT_MobileTraffic) | 300+ Mobile Apps | 2024 | 🟡&nbsp;No updates |
@@ -155,6 +156,7 @@ Fingerprinting (SWF))(2023)
 * [Deep Learning in Mobile and Wireless Networking: A Survey](https://ieeexplore.ieee.org/document/8666641). Chaoyun Zhang. `IEEE Communications Surveys & Tutorials 2019`.
 ## Benchmark
 * [The Digital Cybersecurity Expert: How Far Have We Come?](https://arxiv.org/abs/2504.11783). Dawei Wang. `S&P 2025`. [[Report]](https://mp.weixin.qq.com/s/0G0iJue6yJval7sYAmtFEg) [[BenchMark]](https://github.com/NASP-THU/CSEBenchmark)
+* [Demystifying Network Foundation Models](https://arxiv.org/abs/2509.23089). Sylee Beltiukov. `NeurIPS 2025`. [[BenchMark]](https://github.com/maybe-hello-world/demystifying-networks)
 * [SECURE: Benchmarking Large Language Models for Cybersecurity](https://ieeexplore.ieee.org/document/10917682). Dipkamal Bhusal. `ACSAC 2024`. [[BenchMark]](https://github.com/aiforsec/SECURE)
 * [CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence](https://proceedings.neurips.cc/paper_files/paper/2024/file/5acd3c628aa1819fbf07c39ef73e7285-Paper-Datasets_and_Benchmarks_Track.pdf#:~:text=To%20bridge%20this%20gap%2C%20we,bench). Md Tanvirul Alam. `NeurIPS 2024`. [[Evaluation]](https://github.com/aiforsec/cti-bench) [[BenchMark]](https://huggingface.co/datasets/AI4Sec/cti-bench)
 * [NetBench: A Large-Scale and Comprehensive Network Traffic Benchmark Dataset for Foundation Models](https://arxiv.org/abs/2403.10319). Qian Chen. `FMSys 2024`. [[Dataset]](https://github.com/WM-JayLab/NetBench)
