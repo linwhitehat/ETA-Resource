@@ -341,7 +341,7 @@ Fingerprinting (SWF))(2023)
 * [Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction](https://arxiv.org/abs/2403.19248). Ruoyu Li. `INFOCOM 2024`.
 * [HorusEye: A Realtime IoT Malicious Traffic Detection Framework using Programmable Switches](https://www.usenix.org/conference/usenixsecurity23/presentation/dong-yutao). Yutao Dong. `USENIX Security 2023`. [[code]](https://github.com/vicTorKd/HorusEye)
 * [Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis](https://www.ndss-symposium.org/ndss-paper/detecting-unknown-encrypted-malicious-traffic-in-real-time-via-flow-interaction-graph-analysis/). Chuanpu Fu. `NDSS 2023`. [[code]](https://github.com/fuchuanpu/HyperVision)
-* [Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-3_Mirsky_paper.pdf). Yisroel Mirsky. `NDSS 2018`. [[code]](https://github.com/ymirsky/KitNET-py)
+* [Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-3_Mirsky_paper.pdf). Yisroel Mirsky. `NDSS 2018`. [[code]](https://github.com/ymirsky/Kitsune-py)
 
 # Measurement
 * Domain Name System
