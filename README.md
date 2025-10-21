@@ -546,10 +546,8 @@ CISPA Helmholtz Center	德国	加密通信协议分析、网络匿名性
 * [Malware-Traffic-Analysis](https://www.malware-traffic-analysis.net/)
 * [Awesome-NTA](https://github.com/wangtz19/Awesome-NTA)
 
-## Network Traffic Analysis Tool Manual
-* [Tshark](https://www.wireshark.org/docs/man-pages/tshark.html)
-* [pyshark](https://github.com/KimiNewt/pyshark)
 <!--
+## Network Traffic Analysis Tool Manual
 https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 -->
 
@@ -558,6 +556,7 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 * [flowcontainer](https://github.com/jmhIcoding/flowcontainer)
 * [scapy](https://scapy.net/)
 * [wireshark](https://www.wireshark.org/)
+* [Tshark](https://www.wireshark.org/docs/man-pages/tshark.html)
 * [pyshark](https://kiminewt.github.io/pyshark/)
 * [Cisco Talos](https://talosintelligence.com/software)
 * [Joy](https://github.com/cisco/joy)
