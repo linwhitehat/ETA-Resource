@@ -326,6 +326,7 @@ Fingerprinting (SWF))(2023)
     * [Subverting Website Fingerprinting Defenses with Robust Traffic Representation](https://www.usenix.org/conference/usenixsecurity23/presentation/shen-meng). Meng Shen. `USENIX Security 2023`.
     * [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](https://www.usenix.org/conference/usenixsecurity23/presentation/xie). Renjie Xie. `USENIX Security 2023`. [[code]](https://github.com/sunskyXX/Rosetta)
 * Explanatory Analysis
+    * [Explainable Anomaly Detection in Network Traffic Using Normalizing Flows](https://xplorestaging.ieee.org/document/11201273). Lior Shafir. `ToN 2025`.
     * [Understanding Web Fingerprinting with a Protocol-Centric Approach](https://dl.acm.org/doi/10.1145/3678890.3678910). Bogdan Cebere. `RAID 2024`. [[code]](https://github.com/bcebere/Understanding-and-Explaining-Web-Fingerprinting-with-a-Protocol-Centric-Approach)
     * [GEAD: Rules Refine the Riddle: Global Explanation for Deep Learning-Based Anomaly Detection in Security Applications](https://dl.acm.org/doi/10.1145/3658644.3670375). Dongqi Han. `CCS 2024`. [[code]](https://github.com/dongtsi/GEAD)
     * [Towards Real-Time Intrusion Detection with Explainable AI-Based Detector](https://dl.acm.org/doi/10.1145/3658644.3691410). Wenhao Li. `CCS Poster 2024`.
@@ -354,16 +355,18 @@ Fingerprinting (SWF))(2023)
     * [A Worldwide View on the Reachability of Encrypted DNS Services](https://dl.acm.org/doi/abs/10.1145/3589334.3645539). Ruixuan Li. `WWW 2024`.
     * [Investigating Deployment Issues of DNS Root Server Instances from a China-wide View](https://ieeexplore.ieee.org/abstract/document/10460172/keywords#keywords). Fenglu Zhang. `IEEE Transactions on Dependable and Secure Computing (TDSC) 2024`.
 * Privacy and Security
-    * [Enhanced Dynamics of IP Allocation: Fine-Grained IP Geolocation via Temporal-Spatial Correlation](). Yiyang Huang. `IEEE Transactions on Networking 2025`.
+    * [Enhanced Dynamics of IP Allocation: Fine-Grained IP Geolocation via Temporal-Spatial Correlation](). Yiyang Huang. `ToN 2025`.
     * [Mapping the unseen: Robust IP geolocation through the lens of uncertainty quantification](https://www.sciencedirect.com/science/article/abs/pii/S138912862500372X). Xueting Liu. `Computer Networks 2025`.
     * [Privacy protection of China’s top websites: A Multi-layer privacy measurement via network behaviours and privacy policies](https://www.sciencedirect.com/science/article/abs/pii/S0167404822000050). Xinjie Lin. `ComSec 2022`.
     * [Towards IP-based Geolocation via Fine-grained and Stable Webcam Landmarks](https://dl.acm.org/doi/10.1145/3366423.3380216). Zhihao Wang. `WWW 2020`.
     * [Server-Side Traffic Analysis Reveals Mobile Location Information over the Internet](https://ieeexplore.ieee.org/document/8413110). Keen Sung. `IEEE Transactions on Mobile Computing 2018`.
 * IPv6
-    * [IPv6 Prefix Target Generation through Pattern and Distribution Learning using Vision-Transformer and Guided-Diffusion](). Yaochen Ren. `INFOCOM 2025`.
+    * [IPv6 Prefix Target Generation through Pattern and Distribution Learning using Vision-Transformer and Guided-Diffusion](https://ieeexplore.ieee.org/document/11044676). Yaochen Ren. `INFOCOM 2025`.
     * [6GAN: IPv6 Multi-Pattern Target Generation via Generative Adversarial Nets with Reinforcement Learning](https://ieeexplore.ieee.org/document/9488912). Tianyu Cui. `INFOCOM 2021`. [[code]](https://github.com/CuiTianyu961030/6GAN)
     * [SiamHAN: IPv6 Address Correlation Attacks on TLS Encrypted Traffic via Siamese Heterogeneous Graph Attention Network](https://www.usenix.org/conference/usenixsecurity21/presentation/cui). Tianyu Cui. `USENIX Security 2021`. [[code]](https://github.com/CuiTianyu961030/SiamHAN)
     * [6VecLM: Language Modeling in Vector Space for IPv6 Target Generation](https://link.springer.com/chapter/10.1007%2F978-3-030-67667-4_12). Tianyu Cui. `ECML/PKDD 2020`. [[code]](https://github.com/CuiTianyu961030/6VecLM)
+* Quality of Service
+    * [Network Traffic Statistical Upper Limit Prediction From Flow Features for Traffic Fluctuations](https://xplorestaging.ieee.org/document/11143543). Erina Takeshita. `ToN 2025`.
 
 <!--
 # Ethereum
