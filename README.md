@@ -270,6 +270,7 @@ Fingerprinting (SWF))(2023)
     * [DecETT: Accurate App Fingerprinting Under Encrypted Tunnels via Dual Decouple-based Semantic Enhancement](https://openreview.net/forum?id=y5tQ9BX5NW#discussion). Zheyuan Gu. `WWW 2025`. [[code]](https://github.com/DecETT/DecETT)
     * [AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN](https://dl.acm.org/doi/10.1145/3543507.3583473). Sanghak Oh. `WWW 2023`. [[code]](https://github.com/network-traffic/AppSniffer)
 * Mobile App
+    * [Ultimate Encrypted Traffic Feature Engineering: HTTPS Encrypted Traffic Classification Using Restored Application Data Unit Length](https://ieeexplore.ieee.org/abstract/document/11184470/keywords#keywords). Zihan Chen. `TDSC 2025`.
     * [A novel approach for application classification with encrypted traffic using BERT and packet headers](https://www.sciencedirect.com/science/article/pii/S1389128624005796). Jaehak Yu. `Computer Networks 2024`.
     * [Packet-Level Open-World App Fingerprinting on Wireless Traffic](https://www.ndss-symposium.org/ndss-paper/auto-draft-218/). Jianfeng Li. `NDSS 2022`. [[code]](https://github.com/jflixjtu/PacketPrint/tree/main)
     * [FlowPrint: Semi-Supervised Mobile-App Fingerprinting on Encrypted Network Traffic](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24412.pdf). Thijs van Ede. `NDSS 2020`. [[code]](https://github.com/Thijsvanede/FlowPrint)
@@ -291,6 +292,7 @@ Fingerprinting (SWF))(2023)
 
 ## Generalization and Robustness
 * Out-of-Distribution
+    * [SnifferDog: Comprehensively Learning Heterogeneous Features of Network Traffic to Identify Malicious Flows](https://ieeexplore.ieee.org/abstract/document/11202220/keywords#keywords). Xi Luo. `TIFS 2025`.
     * [Respond to Change with Constancy: Instruction-tuning with LLM for Non-I.I.D. Network Traffic Classification](https://doi.org/10.1109/TIFS.2025.3574971). Xinjie Lin. `TIFS 2025`.
     * [FG-SAT: Efficient Flow Graph for Encrypted Traffic Classification under Environment Shifts](https://ieeexplore.ieee.org/abstract/document/11007150). Susu Cui. `TIFS 2025`.
     * [Facing Anomalies Head-On: Network Traffic Anomaly Detection via Uncertainty-Inspired Inter-Sample Differences](https://openreview.net/forum?id=hcXmL63aOJ#discussion). Xinglin Lian. `WWW 2025`.
@@ -312,6 +314,7 @@ Fingerprinting (SWF))(2023)
     * [Robust open-set classification for encrypted traffic fingerprinting](https://www.sciencedirect.com/science/article/pii/S138912862300436X). Thilini Dahanayaka. `Computer Networks 2023`.
     * [Autonomous Unknown-Application Filtering and Labeling for DL-based Traffic Classifier Update](https://ieeexplore.ieee.org/abstract/document/9155292). Jielun Zhang. `INFOCOM 2020`
 * Defense and Adversarial Techniques
+    * [Robustness Matters: Pre-Training Can Enhance the Performance of Encrypted Traffic Analysis](https://ieeexplore.ieee.org/abstract/document/11177602). Luming Yang. `TIFS 2025`.[[code]](https://github.com/Shangshu-LAB/BERT-ps)
     * [CertTA: Certified Robustness Made Practical for Learning-Based Traffic Analysis](https://www.usenix.org/conference/usenixsecurity25/presentation/yan-jinzhu). Jinzhu Yan. `USENIX Security 2025`. [[code]](https://github.com/InspiringGroup-Lab/CertTA) [[Zenodo]](https://doi.org/10.5281/zenodo.15580292)
     * [AdvTG: An Adversarial Traffic Generation Framework to Deceive DL-Based Malicious Traffic Detection Models](https://openreview.net/forum?id=sYZvdIh9ro#discussion). Peishuai Sun. `WWW 2025`. [[code]](https://github.com/TrafficDetection-art/AdvTG)
     * [TrafCL: Robust Encrypted Malicious Traffic Detection via Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3627673.3679839). Xiaodu Yang. `CIKM 2024`.
@@ -500,6 +503,7 @@ Fudan University/China
 * [Qian Wang](http://nisplab.whu.edu.cn/people.html) (Wuhan University/China)
 * [Shuguang Cui](https://sse.cuhk.edu.cn/en/faculty/cuishuguang) (The Chinese University of Hong Kong/China)
 * [Feng Li](https://funglee.github.io/) (Shandong University/China)
+* [Zhihong Tian](https://scholar.google.com/citations?user=oy9xqxcAAAAJ&hl=en) (Guangzhou University)
 </details>
   
 <details>
