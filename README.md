@@ -278,6 +278,8 @@ Fingerprinting (SWF))(2023)
     * [AppScanner: Automatic Fingerprinting of Smartphone Apps from Encrypted Network Traffic](https://ieeexplore.ieee.org/abstract/document/7467370). Vincent F. Taylor. `Euro S&P 2016`. [[code]](https://github.com/vftaylor/appscanner)
     * [Adaptive encrypted traffic fingerprinting with bi-directional dependence](https://dl.acm.org/doi/abs/10.1145/2991079.2991123). Khaled Al-Naami. `ACSAC 2016`. [[code]](https://github.com/khaled-alnaami/NetworkTrafficFingerprinting)
 * Streaming Media
+    * [JumpDASH: LLM-Based Content Perception for Intelligent Jumping DASH in Mobile Adaptive Video Streaming](https://ieeexplore.ieee.org/document/11216135). Hanling Wang. `ToN 2025`.
+    * [PPVF: An Efficient Privacy-Preserving Online Video Fetching Framework With Correlated Differential Privacy](https://ieeexplore.ieee.org/document/11205328). Xianzhi Zhang. `ToN 2025`.
     * [Dive into streaming: efficient identification of encrypted dynamic DASH video traffic](https://link.springer.com/article/10.1007/s11432-024-4474-6). Xiyuan Zhang. `SCIS 2026`.
     * [Endangered Privacy: Large-Scale Monitoring of Video Streaming Services](https://www.usenix.org/conference/usenixsecurity25/presentation/bjorklund). Martin Björklund. `USENIX Security 2025`.
     * [TorVIA A Novel Encrypted Video Identification Method Based on Tor Transmission Characteristics](https://www.sciencedirect.com/science/article/abs/pii/S1389128625005584). Juncheng Lu. `Computer Networks 2025`.
