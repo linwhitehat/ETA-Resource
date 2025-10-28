@@ -359,7 +359,7 @@ Fingerprinting (SWF))(2023)
     * [A Worldwide View on the Reachability of Encrypted DNS Services](https://dl.acm.org/doi/abs/10.1145/3589334.3645539). Ruixuan Li. `WWW 2024`.
     * [Investigating Deployment Issues of DNS Root Server Instances from a China-wide View](https://ieeexplore.ieee.org/abstract/document/10460172/keywords#keywords). Fenglu Zhang. `IEEE Transactions on Dependable and Secure Computing (TDSC) 2024`.
 * Privacy and Security
-    * [Enhanced Dynamics of IP Allocation: Fine-Grained IP Geolocation via Temporal-Spatial Correlation](). Yiyang Huang. `IEEE Transactions on Networking (ToN) 2025`.
+    * [Enhanced Dynamics of IP Allocation: Fine-Grained IP Geolocation via Temporal-Spatial Correlation](https://ieeexplore.ieee.org/document/11217538). Yiyang Huang. `IEEE Transactions on Networking (ToN) 2025`.
     * [Mapping the unseen: Robust IP geolocation through the lens of uncertainty quantification](https://www.sciencedirect.com/science/article/abs/pii/S138912862500372X). Xueting Liu. `Computer Networks 2025`.
     * [Privacy protection of China’s top websites: A Multi-layer privacy measurement via network behaviours and privacy policies](https://www.sciencedirect.com/science/article/abs/pii/S0167404822000050). Xinjie Lin. `ComSec 2022`.
     * [Towards IP-based Geolocation via Fine-grained and Stable Webcam Landmarks](https://dl.acm.org/doi/10.1145/3366423.3380216). Zhihao Wang. `WWW 2020`.
