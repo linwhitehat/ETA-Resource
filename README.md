@@ -503,6 +503,15 @@ Fudan University/China
 
 <details>
 <summary>
+Beijing University of Posts and Telecommunications/China
+</summary>
+    
+* [Yongxing Zhou](https://scss.bupt.edu.cn/info/1063/6088.htm)
+* [Jinqiao Shi](https://scss.bupt.edu.cn/info/1063/3294.htm)
+</details>
+
+<details>
+<summary>
     Others
 </summary>
 
