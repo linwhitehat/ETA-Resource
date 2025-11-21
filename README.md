@@ -210,6 +210,7 @@ Fingerprinting (SWF))(2023)
 * [Interactive Anomaly Detection in Dynamic Communication Networks](https://ieeexplore.ieee.org/abstract/document/9494106). Xuying Meng. `ToN 2021`. [[code]](https://github.com/ict-net/HADDN)
 
 ### Malware/C2 Traffic Detection
+* [Training with Only 1.0 ‰ Samples: Malicious Traffic Detection via Cross-Modality Feature Fusion](https://ccs25files.zoolab.org/main/ccsfb/JJ85Ndj3/3719027.3765143.pdf). Chuanpu Fu. `CCS 2025`.
 * [Wedjat: Detecting Sophisticated Evasion Attacks via Real-time Causal Analysis](http://www.thucsnet.com/wp-content/papers/li_gao_kdd2025.pdf). Li Gao. `KDD 2025`.
 * [PETNet: Plaintext-aware encrypted traffic detection network for identifying Cobalt Strike HTTPS traffics](https://www.sciencedirect.com/science/article/pii/S1389128623005650). Xiaodu Yang. `Computer Networks 2024`. [[code]](https://github.com/CN-PETNet/PETNet)
 * [Detecting Tunneled Flooding Traffic via Deep Semantic Analysis of Packet Length Patterns](https://dl.acm.org/doi/abs/10.1145/3658644.3670353). Chuanpu Fu. `CCS 2024`. [[code]](https://github.com/fuchuanpu/Exosphere)
@@ -296,6 +297,7 @@ Fingerprinting (SWF))(2023)
 
 ## Generalization and Robustness
 * Out-of-Distribution
+    * [Training Robust Classifiers for Classfiying Encrypted Traffic under Dynamic Network Conditions](https://ccs25files.zoolab.org/main/ccsfb/FDDc0WSz/3719027.3765073.pdf). Yuqi Qing. `CCS 2025`.
     * [SnifferDog: Comprehensively Learning Heterogeneous Features of Network Traffic to Identify Malicious Flows](https://ieeexplore.ieee.org/abstract/document/11202220/keywords#keywords). Xi Luo. `TIFS 2025`.
     * [Respond to Change with Constancy: Instruction-tuning with LLM for Non-I.I.D. Network Traffic Classification](https://doi.org/10.1109/TIFS.2025.3574971). Xinjie Lin. `TIFS 2025`.
     * [FG-SAT: Efficient Flow Graph for Encrypted Traffic Classification under Environment Shifts](https://ieeexplore.ieee.org/abstract/document/11007150). Susu Cui. `TIFS 2025`.
