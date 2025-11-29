@@ -167,8 +167,8 @@ Fingerprinting (SWF))(2023)
 * [BTRFormer: Hierarchical Learning of Encrypted Traffic Using a Masked Autoencoder with Block-Based Traffic Representation](https://ieeexplore.ieee.org/abstract/document/11192383). Junnan Yin. `ICNP 2025`. [[code]](https://github.com/yyyjn/BTRFormer)
 * [MOTA: Mixture Of Traffic Agents for Robust Network Traffic Classification](https://www.researchgate.net/publication/395505247_MOTA_Mixture_of_Traffic_Agents_for_Robust_Network_Traffic_Classification). Shaowei Li. `IWQoS 2025`.
 * [TraGe: A Generic Packet Representation for Traffic Classification Based on Header-Payload Differences](https://arxiv.org/abs/2506.14151). Chungang Lin. `IWQoS 2025`.
-* [Swallow: A Transfer-Robust Website Fingerprinting Attack via Consistent Feature Learning](). Meng Shen. `CCS 2025`. [[code]](https://github.com/wujinhe0814/Swallow)
-* [MM4flow: A Pre-trained Multi-modal Model for Versatile Network Traffic Analysis](). Luming Yang. `CCS 2025`.
+* [Swallow: A Transfer-Robust Website Fingerprinting Attack via Consistent Feature Learning](https://dl.acm.org/doi/10.1145/3719027.3744795). Meng Shen. `CCS 2025`. [[code]](https://github.com/wujinhe0814/Swallow)
+* [MM4flow: A Pre-trained Multi-modal Model for Versatile Network Traffic Analysis](https://dl.acm.org/doi/10.1145/3719027.3744804). Luming Yang. `CCS 2025`.
 * [MIETT: Multi-Instance Encrypted Traffic Transformer for Encrypted Traffic Classification](https://arxiv.org/abs/2412.15306). Xuyang Chen and Lu Han. `AAAI 2025`.
 * [TrafficFormer: An Efficient Pre-trained Model for Traffic Data](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a102/22K50xTq93y). Guangmeng Zhou. `S&P 2025`. [[code]](https://github.com/IDP-code/TrafficFormer)
 * [Ptu: Pre-Trained Model for Network Traffic Understanding](https://ieeexplore.ieee.org/document/10858503). Lingfeng Peng. `ICNP 2024`.
@@ -180,7 +180,7 @@ Fingerprinting (SWF))(2023)
 * [ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://dl.acm.org/doi/abs/10.1145/3485447.3512217). Xinjie Lin. `WWW 2022`. [[code]](https://github.com/linwhitehat/et-bert) [[Reproduce]](https://gitee.com/xxdxxdxxd/et-bert/blob/master/README.md)
 ### Applied Machine Learning/Deep Learning
 * [Revolutionizing Encrypted Traffic Classification with MH-Net: A Multi-View Heterogeneous Graph Model](https://arxiv.org/abs/2501.03279). Haozhen Zhang. `AAAI 2025`. [[code]](https://github.com/ViktorAxelsen/MH-Net)
-* [FlowMiner: A Powerful Model Based on Flow Correlation Mining for Encrypted Traffic Classification](). Hongbo Xu. `INFOCOM 2025`.
+* [FlowMiner: A Powerful Model Based on Flow Correlation Mining for Encrypted Traffic Classification](https://ieeexplore.ieee.org/document/11044724). Hongbo Xu. `INFOCOM 2025`.
 * [TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Trafic Classification](https://dl.acm.org/doi/abs/10.1145/3543507.3583227). Haozhen Zhang. `WWW 2023`. [[code]](https://github.com/ViktorAxelsen/TFE-GNN)
 * [An Input-Agnostic Hierarchical Deep Learning Framework for Traffic Fingerprinting](https://www.usenix.org/conference/usenixsecurity23/presentation/qu). Jian Qu. `USENIX Security 2023`. [[code]](https://github.com/shashadehuajiang/trace_classifier/tree/main)
 * [Packet Representation Learning for Traffic Classification](https://dl.acm.org/doi/10.1145/3534678.3539085). Xuying Meng. `KDD 2022`. [[code]](https://github.com/ict-net/PacRep)
@@ -297,7 +297,9 @@ Fingerprinting (SWF))(2023)
 
 ## Generalization and Robustness
 * Out-of-Distribution
+    * [Training with Only 1.0 ‰ Samples: Malicious Traffic Detection via Cross-Modality Feature Fusion](https://dl.acm.org/doi/abs/10.1145/3719027.3765143). Chuanpu Fu. `CCS 2025`.
     * [Training Robust Classifiers for Classfiying Encrypted Traffic under Dynamic Network Conditions](https://ccs25files.zoolab.org/main/ccsfb/FDDc0WSz/3719027.3765073.pdf). Yuqi Qing. `CCS 2025`.
+    * [Towards Context-Aware Traffic Classification via Time-Wavelet Fusion Network](https://dl.acm.org/doi/abs/10.1145/3690624.3709315). Ziming Zhao. `KDD 2025`.
     * [SnifferDog: Comprehensively Learning Heterogeneous Features of Network Traffic to Identify Malicious Flows](https://ieeexplore.ieee.org/abstract/document/11202220/keywords#keywords). Xi Luo. `TIFS 2025`.
     * [Respond to Change with Constancy: Instruction-tuning with LLM for Non-I.I.D. Network Traffic Classification](https://doi.org/10.1109/TIFS.2025.3574971). Xinjie Lin. `TIFS 2025`.
     * [FG-SAT: Efficient Flow Graph for Encrypted Traffic Classification under Environment Shifts](https://ieeexplore.ieee.org/abstract/document/11007150). Susu Cui. `TIFS 2025`.
