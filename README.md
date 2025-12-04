@@ -171,6 +171,7 @@ Fingerprinting (SWF))(2023)
 * [MM4flow: A Pre-trained Multi-modal Model for Versatile Network Traffic Analysis](https://dl.acm.org/doi/10.1145/3719027.3744804). Luming Yang. `CCS 2025`.
 * [MIETT: Multi-Instance Encrypted Traffic Transformer for Encrypted Traffic Classification](https://arxiv.org/abs/2412.15306). Xuyang Chen and Lu Han. `AAAI 2025`.
 * [TrafficFormer: An Efficient Pre-trained Model for Traffic Data](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a102/22K50xTq93y). Guangmeng Zhou. `S&P 2025`. [[code]](https://github.com/IDP-code/TrafficFormer)
+* [Designing and engineering a Q&A LLM for network packet representation](https://webthesis.biblio.polito.it/secure/33158/1/tesi.pdf). Giovanni Dettori. `Politecnico di Torino, Master's Degree Thesis, 2024`.
 * [Ptu: Pre-Trained Model for Network Traffic Understanding](https://ieeexplore.ieee.org/document/10858503). Lingfeng Peng. `ICNP 2024`.
 * [NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba](https://arxiv.org/abs/2405.11449). Tongze Wang. `ICNP 2024`. [[code]](https://github.com/wangtz19/NetMamba)
 * [Flow-MAE: Leveraging Masked AutoEncoder for Accurate, Efficient and Robust Malicious Traffic Classification](https://dl.acm.org/doi/10.1145/3607199.3607206#core-collateral-purchase-access). Zijun Hang. `RAID 2023`. [[code]](https://github.com/NLear/Flow-MAE)
