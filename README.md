@@ -596,7 +596,7 @@ https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 # News and Updates
 **Version 2.0**
 > March 22, 2025 
-1. Welcome to the New Contributors from UCAS, BIT, SEU, GZHU, UNSW!
+1. Welcome to the New Contributors from UCAS, BIT, SEU, GZHU, UNSW, USYD!
 2. The content is presented with a clearer structure and style.
 3. Fixed some errors.
 
@@ -627,5 +627,6 @@ Thanks goes to these wonderful people!
   </tr>
   <tr>
   <td align="center"><a href="https://github.com/nime-sha256"><img src="https://avatars.githubusercontent.com/u/27483081?v=4" width="100px;" alt=""/><br /><sub><b>Nimesha Wickramasinghe</b></sub></a><br /><a href="#ideas-nime-sha256" title="Ideas, Planning, & Feedback">🎯</a> <a href="https://github.com/linwhitehat/ETA-Resource/commits?author=nime-sha256" title="Documentation">📝</a></td>
+  <td align="center"><a href="https://github.com/YasodGinige"><img src="https://avatars.githubusercontent.com/u/36688672?v=4" width="100px;" alt=""/><br /><sub><b>YasodGinige</b></sub></a><br /><a href="#ideas-YasodGinige" title="Ideas, Planning, & Feedback">🎯</a> <a href="https://github.com/linwhitehat/ETA-Resource/commits?author=YasodGinige" title="Documentation">📝</a></td>
   </tr>
 </table>
