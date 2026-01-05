@@ -40,7 +40,7 @@ SOFTWARE.
 <p align="center">
     <img src="https://img.shields.io/badge/License-MIT-brightgreen">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flinwhitehat%2FETA-Resource&label=visitor%20%20%20&labelColor=%23697689&countColor=%232ccce4&style=flat">
-    <img src="https://img.shields.io/badge/Contributors-13-blue.svg">
+    <img src="https://img.shields.io/badge/Contributors-14-blue.svg">
 </p>
 
 **Note:**
