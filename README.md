@@ -294,6 +294,7 @@ Fingerprinting (SWF))(2023)
     * [EVS2vec: A Low-dimensional Embedding Method for Encrypted Video Stream Analysis](https://ieeexplore.ieee.org/document/10287432). Luming Yang. `SECON 2023`
     * [Walls Have Ears: Traffic-based Side-channel Attack in Video Streaming](https://ieeexplore.ieee.org/abstract/document/8486211). Jiaxi Gu. `IEEE INFOCOM 2018`.
 * LLMs Privacy Analysis
+    * [Network-Level Prompt and Trait Leakage in Local Research Agents](https://arxiv.org/abs/2508.20282). Hyejun Jeong. `USENIX Security 2026`. [[code]](https://github.com/umass-aisec/wra)
     * [Whisper Leak: A novel side-channel attack on remote language models](https://arxiv.org/abs/2511.03675). Microsoft Defender Security Research Team. `Microsoft Security 2025`. [[code]](https://github.com/yo-yo-yo-jbo/whisper_leak) [[Report]](https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/)
     * [What Was Your Prompt? A Remote Keylogging Attack on AI Assistants](https://www.usenix.org/conference/usenixsecurity24/presentation/weiss). Roy Weiss. `USENIX Security 2024`. [[code]](https://github.com/royweiss1/GPT_Keylogger)
 
