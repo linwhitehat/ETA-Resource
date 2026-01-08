@@ -206,11 +206,12 @@ Fingerprinting (SWF))(2023)
 * [AOC-IDS: Autonomous Online Framework with Contrastive Learning for Intrusion Detection](https://ieeexplore.ieee.org/document/10621346). Xinchen Zhang. `INFOCOM 2024`. [[code]](https://github.com/xinchen930/AOC-IDS)
 * [Early Network Intrusion Detection Enabled by Attention Mechanisms and RNNs](https://doi.org/10.1109/TIFS.2024.3441862). Taki Eddine Toufik Djaidja. `TIFS 2024`.
 * [TMG-GAN: Generative Adversarial Networks-Based Imbalanced Learning for Network Intrusion Detection](https://dl.acm.org/doi/10.1109/TIFS.2023.3331240). Hongwei Ding. `TIFS 2024`.
-* [Network intrusion detection based on n-gram frequency and time-aware transformer](https://www.sciencedirect.com/science/article/pii/S0167404823000810?via%3Dihub). Xueying Han. `Computer Security 2023`.
+* [Network intrusion detection based on n-gram frequency and time-aware transformer](https://www.sciencedirect.com/science/article/pii/S0167404823000810?via%3Dihub). Xueying Han. `ComSec 2023`.
 * [Encrypted Malware Traffic Detection via Graph-based Network Analysis](https://dl.acm.org/doi/10.1145/3545948.3545983). Zhuoqun Fu. `RAID 2022`.
 * [Interactive Anomaly Detection in Dynamic Communication Networks](https://ieeexplore.ieee.org/abstract/document/9494106). Xuying Meng. `ToN 2021`. [[code]](https://github.com/ict-net/HADDN)
 
 ### Malware/C2 Traffic Detection
+* [C2Detector: Interaction-Enhanced Semantic-Aware Detection Method for C2 Channels](https://www.sciencedirect.com/science/article/abs/pii/S1389128626000046). Youqiang Luo. `Computer Networks 2026`.
 * [Training with Only 1.0 ‰ Samples: Malicious Traffic Detection via Cross-Modality Feature Fusion](https://ccs25files.zoolab.org/main/ccsfb/JJ85Ndj3/3719027.3765143.pdf). Chuanpu Fu. `CCS 2025`.
 * [Wedjat: Detecting Sophisticated Evasion Attacks via Real-time Causal Analysis](http://www.thucsnet.com/wp-content/papers/li_gao_kdd2025.pdf). Li Gao. `KDD 2025`.
 * [PETNet: Plaintext-aware encrypted traffic detection network for identifying Cobalt Strike HTTPS traffics](https://www.sciencedirect.com/science/article/pii/S1389128623005650). Xiaodu Yang. `Computer Networks 2024`. [[code]](https://github.com/CN-PETNet/PETNet)
