@@ -102,6 +102,7 @@ This repository offers a curated collection of research and development resource
 | [CSTNET-TLS 1.3](https://github.com/linwhitehat/ET-BERT/tree/main/datasets/CSTNET-TLS%201.3) | TLS 1.3 Services | 2022 | 🟡&nbsp;No updates |
 | [LFETT2021 Dataset](https://github.com/HoneyPotter-Gzy/LFETT2021-dataset) | Tunnel, Proxy, VPN | 2021 | 🟡&nbsp;No updates |
 | [DataCon2021-Encrypted Proxy](https://datacon.qianxin.com/opendata/openpage?resourcesId=10) | Proxy, VPN | 2021 | 🟡&nbsp;No updates |
+| [DAPT 2020](https://gitlab.com/asu22/dapt2020) | APT | 2020 | 🟡&nbsp;No updates |
 | [Malware Capture Facility Project](https://www.stratosphereips.org/datasets-overview) | CTU, IoT, Malware, Botnet | 2020 | 🟡&nbsp;No updates |
 | [Cross-Platform](https://recon.meddle.mobi/cross-market.html) ([Backup Dataset](https://cloud.tsinghua.edu.cn/f/b00ce0c960114b59b948/)) | iOS and Android Apps | 2019 | 🟡&nbsp;No updates |
 | [Network-based Intrusion Detection](https://www.sciencedirect.com/science/article/pii/S016740481930118X) | AWID, Botnet, CIC DoS, CTU, DARPA | 2019 | 🟡&nbsp;No&nbsp;updates |
