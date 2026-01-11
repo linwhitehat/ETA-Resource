@@ -160,7 +160,9 @@ Fingerprinting (SWF))(2023)
 * [Demystifying Network Foundation Models](https://arxiv.org/abs/2509.23089). Sylee Beltiukov. `NeurIPS 2025`. [[BenchMark]](https://github.com/maybe-hello-world/demystifying-networks)
 * [SECURE: Benchmarking Large Language Models for Cybersecurity](https://ieeexplore.ieee.org/document/10917682). Dipkamal Bhusal. `ACSAC 2024`. [[BenchMark]](https://github.com/aiforsec/SECURE)
 * [CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence](https://proceedings.neurips.cc/paper_files/paper/2024/file/5acd3c628aa1819fbf07c39ef73e7285-Paper-Datasets_and_Benchmarks_Track.pdf#:~:text=To%20bridge%20this%20gap%2C%20we,bench). Md Tanvirul Alam. `NeurIPS 2024`. [[Evaluation]](https://github.com/aiforsec/cti-bench) [[BenchMark]](https://huggingface.co/datasets/AI4Sec/cti-bench)
+<!--
 * [NetBench: A Large-Scale and Comprehensive Network Traffic Benchmark Dataset for Foundation Models](https://arxiv.org/abs/2403.10319). Qian Chen. `FMSys 2024`. [[Dataset]](https://github.com/WM-JayLab/NetBench)
+-->
 
 # Encrypted Traffic Analysis
 ## Encrypted Traffic Classification
