@@ -145,6 +145,7 @@ Fingerprinting (SWF))(2023)
 
 # Survey and Benchmark
 ## Survey
+* [Network Traffic Foundation Models: A Systematic Review](https://www.sciencedirect.com/science/article/pii/S1389128626000101). Rubén Pérez-Jove. `Computer Networks 2026`.
 * [Decision-Making Large Language Model for Wireless Communication: A Comprehensive Survey on Key Techniques](https://ieeexplore.ieee.org/abstract/document/11180008). Ning Yang. `IEEE Communications Surveys & Tutorials 2025`.
 * [SoK: Decoding the Enigma of Encrypted Network Traffic Classifiers](https://ieeexplore.ieee.org/abstract/document/11023502). Nimesha Wickramasinghe. `S&P 2025`. [[code]](https://github.com/nime-sha256/ntc-enigma)
 * [Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities](https://doi.org//10.1109/COMST.2024.3465447). Hao Zhou. `IEEE Communications Surveys & Tutorials 2025`.
