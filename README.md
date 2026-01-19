@@ -55,7 +55,7 @@ SOFTWARE.
     - [Survey](#survey)
     - [Benchmark](#benchmark)
 - [Encrypted Traffic Analysis](#encrypted-traffic-analysis)
-    - [Encrypted Traffic Classification](#encrypted-traffic-classification)
+    - [General Encrypted Traffic Classification](#general-encrypted-traffic-classification)
         - [Applied Pre-training/LLMs](#applied-pre-trainingllms)
         - [Applied ML/DL](#applied-machine-learningdeep-learning)
     - [Network Traffic Simulation](#network-traffic-simulation)
