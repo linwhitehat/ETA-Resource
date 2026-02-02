@@ -302,6 +302,7 @@ Fingerprinting (SWF))(2023)
 
 ## Generalization and Robustness
 * Out-of-Distribution
+    * [Training Robust Classifiers for Classifying Encrypted Traffic under Dynamic Network Conditions](https://dl.acm.org/doi/10.1145/3719027.3765073). Yuqi Qing. `CCS 2025`. [[code]](https://github.com/XXnormal/MAML-Training-ETC)
     * [Training with Only 1.0 ‰ Samples: Malicious Traffic Detection via Cross-Modality Feature Fusion](https://dl.acm.org/doi/abs/10.1145/3719027.3765143). Chuanpu Fu. `CCS 2025`.
     * [Training Robust Classifiers for Classfiying Encrypted Traffic under Dynamic Network Conditions](https://ccs25files.zoolab.org/main/ccsfb/FDDc0WSz/3719027.3765073.pdf). Yuqi Qing. `CCS 2025`.
     * [Towards Context-Aware Traffic Classification via Time-Wavelet Fusion Network](https://dl.acm.org/doi/abs/10.1145/3690624.3709315). Ziming Zhao. `KDD 2025`.
