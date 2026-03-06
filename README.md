@@ -577,6 +577,7 @@ CISPA Helmholtz Center	德国	加密通信协议分析、网络匿名性
 * [Icoding_F2014](https://blog.csdn.net/jmh1996)
 * [Malware-Traffic-Analysis](https://www.malware-traffic-analysis.net/)
 * [Awesome-NTA](https://github.com/wangtz19/Awesome-NTA)
+* [Awesome-ML-Security-and-Privacy-Papers](https://github.com/gnipping/Awesome-ML-SP-Papers)
 
 <!--
 ## Network Traffic Analysis Tool Manual
