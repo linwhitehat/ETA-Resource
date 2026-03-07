@@ -46,7 +46,10 @@ SOFTWARE.
 **Note:**
 - ⭐ **Please leave a <font color='orange'>STAR</font> if you like this project!** ⭐
 - If you find any <font color='red'>incorrect</font> / <font color='red'>inappropriate</font> / <font color='red'>outdated</font> content, please kindly consider opening an issue or a PR. 
-- We would greatly appreciate your contribution to this list, and you will appear in the [contributors✨](#contributors-)!
+- We would greatly appreciate your contribution to this list, and you will appear in the [contributors✨](#contributors-)! Markdown Format as Below:
+  ```markdown
+  [Paper Name](paper_link). First Author Name. `Conference/Journal Year`. [[code]](code_link)
+  ```
 
 # Content
 - [About](#about)
