@@ -416,6 +416,7 @@ Fingerprinting (SWF))(2023)
 * [Zhenyu Li](http://www.ict.ac.cn/sourcedb_2018_ict_cas/cn/jssrck/201111/t20111114_3395505.html) (Institute of Computing Technology)
 * [Yujun Zhang](https://people.ucas.ac.cn/~yujun) (Institute of Computing Technology)
 * [Yuqing Zhang](https://people.ucas.ac.cn/~zhangyuqing) (School of Computer Science and Technology)
+* [Xuying Meng](https://people.ucas.ac.cn/~0038059) (School of Computer Science and Technology)
 </details>
 
 <details>
@@ -469,6 +470,9 @@ Harbin Institute of Technology/China
 * [Shize Guo](https://scss.bupt.edu.cn/info/1063/5386.htm)
 * [Dongbin Wang](https://scss.bupt.edu.cn/info/1249/5098.htm)
 * [Zhongliang Yang](https://scss.bupt.edu.cn/info/1247/5070.htm)
+* [Yongxing Zhou](https://scss.bupt.edu.cn/info/1063/6088.htm)
+* [Jinqiao Shi](https://scss.bupt.edu.cn/info/1063/3294.htm)
+* [Dongqi Han](https://scss.bupt.edu.cn/info/1063/5627.htm)
 </details>
 
 <details>
@@ -522,11 +526,13 @@ Fudan University/China
 
 <details>
 <summary>
-Beijing University of Posts and Telecommunications/China
+Southeast University/China
 </summary>
     
-* [Yongxing Zhou](https://scss.bupt.edu.cn/info/1063/6088.htm)
-* [Jinqiao Shi](https://scss.bupt.edu.cn/info/1063/3294.htm)
+* [Guang Cheng](https://cyber.seu.edu.cn/cg1/list.htm)
+* [Jun Tao](https://cyber.seu.edu.cn/tj1/list.htm)
+* [Hua Wu](https://cyber.seu.edu.cn/wh1/list.htm)
+* [Ruijie Zhao](https://cyber.seu.edu.cn/zrj/list.psp)
 </details>
 
 <details>
@@ -534,7 +540,6 @@ Beijing University of Posts and Telecommunications/China
     Others
 </summary>
 
-* [Guang Cheng](https://cyber.seu.edu.cn/cg1/list.htm) (Southeast University/China)
 * [Fengwei Zhang](https://fengweiz.github.io/) (Southern University of Science and Technology/China)
 * [Qian Wang](http://nisplab.whu.edu.cn/people.html) (Wuhan University/China)
 * [Shuguang Cui](https://sse.cuhk.edu.cn/en/faculty/cuishuguang) (The Chinese University of Hong Kong/China)
