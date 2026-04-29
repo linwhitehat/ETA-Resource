@@ -258,6 +258,7 @@ Fingerprinting (SWF))(2023)
     * [Website Fingerprinting on Encrypted Proxies: A Flow-Context-Aware Approach and Countermeasures](https://ieeexplore.ieee.org/abstract/document/10345509). Xiaobo Ma. `ToN 2024`. [[code]](https://github.com/sevensmith/context-aware-wfp)
     * [Context-aware Website Fingerprinting over Encrypted Proxies](https://ieeexplore.ieee.org/abstract/document/9488676). Xiaobo Ma. `INFOCOM 2021`.
 * Tor
+    * [Countmamba: A Generalized Website Fingerprinting Attack via Coarse-Grained Representation and Fine-Grained Prediction](https://ieeexplore.ieee.org/abstract/document/11023397). Xianwen Deng. `S&P 2025`. [[code]](https://github.com/SJTU-dxw/CountMamba-WF)
     * [Swallow: A Transfer-Robust Website Fingerprinting Attack via Consistent Feature Learning](https://dl.acm.org/doi/10.1145/3719027.3744795). Meng Shen. `CCS 2025`. [[code]](https://github.com/wujinhe0814/Swallow)
     * [Beyond Single Tabs: A Transformative Few-Shot Approach to Multi-Tab Website Fingerprinting Attacks](https://dl.acm.org/doi/10.1145/3696410.3714811). Wenwen Meng. `WWW 2025`. [[code]](https://github.com/WW-Meng/FMWF)
     * [Enhancing Search Privacy on Tor: Advanced Deep Keyword Fingerprinting Attacks and BurstGuard Defense](https://dl.acm.org/doi/abs/10.1145/3708821.3733914). Chaiwon Hwang. `ASIA CCS 2025`.
@@ -304,6 +305,8 @@ Fingerprinting (SWF))(2023)
     * [Network-Level Prompt and Trait Leakage in Local Research Agents](https://arxiv.org/abs/2508.20282). Hyejun Jeong. `USENIX Security 2026`. [[code]](https://github.com/umass-aisec/wra)
     * [Whisper Leak: A novel side-channel attack on remote language models](https://arxiv.org/abs/2511.03675). Microsoft Defender Security Research Team. `Microsoft Security 2025`. [[code]](https://github.com/yo-yo-yo-jbo/whisper_leak) [[Report]](https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/)
     * [What Was Your Prompt? A Remote Keylogging Attack on AI Assistants](https://www.usenix.org/conference/usenixsecurity24/presentation/weiss). Roy Weiss. `USENIX Security 2024`. [[code]](https://github.com/royweiss1/GPT_Keylogger)
+* Side-Channel Vulnerability
+    * [SCAD: Towards a Universal and Automated Network Side-Channel Vulnerability Detection](https://ieeexplore.ieee.org/abstract/document/11023468/keywords#keywords). Keyu Man. `S&P 2025`.
 
 ## Generalization and Robustness
 * Out-of-Distribution
