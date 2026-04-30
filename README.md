@@ -174,6 +174,7 @@ Fingerprinting (SWF))(2023)
 # Encrypted Traffic Analysis
 ## General Encrypted Traffic Classification
 ### Applied Pre-training/LLMs
+* [Odysseus: A Context-Level Pre-training Framework for Out-of-Distribution Encrypted Traffic Classification](TBD). Wenqi Dong. `IWQoS 2026`.
 * [BTRFormer: Hierarchical Learning of Encrypted Traffic Using a Masked Autoencoder with Block-Based Traffic Representation](https://ieeexplore.ieee.org/abstract/document/11192383). Junnan Yin. `ICNP 2025`. [[code]](https://github.com/yyyjn/BTRFormer)
 * [TraGe: A Generic Packet Representation for Traffic Classification Based on Header-Payload Differences](https://arxiv.org/abs/2506.14151). Chungang Lin. `IWQoS 2025`.
 * [MM4flow: A Pre-trained Multi-modal Model for Versatile Network Traffic Analysis](https://dl.acm.org/doi/10.1145/3719027.3744804). Luming Yang. `CCS 2025`.
