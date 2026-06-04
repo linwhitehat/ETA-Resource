@@ -580,6 +580,7 @@ Overseas
 * [Arash Shaghaghi](https://research.unsw.edu.au/people/dr-arash-shaghaghi) (University of New South Wales/Australia)
 * [Wenbo Guo](https://henrygwb.github.io/) (University of California, Santa Barbara/United States)
 * [Arpit Gupta](https://sites.cs.ucsb.edu/~arpitgupta/) (University of California, Santa Barbara/United States)
+* [Maria Apostolaki](https://netsyn.princeton.edu/) (Princeton University/United States)
 </details>
 
 <!-- Wait dor updating
