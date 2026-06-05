@@ -96,6 +96,7 @@ This repository offers a curated collection of research and development resource
 | [Canadian Institute for Cybersecurity Datasets](https://www.unb.ca/cic/datasets/) | IoT, LLM, DNS, IDS, DoS, Darknet, Tor, VPN, Botnet, Malware | – | 🟢&nbsp;Regularly |
 | [ANT Datasets](https://ant.isi.edu/datasets/index.html) | Botnet, IoT, DNS, IP Geolocation | – | 🟢&nbsp;Regularly |
 | [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/) | IoT, Botnet, Cloud Security | – | 🟢&nbsp;Regularly |
+| [CESNET-DataZoo](https://github.com/CESNET/cesnet-datazoo) | QUIC,TLS | – | 🟢&nbsp;Regularly |
 | [VisQUIC](https://github.com/robshahla/VisQUIC) | QUIC Traffic Captured from Different Webpages | 2025 | 🔵&nbsp;New |
 | [CipherSpectrum](https://cspectrum.web.cse.unsw.edu.au) | TLS 1.3 Web-Traffic for 40 Domains | 2025 | 🔵&nbsp;New |
 | [NETD](https://github.com/linwhitehat/NETD) | Dynamic Non-I.I.D. Encrypted Traffic Dataset | 2025 | 🔵&nbsp;New |
