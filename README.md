@@ -524,6 +524,7 @@ Shanghai Jiao Tong University/China
     
 * [Guoxing Chen](https://donnod.github.io/)
 * [Haojin Zhu](https://nsec.sjtu.edu.cn/~hjzhu/)
+* [Dawu Gu](https://www.cs.sjtu.edu.cn/jiaoshiml/gudawu)
 </details>
 
 <details>
