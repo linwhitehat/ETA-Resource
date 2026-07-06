@@ -371,6 +371,7 @@ Fingerprinting (SWF))(2023)
 <!-- * [Explaining Deep Learning Models for Per-packet Encrypted Network Traffic Classification](https://ant.isi.edu/~hardaker/papers/Explaining_Deep_Learning_Models_for_Per-packet_Encrypted_Network_Traffic_Classification.pdf#:~:text=we%20propose%20a%20methodology%20to,directions%20toward%20optimizing%20model%20performance). Luis Garcia. IEEE M&N 2022. -->
 
 ## Online Methods
+* [Synecdoche: Efficient and Accurate In-Network Traffic Classification via Direct Packet Sequential Pattern Matching](https://ieeexplore.ieee.org/document/11571501). Minyuan Xiao. `INFOCOM 2026`. [[code]](https://github.com/swampx/Synecdoche)
 * [Web-FTP: A Feature Transferring-Based Pre-Trained Model for Web Attack Detection](https://ieeexplore.ieee.org/abstract/document/10854996/). Zhenyu Guo. `TKDE 2025`.
 * [Less is More: Simplifying Network Traffic Classification Leveraging RFCs](https://dl.acm.org/doi/abs/10.1145/3701716.3715492). Nimesha Wickramasinghe. `WWW 2025`.
 * [Leo: Online ML-based Traffic Classification at Multi-Terabit Line Rate](https://www.usenix.org/conference/nsdi24/presentation/jafri). Syed Usman Jafri. `NSDI 2024`. [[code]](https://github.com/Purdue-ISL/Leo)
