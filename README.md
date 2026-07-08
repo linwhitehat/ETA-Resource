@@ -40,7 +40,7 @@ SOFTWARE.
 <p align="center">
     <img src="https://img.shields.io/badge/License-MIT-brightgreen">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flinwhitehat%2FETA-Resource&label=visitor%20%20%20&labelColor=%23697689&countColor=%232ccce4&style=flat">
-    <img src="https://img.shields.io/badge/Contributors-15-blue.svg">
+    <img src="https://img.shields.io/badge/Contributors-16-blue.svg">
 </p>
 
 **Note:**
@@ -658,9 +658,9 @@ Thanks goes to these wonderful people!
     <td align="center"><a href="https://github.com/yyyjn"><img src="https://avatars.githubusercontent.com/u/32609644?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Junnan Yin</b></sub></a><br /><a href="#ideas-JunnanYin" title="Ideas, Planning, & Feedback">🎯</a> <a href="https://github.com/linwhitehat/ETA-Resource/commits?author=yyyjn" title="Documentation">📝</a></td>
     <td align="center"><a href="https://github.com/TaRiK-Haob"><img src="https://avatars.githubusercontent.com/u/83114553?v=4" width="100px;" alt=""/><br /><sub><b>TaRiK-Haob</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=TaRiK-Haob" title="Documentation">📝</a></td>
     <td align="center"><a href="https://github.com/weiyuhao2021"><img src="https://avatars.githubusercontent.com/u/89506254?v=4" width="100px;" alt=""/><br /><sub><b>Yuhao Wei</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=YuhaoWei" title="Documentation">📝</a></td>
-    <td align="center"><a href="https://github.com/Frederick666666"><img src="https://avatars.githubusercontent.com/u/75159200?v=4" width="100px;" alt=""/><br /><sub><b>Wenqi Dong</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=WenqiDong" title="Documentation">📝</a></td>
+    <td align="center"><a href="https://github.com/Frederick666666"><img src="https://avatars.githubusercontent.com/u/75159200?v=4" width="100px;" alt=""/><br /><sub><b>Wenqi Dong</b></sub></a><br /><a href="#ideas-WenqiDong" title="Ideas, Planning, & Feedback">🎯</a></td>
     <td align="center"><a href="https://github.com/iiehyy"><img src="https://avatars.githubusercontent.com/u/186914194?v=4" width="100px;" alt=""/><br /><sub><b>Yiyang Huang</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=YiyangHuang" title="Documentation">📝</a></td>
-    <td align="center"><a href="https://github.com/xingyue-Wangh"><img src="https://avatars.githubusercontent.com/u/85674037?v=4" width="100px;" alt=""/><br /><sub><b>xingyue-Wangh</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=xingyue-Wangh" title="Documentation">📝</a></td>
+    <td align="center"><a href="https://github.com/xingyue-Wangh"><img src="https://avatars.githubusercontent.com/u/85674037?v=4" width="100px;" alt=""/><br /><sub><b>xingyue-Wangh</b></sub></a><br /><a href="#ideas-xingyue-Wangh" title="Ideas, Planning, & Feedback">🎯</a></td>
   </tr>
   <tr>
   <td align="center"><a href="https://github.com/nime-sha256"><img src="https://avatars.githubusercontent.com/u/27483081?v=4" width="100px;" alt=""/><br /><sub><b>Nimesha Wickramasinghe</b></sub></a><br /><a href="#ideas-nime-sha256" title="Ideas, Planning, & Feedback">🎯</a> <a href="https://github.com/linwhitehat/ETA-Resource/commits?author=nime-sha256" title="Documentation">📝</a></td>
