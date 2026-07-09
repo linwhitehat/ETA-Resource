@@ -559,6 +559,7 @@ Southeast University/China
 * [Shuguang Cui](https://sse.cuhk.edu.cn/en/faculty/cuishuguang) (The Chinese University of Hong Kong/China)
 * [Feng Li](https://funglee.github.io/) (Shandong University/China)
 * [Zhihong Tian](https://scholar.google.com/citations?user=oy9xqxcAAAAJ&hl=en) (Guangzhou University)
+* [Qiao Xiang](https://qiaoxiang.me/) (Xiamen University)
 </details>
   
 <details>
