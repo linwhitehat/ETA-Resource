@@ -163,8 +163,8 @@ Fingerprinting (SWF))(2023)
 * [Towards the Deployment of Machine Learning Solutions in Network Traffic Classification: A Systematic Survey](https://ieeexplore.ieee.org/document/8543584). Fannia Pacheco. `IEEE Communications Surveys & Tutorials 2019`.
 * [Deep Learning in Mobile and Wireless Networking: A Survey](https://ieeexplore.ieee.org/document/8666641). Chaoyun Zhang. `IEEE Communications Surveys & Tutorials 2019`.
 ## Benchmark
+* [Demystifying Network Foundation Models](https://proceedings.neurips.cc/paper_files/paper/2025/file/d1a4f94ab74aa90f23238228d43ffc4c-Paper-Datasets_and_Benchmarks_Track.pdf). Sylee Beltiukov. `NeurIPS 2026`. [[BenchMark]](https://github.com/maybe-hello-world/demystifying-networks)
 * [The Digital Cybersecurity Expert: How Far Have We Come?](https://arxiv.org/abs/2504.11783). Dawei Wang. `S&P 2025`. [[Report]](https://mp.weixin.qq.com/s/0G0iJue6yJval7sYAmtFEg) [[BenchMark]](https://github.com/NASP-THU/CSEBenchmark)
-* [Demystifying Network Foundation Models](https://arxiv.org/abs/2509.23089). Sylee Beltiukov. `NeurIPS 2025`. [[BenchMark]](https://github.com/maybe-hello-world/demystifying-networks)
 * [SECURE: Benchmarking Large Language Models for Cybersecurity](https://ieeexplore.ieee.org/document/10917682). Dipkamal Bhusal. `ACSAC 2024`. [[BenchMark]](https://github.com/aiforsec/SECURE)
 * [CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence](https://proceedings.neurips.cc/paper_files/paper/2024/file/5acd3c628aa1819fbf07c39ef73e7285-Paper-Datasets_and_Benchmarks_Track.pdf#:~:text=To%20bridge%20this%20gap%2C%20we,bench). Md Tanvirul Alam. `NeurIPS 2024`. [[Evaluation]](https://github.com/aiforsec/cti-bench) [[BenchMark]](https://huggingface.co/datasets/AI4Sec/cti-bench)
 <!--
