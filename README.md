@@ -213,6 +213,7 @@ Fingerprinting (SWF))(2023)
 * [Achieving Interpretable DL-based Web Attack Detection through Malicious Payload Localization](https://www.ndss-symposium.org/ndss2026/accepted-papers/). Peiyang Li. `NDSS 2026`. [[code]](https://github.com/Sec-AI-research/WebSpotter)
 * [TIPSO-GAN: Malicious Network Traffic Detection Using a Novel Optimized Generative Adversarial Network](https://www.ndss-symposium.org/ndss2026/accepted-papers/). Ernest Akpaku. `NDSS 2026`.
 * [NetRadar: Enabling Robust Carpet Bombing DDoS Detection](https://www.ndss-symposium.org/ndss-paper/netradar-enabling-robust-carpet-bombing-ddos-detection/). Junchen Pan. `NDSS 2026`. [[code]](https://zenodo.org/records/17918706)
+* [Training with Only 1.0‰ Samples: Malicious Traffic Detection via Cross-Modality Feature Fusion](https://dl.acm.org/doi/pdf/10.1145/3719027.3765143). Chuanpu Fu. `CCS 2025`. [[code]](https://github.com/fuchuanpu/TFusion)
 * [Robust Detection of Malicious Encrypted Traffic via Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10964328). Meng Shen. `TIFS 2025`.
 * [Trident: A Universal Framework for Fine-Grained and Class-Incremental Unknown Traffic Detection](https://dl.acm.org/doi/10.1145/3589334.3645407). Secbrain. `WWW 2024`. [[code]](https://github.com/Secbrain/Trident/)
 * [Mateen: Adaptive Ensemble Learning for Network Anomaly Detection](https://dl.acm.org/doi/10.1145/3678890.3678901). Fahad Alotaibi. `RAID 2024`. [[code]](https://github.com/ICL-ml4csec/Mateen/)
