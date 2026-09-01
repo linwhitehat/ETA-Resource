@@ -287,7 +287,8 @@ Fingerprinting (SWF))(2023)
     * [Towards Fine-Grained Webpage Fingerprinting at Scale](https://dl.acm.org/doi/abs/10.1145/3658644.3690211). Xiyuan Zhao and Xinhao Deng. `CCS 2024`. [[code]](https://zenodo.org/records/13383332)
     * [On Precisely Detecting Censorship Circumvention in Real-World Networks](https://www.ndss-symposium.org/ndss-paper/on-precisely-detecting-censorship-circumvention-in-real-world-networks/). Ryan Wails. `NDSS 2024`.
     * [HSDirSniper: A New Attack Exploiting Vulnerabilities in Tor's Hidden Service Directories](https://dl.acm.org/doi/10.1145/3589334.3645591). Qingfeng Zhang. `WWW 2024`.
-    * [Towards Robust Multi-tab Website Fingerprinting](https://arxiv.org/pdf/2501.12622). Xinhao Deng. `S&P 2023`. [[code]](https://github.com/Xinhao-Deng/Multitab-WF-Datasets)
+    * [Robust Multi-tab Website Fingerprinting Attacks in the Wild](https://ieeexplore.ieee.org/document/10179464). Xinhao Deng. `S&P 2023`. [[code]](https://github.com/Xinhao-Deng/Multitab-WF-Datasets)
+    * [Towards Robust Multi-tab Website Fingerprinting](https://ieeexplore.ieee.org/document/11406189). Xinhao Deng. `ToN 2026`.
     * [Realistic Website Fingerprinting By Augmenting Network Trace](https://arxiv.org/pdf/2309.10147). Alireza Bahramali. `CCS 2023`. [[code]](https://github.com/SPIN-UMass/Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces)
     * [Transformer-based Model for Multi-tab Website Fingerprinting Attack](https://dl.acm.org/doi/abs/10.1145/3576915.3623107). Zhaoxin Jin. `CCS 2023`. [[code]](https://github.com/jzx-bupt/TMWF)
     * [Online Website Fingerprinting: Evaluating Website Fingerprinting Attacks on Tor in the Real World](https://www.usenix.org/conference/usenixsecurity22/presentation/cherubin). Giovanni Cherubin. `USENIX Security 2022`.
