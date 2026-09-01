@@ -228,7 +228,6 @@ Fingerprinting (SWF))(2023)
 ### Malware/C2 Traffic Detection
 * [C2Detector: Interaction-Enhanced Semantic-Aware Detection Method for C2 Channels](https://www.sciencedirect.com/science/article/abs/pii/S1389128626000046). Youqiang Luo. `Computer Networks 2026`.
 * [MineShark: Cryptomining Traffic Detection at Scale](https://www.ndss-symposium.org/ndss-paper/mineshark-cryptomining-traffic-detection-at-scale/). Shaoke Xi. `NDSS 2025`. [[code]](https://doi.org/10.5281/zenodo.13624057)
-* [Training with Only 1.0 ‰ Samples: Malicious Traffic Detection via Cross-Modality Feature Fusion](https://ccs25files.zoolab.org/main/ccsfb/JJ85Ndj3/3719027.3765143.pdf). Chuanpu Fu. `CCS 2025`.
 * [Wedjat: Detecting Sophisticated Evasion Attacks via Real-time Causal Analysis](http://www.thucsnet.com/wp-content/papers/li_gao_kdd2025.pdf). Li Gao. `KDD 2025`.
 * [PETNet: Plaintext-aware encrypted traffic detection network for identifying Cobalt Strike HTTPS traffics](https://www.sciencedirect.com/science/article/pii/S1389128623005650). Xiaodu Yang. `Computer Networks 2024`. [[code]](https://github.com/CN-PETNet/PETNet)
 * [Detecting Tunneled Flooding Traffic via Deep Semantic Analysis of Packet Length Patterns](https://dl.acm.org/doi/abs/10.1145/3658644.3670353). Chuanpu Fu. `CCS 2024`. [[code]](https://github.com/fuchuanpu/Exosphere)
