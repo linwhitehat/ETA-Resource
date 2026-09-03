@@ -355,6 +355,7 @@ Fingerprinting (SWF))(2023)
     * [CETP: A Novel Semi-Supervised Framework Based on Contrastive Pre-Training for Imbalanced Encrypted Traffic Classification](https://www.sciencedirect.com/science/article/abs/pii/S0167404824001949). Xinjie Lin. `Computers & Security (ComSec) 2024`.
     * [Listen to Minority: Encrypted Traffic Classification for Class Imbalance with Contrastive Pre-Training](https://ieeexplore.ieee.org/abstract/document/10287449). Xiang Li. `SECON 2023`.
     * [Few-shot encrypted traffic classification via multi-task representation enhanced meta-learning](https://www.sciencedirect.com/science/article/pii/S1389128623001767). Chen Yang. `Computer Networks 2023`.
+    * [A Few Shots Traffic Classification with mini-FlowPic Augmentations](https://dl.acm.org/doi/10.1145/3517745.3561436). Eyal Horowicz. `IMC 2022`. [[code]](https://github.com/eyalho/mini-flowpic-traffic-classification)
     * [Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning](https://dl.acm.org/doi/abs/10.1145/3319535.3354217). Payap Sirinam. `CCS 2019`. [[code]](https://github.com/triplet-fingerprinting/tf) (N-shot Learning)
 * Open-set
     * [Trafficllm: Llms for Improved Open-Set Encrypted Traffic Analysis](https://www.sciencedirect.com/science/article/pii/S1389128625008138). Yasod Ginige. `Computer Networks 2025`. [[code]](https://github.com/YasodGinige/TrafficLLM)
@@ -363,7 +364,6 @@ Fingerprinting (SWF))(2023)
     * [Knowing the unknowns: Network traffic detection with open-set semi-supervised learning](https://www.sciencedirect.com/science/article/abs/pii/S1389128624004626). Rui Chen. `Computer Networks 2024`.
     * [Identifying malicious traffic under concept drift based on intraclass consistency enhanced variational autoencoder](http://scis.scichina.com/en/2024/182302.pdf). Xiang Luo. `SCIENCE CHINA Information Sciences (SCIS) 2024`.
     * [Robust open-set classification for encrypted traffic fingerprinting](https://www.sciencedirect.com/science/article/pii/S138912862300436X). Thilini Dahanayaka. `Computer Networks 2023`.
-    * [A Few Shots Traffic Classification with mini-FlowPic Augmentations](https://dl.acm.org/doi/10.1145/3517745.3561436). Eyal Horowicz. `IMC 2022`. [[code]](https://github.com/eyalho/mini-flowpic-traffic-classification)
     * [Autonomous Unknown-Application Filtering and Labeling for DL-based Traffic Classifier Update](https://ieeexplore.ieee.org/abstract/document/9155292). Jielun Zhang. `INFOCOM 2020`
 * Defense and Adversarial Techniques
     * [Cease at the Ultimate Goodness: Towards Efficient Website Fingerprinting Defense via Iterative Mutual Information Minimization](https://www.ndss-symposium.org/ndss-paper/cease-at-the-ultimate-goodness-towards-efficient-website-fingerprinting-defense-via-iterative-mutual-information-minimization/). Rong Wang. `NDSS 2026`. [[code]](https://github.com/Junowww/FRUGAL-ndss)
