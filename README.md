@@ -192,8 +192,10 @@ Fingerprinting (SWF))(2023)
 * [TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Trafic Classification](https://dl.acm.org/doi/abs/10.1145/3543507.3583227). Haozhen Zhang. `WWW 2023`. [[code]](https://github.com/ViktorAxelsen/TFE-GNN)
 * [An Input-Agnostic Hierarchical Deep Learning Framework for Traffic Fingerprinting](https://www.usenix.org/conference/usenixsecurity23/presentation/qu). Jian Qu. `USENIX Security 2023`. [[code]](https://github.com/shashadehuajiang/trace_classifier/tree/main)
 * [Packet Representation Learning for Traffic Classification](https://dl.acm.org/doi/10.1145/3534678.3539085). Xuying Meng. `KDD 2022`. [[code]](https://github.com/ict-net/PacRep)
+* [Flow Sequence-Based Anonymity Network Traffic Identification with Residual Graph Convolutional Networks](https://ieeexplore.ieee.org/document/9812882). Ruijie Zhao. `IWQoS 2022`.
 * [New Directions in Automated Traffic Analysis](https://dl.acm.org/doi/10.1145/3460120.3484758). Jordan Holland. `CCS 2021`. [[code]](https://github.com/nprint/nprintml) [[nPrint Project]](https://nprint.github.io/)
 * [Enabling Efficient Flow Classification for ML-based Network Security Applications](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_7C-2_24067_paper.pdf). Diogo Barradas. `NDSS 2021`. [[code]](https://github.com/dmbb/FlowLens)
+* [Deep Packet: A Novel Approach for Encrypted Traffic Classification Using Deep Learning](https://link.springer.com/article/10.1007/s00500-019-04030-2). Mohammad Lotfollahi. `Soft Computing 2020`.
 * [FS-Net: A Flow Sequence Network For Encrypted Traffic Classification](https://ieeexplore.ieee.org/document/8737507). Chang Liu. `INFOCOM 2019`. [[code]](https://github.com/WSPTTH/FS-Net)
 * [MaMPF: Encrypted Traffic Classification Based on Multi-Attribute Markov Probability Fingerprints](https://ieeexplore.ieee.org/abstract/document/8624124).  Chang Liu. `IWQoS 2018`. [[code]](https://github.com/WSPTTH/MaMPF)
 
@@ -305,6 +307,7 @@ Fingerprinting (SWF))(2023)
     * [Ultimate Encrypted Traffic Feature Engineering: HTTPS Encrypted Traffic Classification Using Restored Application Data Unit Length](https://ieeexplore.ieee.org/abstract/document/11184470/keywords#keywords). Zihan Chen. `TDSC 2025`.
     * [A novel approach for application classification with encrypted traffic using BERT and packet headers](https://www.sciencedirect.com/science/article/pii/S1389128624005796). Jaehak Yu. `Computer Networks 2024`.
     * [Packet-Level Open-World App Fingerprinting on Wireless Traffic](https://www.ndss-symposium.org/ndss-paper/auto-draft-218/). Jianfeng Li. `NDSS 2022`. [[code]](https://github.com/jflixjtu/PacketPrint/tree/main)
+    * [FOAP: Fine-Grained Open-World Android App Fingerprinting](https://www.usenix.org/conference/usenixsecurity22/presentation/li-jianfeng). Jianfeng Li. `USENIX Security 2022`. [[code]](https://github.com/jflixjtu/FOAP)
     * [FlowPrint: Semi-Supervised Mobile-App Fingerprinting on Encrypted Network Traffic](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24412.pdf). Thijs van Ede. `NDSS 2020`. [[code]](https://github.com/Thijsvanede/FlowPrint)
     * [Robust Smartphone App Identification via Encrypted Network Traffic Analysis](https://ieeexplore.ieee.org/document/8006282). Vincent F. Taylor. `IEEE Transactions on Information Forensics and Security (TIFS) 2018`. [[code]](https://github.com/vftaylor/appscanner)
     * [AppScanner: Automatic Fingerprinting of Smartphone Apps from Encrypted Network Traffic](https://ieeexplore.ieee.org/abstract/document/7467370). Vincent F. Taylor. `Euro S&P 2016`. [[code]](https://github.com/vftaylor/appscanner)
@@ -335,7 +338,6 @@ Fingerprinting (SWF))(2023)
 * Out-of-Distribution
     * [Enhancing Website Fingerprinting Attacks against Traffic Drift](https://www.ndss-symposium.org/wp-content/uploads/2026-s59-paper.pdf). Xinhao Deng. `NDSS 2026`. [[code]](https://github.com/Xinhao-Deng/Adaptive-WF-Attack)
     * [Robust LLM-Based Website Fingerprinting under Dynamic Real-World Conditions](https://dl.acm.org/doi/pdf/10.1145/3774904.3792288). Xiyuan Zhao. `WWW 2026`.
-    * [Odysseus: A Context-Level Pre-training Framework for Out-of-Distribution Encrypted Traffic Classification](https://ieeexplore.ieee.org/document/11661019). Wenqi Dong. `IWQoS 2026`.
     * [Training Robust Classifiers for Classifying Encrypted Traffic under Dynamic Network Conditions](https://dl.acm.org/doi/10.1145/3719027.3765073). Yuqi Qing. `CCS 2025`. [[code]](https://github.com/XXnormal/MAML-Training-ETC)
     * [Towards Context-Aware Traffic Classification via Time-Wavelet Fusion Network](https://dl.acm.org/doi/abs/10.1145/3690624.3709315). Ziming Zhao. `KDD 2025`.
     * [SnifferDog: Comprehensively Learning Heterogeneous Features of Network Traffic to Identify Malicious Flows](https://ieeexplore.ieee.org/abstract/document/11202220/keywords#keywords). Xi Luo. `TIFS 2025`.
@@ -361,6 +363,7 @@ Fingerprinting (SWF))(2023)
     * [Knowing the unknowns: Network traffic detection with open-set semi-supervised learning](https://www.sciencedirect.com/science/article/abs/pii/S1389128624004626). Rui Chen. `Computer Networks 2024`.
     * [Identifying malicious traffic under concept drift based on intraclass consistency enhanced variational autoencoder](http://scis.scichina.com/en/2024/182302.pdf). Xiang Luo. `SCIENCE CHINA Information Sciences (SCIS) 2024`.
     * [Robust open-set classification for encrypted traffic fingerprinting](https://www.sciencedirect.com/science/article/pii/S138912862300436X). Thilini Dahanayaka. `Computer Networks 2023`.
+    * [A Few Shots Traffic Classification with mini-FlowPic Augmentations](https://dl.acm.org/doi/10.1145/3517745.3561436). Eyal Horowicz. `IMC 2022`. [[code]](https://github.com/eyalho/mini-flowpic-traffic-classification)
     * [Autonomous Unknown-Application Filtering and Labeling for DL-based Traffic Classifier Update](https://ieeexplore.ieee.org/abstract/document/9155292). Jielun Zhang. `INFOCOM 2020`
 * Defense and Adversarial Techniques
     * [Cease at the Ultimate Goodness: Towards Efficient Website Fingerprinting Defense via Iterative Mutual Information Minimization](https://www.ndss-symposium.org/ndss-paper/cease-at-the-ultimate-goodness-towards-efficient-website-fingerprinting-defense-via-iterative-mutual-information-minimization/). Rong Wang. `NDSS 2026`. [[code]](https://github.com/Junowww/FRUGAL-ndss)
