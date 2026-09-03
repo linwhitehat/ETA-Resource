@@ -195,7 +195,6 @@ Fingerprinting (SWF))(2023)
 * [Flow Sequence-Based Anonymity Network Traffic Identification with Residual Graph Convolutional Networks](https://ieeexplore.ieee.org/document/9812882). Ruijie Zhao. `IWQoS 2022`.
 * [New Directions in Automated Traffic Analysis](https://dl.acm.org/doi/10.1145/3460120.3484758). Jordan Holland. `CCS 2021`. [[code]](https://github.com/nprint/nprintml) [[nPrint Project]](https://nprint.github.io/)
 * [Enabling Efficient Flow Classification for ML-based Network Security Applications](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_7C-2_24067_paper.pdf). Diogo Barradas. `NDSS 2021`. [[code]](https://github.com/dmbb/FlowLens)
-* [Deep Packet: A Novel Approach for Encrypted Traffic Classification Using Deep Learning](https://link.springer.com/article/10.1007/s00500-019-04030-2). Mohammad Lotfollahi. `Soft Computing 2020`.
 * [FS-Net: A Flow Sequence Network For Encrypted Traffic Classification](https://ieeexplore.ieee.org/document/8737507). Chang Liu. `INFOCOM 2019`. [[code]](https://github.com/WSPTTH/FS-Net)
 * [MaMPF: Encrypted Traffic Classification Based on Multi-Attribute Markov Probability Fingerprints](https://ieeexplore.ieee.org/abstract/document/8624124).  Chang Liu. `IWQoS 2018`. [[code]](https://github.com/WSPTTH/MaMPF)
 
