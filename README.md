@@ -40,7 +40,7 @@ SOFTWARE.
 <p align="center">
     <img src="https://img.shields.io/badge/License-MIT-brightgreen">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flinwhitehat%2FETA-Resource&label=visitor%20%20%20&labelColor=%23697689&countColor=%232ccce4&style=flat">
-    <img src="https://img.shields.io/badge/Contributors-16-blue.svg">
+    <img src="https://img.shields.io/badge/Contributors-17-blue.svg">
 </p>
 
 **Note:**
@@ -616,6 +616,7 @@ Overseas
 * [Arpit Gupta](https://sites.cs.ucsb.edu/~arpitgupta/) (University of California, Santa Barbara/United States)
 * [Maria Apostolaki](https://netsyn.princeton.edu/) (Princeton University/United States)
 * [Rachel Greenstadt](https://engineering.nyu.edu/faculty/rachel-greenstadt) (New York University/United States)
+* [Nicholas Carlini](https://nicholas.carlini.com/) (Anthropic/United States)
 </details>
 
 <!-- Wait dor updating
@@ -697,5 +698,6 @@ Thanks goes to these wonderful people!
   <td align="center"><a href="https://github.com/YasodGinige"><img src="https://avatars.githubusercontent.com/u/36688672?v=4" width="100px;" alt=""/><br /><sub><b>YasodGinige</b></sub></a><br /><a href="#ideas-YasodGinige" title="Ideas, Planning, & Feedback">🎯</a> <a href="https://github.com/linwhitehat/ETA-Resource/commits?author=YasodGinige" title="Documentation">📝</a></td>
   <td align="center"><a href="https://github.com/2654400439"><img src="https://avatars.githubusercontent.com/u/37297176?v=4" width="100px;" alt=""/><br /><sub><b>Yifei Cheng</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=2654400439" title="Documentation">📝</a></td>
   <td align="center"><a href="https://github.com/swampx"><img src="https://avatars.githubusercontent.com/u/118461357?v=4" width="100px;" alt=""/><br /><sub><b>Minyuan Xiao</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=swampx" title="Documentation">📝</a></td>
+  <td align="center"><a href="https://github.com/KorryMeng"><img src="https://avatars.githubusercontent.com/u/49736826?v=4" width="100px;" alt=""/><br /><sub><b>KorryMeng</b></sub></a><br /><a href="https://github.com/linwhitehat/ETA-Resource/commits?author=KorryMeng" title="Documentation">📝</a></td>
   </tr>
 </table>
