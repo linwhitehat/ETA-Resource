@@ -97,6 +97,7 @@ This repository offers a curated collection of research and development resource
 | [ANT Datasets](https://ant.isi.edu/datasets/index.html) | Botnet, IoT, DNS, IP Geolocation | – | 🟢&nbsp;Regularly |
 | [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/) | IoT, Botnet, Cloud Security | – | 🟢&nbsp;Regularly |
 | [CESNET-DataZoo](https://github.com/CESNET/cesnet-datazoo) | QUIC,TLS | – | 🟢&nbsp;Regularly |
+| [ZLab-Traffic](https://github.com/zlabtraffic/ZLab-Traffic) | Plaintext-Ciphertext Mapping Encrypted Traffic Dataset Covering Website Fingerprinting and Webpage Fingerprinting | 2026 | 🔵&nbsp;New |
 | [VisQUIC](https://github.com/robshahla/VisQUIC) | QUIC Traffic Captured from Different Webpages | 2025 | 🔵&nbsp;New |
 | [CipherSpectrum](https://cspectrum.web.cse.unsw.edu.au) | TLS 1.3 Web-Traffic for 40 Domains | 2025 | 🔵&nbsp;New |
 | [NETD](https://github.com/linwhitehat/NETD) | Dynamic Non-I.I.D. Encrypted Traffic Dataset | 2025 | 🔵&nbsp;New |
@@ -615,7 +616,6 @@ Overseas
 * [Arpit Gupta](https://sites.cs.ucsb.edu/~arpitgupta/) (University of California, Santa Barbara/United States)
 * [Maria Apostolaki](https://netsyn.princeton.edu/) (Princeton University/United States)
 * [Rachel Greenstadt](https://engineering.nyu.edu/faculty/rachel-greenstadt) (New York University/United States)
-* [Nicholas Carlini](https://nicholas.carlini.com/) (Anthropic/United States)
 </details>
 
 <!-- Wait dor updating
