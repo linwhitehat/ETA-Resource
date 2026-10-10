@@ -385,6 +385,7 @@ Fingerprinting (SWF))(2023)
     * [Subverting Website Fingerprinting Defenses with Robust Traffic Representation](https://www.usenix.org/conference/usenixsecurity23/presentation/shen-meng). Meng Shen. `USENIX Security 2023`.
     * [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](https://www.usenix.org/conference/usenixsecurity23/presentation/xie). Renjie Xie. `USENIX Security 2023`. [[code]](https://github.com/sunskyXX/Rosetta)
 * Explanatory Analysis
+    * [Is the Data Really Noisy? Rethinking Traffic Filtering for Encrypted Traffic Classification](https://doi.org/10.1109/TDSC.2026.3725472). Chungang Lin. `TDSC 2026`. [[code]](https://github.com/lincgcg/TraCare-ICT)
     * [The Sweet Danger of Sugar: Debunking Representation Learning for Encrypted Traffic Classification](https://dl.acm.org/doi/10.1145/3718958.3750498). Yuqi Zhao. `SIGCOMM 2025`. [[code]](https://github.com/SmartData-Polito/Debunk_Traffic_Representation)
     * [Explainable Anomaly Detection in Network Traffic Using Normalizing Flows](https://xplorestaging.ieee.org/document/11201273). Lior Shafir. `ToN 2025`.
     * [Understanding Web Fingerprinting with a Protocol-Centric Approach](https://dl.acm.org/doi/10.1145/3678890.3678910). Bogdan Cebere. `RAID 2024`. [[code]](https://github.com/bcebere/Understanding-and-Explaining-Web-Fingerprinting-with-a-Protocol-Centric-Approach)
