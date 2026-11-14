@@ -590,8 +590,9 @@ Southeast University/China
 * [Qian Wang](http://nisplab.whu.edu.cn/people.html) (Wuhan University/China)
 * [Shuguang Cui](https://sse.cuhk.edu.cn/en/faculty/cuishuguang) (The Chinese University of Hong Kong/China)
 * [Feng Li](https://funglee.github.io/) (Shandong University/China)
-* [Zhihong Tian](https://scholar.google.com/citations?user=oy9xqxcAAAAJ&hl=en) (Guangzhou University)
-* [Qiao Xiang](https://qiaoxiang.me/) (Xiamen University)
+* [Zhihong Tian](https://scholar.google.com/citations?user=oy9xqxcAAAAJ&hl=en) (Guangzhou University/China)
+* [Qiao Xiang](https://qiaoxiang.me/) (Xiamen University/China)
+* [Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/) (The Hong Kong Polytechnic University/China)
 </details>
   
 <details>
