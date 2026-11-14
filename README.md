@@ -434,6 +434,7 @@ Fingerprinting (SWF))(2023)
     * [SiamHAN: IPv6 Address Correlation Attacks on TLS Encrypted Traffic via Siamese Heterogeneous Graph Attention Network](https://www.usenix.org/conference/usenixsecurity21/presentation/cui). Tianyu Cui. `USENIX Security 2021`. [[code]](https://github.com/CuiTianyu961030/SiamHAN)
     * [6VecLM: Language Modeling in Vector Space for IPv6 Target Generation](https://link.springer.com/chapter/10.1007%2F978-3-030-67667-4_12). Tianyu Cui. `ECML/PKDD 2020`. [[code]](https://github.com/CuiTianyu961030/6VecLM)
 * Quality of Service
+    * [Horizon: A Hyper-Edge Observability Engine for Live Streaming Networks](https://dl.acm.org/doi/10.1145/3789240.3829153). Ziqian Liu. `SIGCOMM 2026`
     * [Network Traffic Statistical Upper Limit Prediction From Flow Features for Traffic Fluctuations](https://xplorestaging.ieee.org/document/11143543). Erina Takeshita. `ToN 2025`.
 
 <!--
