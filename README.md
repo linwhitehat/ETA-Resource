@@ -600,7 +600,7 @@ Southeast University/China
 Overseas
 </summary>
     
-* [Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) (University of Waterloo/Canada)
+* [Xuemin (Sherman) Shen](https://uwaterloo.ca/electrical-computer-engineering/profile/sshen) (University of Waterloo/Canada)
 * [Xiaofeng Wang](https://homes.luddy.indiana.edu/xw7/) (Indiana University Bloomington/United States)
 * [Tao Wang](https://www.cs.sfu.ca/~taowang/) (Simon Fraser University/Canada)
 * [Ivan Martinovic](https://www.cs.ox.ac.uk/people/ivan.martinovic/) (University of Oxford/United Kingdom)
