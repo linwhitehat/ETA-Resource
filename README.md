@@ -462,7 +462,7 @@ Fingerprinting (SWF))(2023)
 * [Zhenyu Li](http://www.ict.ac.cn/sourcedb_2018_ict_cas/cn/jssrck/201111/t20111114_3395505.html) (Institute of Computing Technology)
 * [Yujun Zhang](https://people.ucas.ac.cn/~yujun) (Institute of Computing Technology)
 * [Yuqing Zhang](https://people.ucas.ac.cn/~zhangyuqing) (School of Computer Science and Technology)
-* [Xuying Meng](https://people.ucas.ac.cn/~0038059) (School of Computer Science and Technology)
+* [Xuying Meng](https://people.ucas.ac.cn/~0038059) (Institute of Computing Technology)
 </details>
 
 <details>
