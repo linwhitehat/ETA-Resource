@@ -418,6 +418,7 @@ Fingerprinting (SWF))(2023)
 
 # Measurement
 * Domain Name System
+    * [Should I Trust You? Rethinking the Principle of Zone-Based Isolation DNS Bailiwick Checking](https://www.ndss-symposium.org/ndss-paper/should-i-trust-you-rethinking-the-principle-of-zone-based-isolation-dns-bailiwick-checking/). Yuxiao Wu. `NDSS 2026`.
     * [A Worldwide View on the Reachability of Encrypted DNS Services](https://dl.acm.org/doi/abs/10.1145/3589334.3645539). Ruixuan Li. `WWW 2024`.
     * [Investigating Deployment Issues of DNS Root Server Instances from a China-wide View](https://ieeexplore.ieee.org/abstract/document/10460172/keywords#keywords). Fenglu Zhang. `IEEE Transactions on Dependable and Secure Computing (TDSC) 2024`.
 * Privacy and Security
@@ -481,6 +482,9 @@ Fingerprinting (SWF))(2023)
 * [Dan Pei](https://www.cs.tsinghua.edu.cn/info/1127/3597.htm)
 * [Zhiliang Wang](https://www.cs.tsinghua.edu.cn/info/1127/3593.htm)
 * [Chao Zhang](https://netsec.ccert.edu.cn/chs/people/chaoz/)
+* [Baojun Liu](https://www.liubaojun.org/)
+* [Zhuotao Liu](https://liuzhuotao.github.io/)
+* [Jianjun Chen](https://jianjunchen.com/)
 </details>
 
 <details>
