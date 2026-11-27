@@ -422,6 +422,7 @@ Fingerprinting (SWF))(2023)
     * [A Worldwide View on the Reachability of Encrypted DNS Services](https://dl.acm.org/doi/abs/10.1145/3589334.3645539). Ruixuan Li. `WWW 2024`.
     * [Investigating Deployment Issues of DNS Root Server Instances from a China-wide View](https://ieeexplore.ieee.org/abstract/document/10460172/keywords#keywords). Fenglu Zhang. `IEEE Transactions on Dependable and Secure Computing (TDSC) 2024`.
 * Privacy and Security
+    * [PrivAudit: A Dual-Lens Auditing Framework forWebsite Privacy Practices under the CCPA](https://dl.acm.org/doi/10.1145/3830454.3846679). Mohamed Moustafa Dawoud. `CCS 2026`. [[code]](https://github.com/r-andlab/PrivAudit)
     * [A Multifaceted Study on the Use of TLS and Auto-detect in Email Ecosystems](https://www.ndss-symposium.org/ndss2025/accepted-papers/). Ka Fun Tang. `NDSS 2025`. [[code]](https://github.com/tls-downgrade/email-security.git)
     * [WireWatch: Measuring the Security of Proprietary Network Encryption in the Global Android Ecosystem](https://ieeexplore.ieee.org/document/11023278). Mona Wang. `S&P 2025`. [[code]](https://github.com/citp/wirewatch)
     * [Enhanced Dynamics of IP Allocation: Fine-Grained IP Geolocation via Temporal-Spatial Correlation](https://ieeexplore.ieee.org/document/11217538). Yiyang Huang. `IEEE Transactions on Networking (ToN) 2025`. [[code]](https://github.com/iiehyy/TSG)
