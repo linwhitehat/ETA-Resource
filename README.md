@@ -531,7 +531,6 @@ Fingerprinting (SWF))(2023)
 * [Chao Zhang](https://netsec.ccert.edu.cn/chs/people/chaoz/)
 * [Baojun Liu](https://www.liubaojun.org/)
 * [Zhuotao Liu](https://liuzhuotao.github.io/)
-* [Jianjun Chen](https://jianjunchen.com/)
 </details>
 
 <details>
