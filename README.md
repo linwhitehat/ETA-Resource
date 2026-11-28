@@ -96,6 +96,51 @@ This repository offers a curated collection of research and development resource
 | [Canadian Institute for Cybersecurity Datasets](https://www.unb.ca/cic/datasets/) | IoT, LLM, DNS, IDS, DoS, Darknet, Tor, VPN, Botnet, Malware | – | 🟢&nbsp;Regularly |
 | [ANT Datasets](https://ant.isi.edu/datasets/index.html) | Botnet, IoT, DNS, IP Geolocation | – | 🟢&nbsp;Regularly |
 | [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/) | IoT, Botnet, Cloud Security | – | 🟢&nbsp;Regularly |
+| [CESNET-DataZoo](https://github.com/CESNET/cesnet-datazoo) | QUIC,TLS,TimeSeries,Concept Drift,ISP | – | 🟢&nbsp;Regularly |
+| [Behaviour-Centric Cybersecurity Center Datasets](https://www.yorku.ca/research/bccc/) | DarkNet, IDS, Encrypted Traffic,VPN, Tor, I2P, Freenet, ZeroNet | – | 🟢&nbsp;Regularly |
+| [ANT](https://anonymous.4open.science/r/ant-main-suite-7BC0/README.md) | Network Traffic of Client-Side LLM Agent Execution, Behavior Auditing | 2026 | 🔵&nbsp;New |
+| [TrafficInstruct](https://github.com/zhengdao-li/TrafficInstruct) | Multi-Task Traffic Instruction Tuning for LLMs | 2026 | 🔵&nbsp;New |
+| [TQH-C2](https://zenodo.org/records/21523144) | Encrypted C2 over TLS, QUIC and HTTP | 2026 | 🔵&nbsp;New |
+| [WireGuard VPN-nonVPN](https://zenodo.org/records/18945858) | Paired Pre-Tunnel and Encrypted-Side WireGuard Flows | 2026 | 🔵&nbsp;New |
+| [CVE5G](https://ieee-dataport.org/documents/cve5g-5g-core-network-cyberattacks-dataset) | 5G Core Network, DoS | 2026 | 🔵&nbsp;New |
+| [ECU-MALNETT](https://ro.ecu.edu.au/datasets/164) | Malware, Botnet, Ransomware, Worm | 2026 | 🔵&nbsp;New |
+| [ZLab-Traffic](https://github.com/zlabtraffic/ZLab-Traffic) | Plaintext-Ciphertext Mapping Encrypted Traffic Dataset Covering Website Fingerprinting and Webpage Fingerprinting | 2026 | 🔵&nbsp;New |
+| [VisQUIC](https://github.com/robshahla/VisQUIC) | QUIC Traffic Captured from Different Webpages | 2025 | 🟡&nbsp;No updates |
+| [CipherSpectrum](https://cspectrum.web.cse.unsw.edu.au) | TLS 1.3 Web-Traffic for 40 Domains | 2025 | 🟡&nbsp;No updates |
+| [NETD](https://github.com/linwhitehat/NETD) | Dynamic Non-I.I.D. Encrypted Traffic Dataset | 2025 | 🟡&nbsp;No updates |
+| [TrafficLLM Dataset](https://github.com/ZGC-LLM-Safety/TrafficLLM) | Traffic Instruction Data for LLM Adaptation | 2025 | 🟡&nbsp;No updates |
+| [Nym WF](https://zenodo.org/records/17840656) | Mixnet, Tor, Website Fingerprinting | 2025 | 🟡&nbsp;No updates |
+| [Dalhousie IMA Traffic 2025](https://ieee-dataport.org/documents/dalhousie-nims-lab-ima-traffic-dataset-2025-0) | Instant Messaging Apps, Group Chat | 2025 | 🟡&nbsp;No updates |
+
+<details>
+<summary><b>Earlier Datasets (2024 and before)</b></summary>
+
+| Dataset| Description | Year |  Status  |
+|--------|-------------|------|----------|
+| [MobileTraffic](https://github.com/Abby-ZS/NUDT_MobileTraffic) | 300+ Mobile Apps | 2024 | 🟡&nbsp;No updates |
+| [Network Multiflow Fingerprinting Datasets](https://github.com/shashadehuajiang/trace_classifier) | UAV, IoT Device ID, ISD, KWS, SWF | 2023 | 🟡&nbsp;No updates |
+| [Itc-Net-Blend-60](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4661706) | Android Apps in Diverse Environments | 2023 | 🟡&nbsp;No updates |
+| [AnonProxy2023](https://github.com/MrRobotsAA/AnonProxy2023-Dataset) | Anonymous, Proxy, VPN | 2023 | 🟡&nbsp;No updates |
+| [CSTNET-TLS 1.3](https://github.com/linwhitehat/ET-BERT/tree/main/datasets/CSTNET-TLS%201.3) | TLS 1.3 Services | 2022 | 🟡&nbsp;No updates |
+| [LFETT2021 Dataset](https://github.com/HoneyPotter-Gzy/LFETT2021-dataset) | Tunnel, Proxy, VPN | 2021 | 🟡&nbsp;No updates |
+| [DataCon2021-Encrypted Proxy](https://datacon.qianxin.com/opendata/openpage?resourcesId=10) | Proxy, VPN | 2021 | 🟡&nbsp;No updates |
+| [DAPT 2020](https://gitlab.com/asu22/dapt2020) | APT | 2020 | 🟡&nbsp;No updates |
+| [Malware Capture Facility Project](https://www.stratosphereips.org/datasets-overview) | CTU, IoT, Malware, Botnet | 2020 | 🟡&nbsp;No updates |
+| [Cross-Platform](https://recon.meddle.mobi/cross-market.html) ([Backup Dataset](https://cloud.tsinghua.edu.cn/f/b00ce0c960114b59b948/)) | iOS and Android Apps | 2019 | 🟡&nbsp;No updates |
+| [Network-based Intrusion Detection](https://www.sciencedirect.com/science/article/pii/S016740481930118X) | AWID, Botnet, CIC DoS, CTU, DARPA | 2019 | 🟡&nbsp;No updates |
+| [Wangknn-dataset](https://github.com/kdsec/wangknn-dataset) | Tor, Websites | 2018 | 🟡&nbsp;No updates |
+| [DLWF](https://github.com/DistriNet/DLWF) | Tor, Websites, Concept Drift, Open World | 2018 | 🟡&nbsp;No updates |
+| [Network-Flow-of-QUIC](https://drive.google.com/drive/folders/1cwHhzvaQbi-ap8yfrj2vHyPmUTQhaYOj) | QUIC Services | 2017 | 🟡&nbsp;No updates |
+
+</details>
+
+<!--
+# Datasets
+| Dataset| Description | Year |  Status  |
+|--------|-------------|------|----------|
+| [Canadian Institute for Cybersecurity Datasets](https://www.unb.ca/cic/datasets/) | IoT, LLM, DNS, IDS, DoS, Darknet, Tor, VPN, Botnet, Malware | – | 🟢&nbsp;Regularly |
+| [ANT Datasets](https://ant.isi.edu/datasets/index.html) | Botnet, IoT, DNS, IP Geolocation | – | 🟢&nbsp;Regularly |
+| [Information Security and Object Technology Research Lab Datasets](https://onlineacademiccommunity.uvic.ca/isot/datasets/) | IoT, Botnet, Cloud Security | – | 🟢&nbsp;Regularly |
 | [CESNET-DataZoo](https://github.com/CESNET/cesnet-datazoo) | QUIC,TLS | – | 🟢&nbsp;Regularly |
 | [ZLab-Traffic](https://github.com/zlabtraffic/ZLab-Traffic) | Plaintext-Ciphertext Mapping Encrypted Traffic Dataset Covering Website Fingerprinting and Webpage Fingerprinting | 2026 | 🔵&nbsp;New |
 | [VisQUIC](https://github.com/robshahla/VisQUIC) | QUIC Traffic Captured from Different Webpages | 2025 | 🟡&nbsp;No updates |
@@ -115,6 +160,7 @@ This repository offers a curated collection of research and development resource
 | [Wangknn-dataset](https://github.com/kdsec/wangknn-dataset) | Tor, Websites | 2018 | 🟡&nbsp;No updates |
 | [DLWF](https://github.com/DistriNet/DLWF) | Tor, Websites, Concept Drift, Open World | 2018 | 🟡&nbsp;No updates |
 | [Network-Flow-of-QUIC](https://drive.google.com/drive/folders/1cwHhzvaQbi-ap8yfrj2vHyPmUTQhaYOj) | QUIC Services | 2017 | 🟡&nbsp;No updates |
+-->
 
 <!--<details>
 <summary>
