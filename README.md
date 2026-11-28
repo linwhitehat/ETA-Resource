@@ -104,8 +104,8 @@ This repository offers a curated collection of research and development resource
 | [WireGuard VPN-nonVPN](https://zenodo.org/records/18945858) | Paired Pre-Tunnel and Encrypted-Side WireGuard Flows | 2026 | 🔵&nbsp;New |
 | [CVE5G](https://ieee-dataport.org/documents/cve5g-5g-core-network-cyberattacks-dataset) | 5G Core Network, DoS | 2026 | 🔵&nbsp;New |
 | [ECU-MALNETT](https://ro.ecu.edu.au/datasets/164) | Malware, Botnet, Ransomware, Worm | 2026 | 🔵&nbsp;New |
-| [ZLab-Traffic](https://github.com/zlabtraffic/ZLab-Traffic) | Plaintext-Ciphertext Mapping Encrypted WFP Dataset | 2026 | 🔵&nbsp;New |
-| [VisQUIC](https://github.com/robshahla/VisQUIC) | QUIC Traffic Captured from Different Webpages | 2025 | 🟡&nbsp;No&nbsp;updates |
+| [ZLab-Traffic](https://github.com/zlabtraffic/ZLab-Traffic) | Plaintext-Ciphertext Mapping WFP Dataset | 2026 | 🔵&nbsp;New |
+| [VisQUIC](https://github.com/robshahla/VisQUIC) | QUIC Traffic from Different Webpages | 2025 | 🟡&nbsp;No&nbsp;updates |
 | [CipherSpectrum](https://cspectrum.web.cse.unsw.edu.au) | TLS 1.3 Web-Traffic for 40 Domains | 2025 | 🟡&nbsp;No updates |
 | [NETD](https://github.com/linwhitehat/NETD) | Dynamic Non-I.I.D. Encrypted Traffic Dataset | 2025 | 🟡&nbsp;No updates |
 | [TrafficLLM Dataset](https://github.com/ZGC-LLM-Safety/TrafficLLM) | Traffic Instruction Data for LLM Adaptation | 2025 | 🟡&nbsp;No updates |
