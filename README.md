@@ -104,7 +104,7 @@ This repository offers a curated collection of research and development resource
 | [WireGuard VPN-nonVPN](https://zenodo.org/records/18945858) | Paired Pre-Tunnel and Encrypted-Side WireGuard Flows | 2026 | 🔵&nbsp;New |
 | [CVE5G](https://ieee-dataport.org/documents/cve5g-5g-core-network-cyberattacks-dataset) | 5G Core Network, DoS | 2026 | 🔵&nbsp;New |
 | [ECU-MALNETT](https://ro.ecu.edu.au/datasets/164) | Malware, Botnet, Ransomware, Worm | 2026 | 🔵&nbsp;New |
-| [ZLab-Traffic](https://github.com/zlabtraffic/ZLab-Traffic) | Plaintext-Ciphertext Mapping Encrypted Traffic Dataset Covering Website Fingerprinting and Webpage Fingerprinting | 2026 | 🔵&nbsp;New |
+| [ZLab-Traffic](https://github.com/zlabtraffic/ZLab-Traffic) | Plaintext-Ciphertext Mapping Encrypted WFP Dataset | 2026 | 🔵&nbsp;New |
 | [VisQUIC](https://github.com/robshahla/VisQUIC) | QUIC Traffic Captured from Different Webpages | 2025 | 🟡&nbsp;No&nbsp;updates |
 | [CipherSpectrum](https://cspectrum.web.cse.unsw.edu.au) | TLS 1.3 Web-Traffic for 40 Domains | 2025 | 🟡&nbsp;No updates |
 | [NETD](https://github.com/linwhitehat/NETD) | Dynamic Non-I.I.D. Encrypted Traffic Dataset | 2025 | 🟡&nbsp;No updates |
@@ -117,7 +117,7 @@ This repository offers a curated collection of research and development resource
 
 | Dataset| Description | Year |  Status  |
 |--------|-------------|------|----------|
-| [MobileTraffic](https://github.com/Abby-ZS/NUDT_MobileTraffic) | 300+ Mobile Apps | 2024 | 🟡&nbsp;No updates |
+| [MobileTraffic](https://github.com/Abby-ZS/NUDT_MobileTraffic) | 300+ Mobile Apps | 2024 | 🟡&nbsp;No&nbsp;updates |
 | [Network Multiflow Fingerprinting Datasets](https://github.com/shashadehuajiang/trace_classifier) | UAV, IoT Device ID, ISD, KWS, SWF | 2023 | 🟡&nbsp;No updates |
 | [Itc-Net-Blend-60](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4661706) | Android Apps in Diverse Environments | 2023 | 🟡&nbsp;No updates |
 | [AnonProxy2023](https://github.com/MrRobotsAA/AnonProxy2023-Dataset) | Anonymous, Proxy, VPN | 2023 | 🟡&nbsp;No updates |
